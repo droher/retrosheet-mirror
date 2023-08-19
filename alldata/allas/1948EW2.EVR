@@ -1,0 +1,152 @@
+id,ASE194808240
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,ASW
+info,hometeam,ASE
+info,site,NYC16
+info,date,1948/08/24
+info,number,0
+info,starttime,0:00PM
+info,daynight,night
+info,usedh,false
+info,gametype,allstar
+info,umphome,mccrf901
+info,ump1b,bluev901
+info,ump3b,suttm201
+info,scorer,"Baltimore Afro-American"
+info,translator,"Tom Thress"
+info,inputter,"Tom Thress"
+info,inputtime,2020/09/02 3:07PM
+info,howscored,park
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,134
+info,attendance,17928
+info,wp,mannm101
+info,lp,clarw103
+info,save,blacj103
+info,gwrbi,
+start,wilsa101,"Artie Wilson",0,1,6
+start,soueh101,"Herb Souell",0,2,5
+start,davip102,"Piper Davis",0,3,4
+start,broww101,"Willard Brown",0,4,8
+start,boydb102,"Bob Boyd",0,5,3
+start,gracw101,"Willie Grace",0,6,7
+start,hills101,"Sam Hill",0,7,9
+start,bassp101,"Pepper Bassett",0,8,2
+start,clarw103,"Vibert Clarke",0,9,1
+start,marql101,"Luis Marquez",1,1,8
+start,minom101,"Minnie Minoso",1,2,5
+start,lockl101,"Lester Lockett",1,3,7
+start,eastl101,"Luke Easter",1,4,9
+start,crowg101,"George Crowe",1,5,3
+start,gillj102,"Jim Gilliam",1,6,4
+start,austf101,"Frank Austin",1,7,6
+start,cashb101,"Bill Cash",1,8,2
+start,mannm101,"Max Manning",1,9,1
+play,1,0,wilsa101,??,,K
+play,1,0,soueh101,??,,43
+play,1,0,davip102,??,,43
+play,1,1,marql101,??,,13
+play,1,1,minom101,??,,W
+play,1,1,lockl101,??,,64(1)3/GDP
+play,2,0,broww101,??,,2
+play,2,0,boydb102,??,,63
+play,2,0,gracw101,??,,7
+play,2,1,eastl101,??,,K/C
+play,2,1,crowg101,??,,9
+play,2,1,gillj102,??,,9
+play,3,0,hills101,??,,W
+play,3,0,bassp101,??,,K+SB2
+play,3,0,clarw103,??,,99/G.2-3
+play,3,0,wilsa101,??,,S8.3-H
+play,3,0,soueh101,??,,CS2(99)
+play,3,1,austf101,??,,S8
+play,3,1,cashb101,??,,99(1)/FO
+play,3,1,mannm101,??,,NP
+sub,barkm101,"Marvin Barker",1,9,11
+play,3,1,barkm101,??,,9/F9D
+play,3,1,marql101,??,,HR/9.1-H
+play,3,1,minom101,??,,D9
+play,3,1,lockl101,??,,S7.2-H;B-2(E7)
+play,3,1,eastl101,??,,99/G
+play,4,0,soueh101,??,,NP
+sub,barnd101,"Dave Barnhill",1,9,1
+play,4,0,soueh101,??,,99/P
+play,4,0,davip102,??,,8
+play,4,0,broww101,??,,8
+play,4,1,crowg101,??,,NP
+sub,cohej101,"Jim Cohen",0,9,1
+play,4,1,crowg101,??,,S9
+play,4,1,gillj102,??,,5
+play,4,1,austf101,??,,E5/TH.1-2
+play,4,1,cashb101,??,,S9.2-3;1-2
+play,4,1,barnd101,??,,46(1)/FO.3-H(UR);2-3
+play,4,1,marql101,??,,63
+play,5,0,boydb102,??,,99/G
+play,5,0,gracw101,??,,7/F7D
+play,5,0,hills101,??,,K/C
+play,5,1,minom101,??,,D8
+play,5,1,lockl101,??,,4/L/DP.2X2(46)
+play,5,1,eastl101,??,,43
+play,6,0,bassp101,??,,43
+play,6,0,cohej101,??,,NP
+sub,colaj101,"Jose Colas",0,9,11
+play,6,0,colaj101,??,,S7
+play,6,0,wilsa101,??,,S1.1-2
+play,6,0,soueh101,??,,4(1)3/GDP
+play,6,1,crowg101,??,,NP
+sub,vargr101,"Roberto Vargas",0,9,1
+play,6,1,crowg101,??,,8
+play,6,1,gillj102,??,,W
+play,6,1,austf101,??,,99/F
+play,6,1,cashb101,??,,PB.1-2
+play,6,1,cashb101,??,,53
+play,7,0,davip102,??,,NP
+sub,blacj103,"Joe Black",1,9,1
+play,7,0,davip102,??,,NP
+sub,loudl101,"Lou Louden",1,8,2
+play,7,0,davip102,??,,6/L
+play,7,0,broww101,??,,43
+play,7,0,boydb102,??,,8/F8D
+play,7,1,blacj103,??,,5/L
+play,7,1,marql101,??,,1/P
+play,7,1,minom101,??,,W
+play,7,1,lockl101,??,,CS2(99)
+play,8,0,gracw101,??,,S8
+play,8,0,hills101,??,,7
+play,8,0,bassp101,??,,NP
+sub,trouq101,"Quincy Trouppe",0,8,11
+play,8,0,trouq101,??,,5
+play,8,0,vargr101,??,,NP
+sub,kelll101,"Leon Kellman",0,9,11
+play,8,0,kelll101,??,,99/G
+play,8,1,lockl101,??,,NP
+sub,trouq101,"Quincy Trouppe",0,8,2
+play,8,1,lockl101,??,,NP
+sub,kelll101,"Leon Kellman",0,9,5
+play,8,1,lockl101,??,,NP
+sub,lamaj102,"Jim LaMarque",0,2,1
+play,8,1,lockl101,??,,8
+play,8,1,eastl101,??,,5
+play,8,1,crowg101,??,,S8
+play,8,1,gillj102,??,,S7.1-3;B-2(TH)
+play,8,1,austf101,??,,IW
+play,8,1,loudl101,??,,E5/TH.3-H(NR)(UR);2-H(NR)(UR);1-3;B-2
+play,8,1,blacj103,??,,IW
+play,8,1,marql101,??,,99/G
+play,9,0,wilsa101,??,,S7
+play,9,0,lamaj102,??,,4(1)3/GDP
+play,9,0,davip102,??,,53
+data,er,clarw103,3
+data,er,cohej101,0
+data,er,vargr101,0
+data,er,lamaj102,0
+data,er,mannm101,1
+data,er,barnd101,0
+data,er,blacj103,0
