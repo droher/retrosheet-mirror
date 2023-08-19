@@ -1,0 +1,171 @@
+id,ALS196107310
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NLS
+info,hometeam,ALS
+info,date,1961/07/31
+info,site,BOS07
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,allstar
+info,umphome,nappl901
+info,ump1b,secof101
+info,ump2b,flahr901
+info,ump3b,sudoe901
+info,umplf,smita901
+info,umprf,pelec901
+info,scorer,"TSN Guide"
+info,translator,"DWV"
+info,inputter,"DWV"
+info,inputtime,1996/10/21 6:38PM
+info,howscored,park
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,147
+info,attendance,31851
+info,wp,
+info,lp,
+info,save,
+info,gwrbi,
+start,willm102,"Maury Wills",0,1,6
+start,mathe101,"Eddie Mathews",0,2,5
+start,maysw101,"Willie Mays",0,3,8
+start,cepeo101,"Orlando Cepeda",0,4,7
+start,clemr101,"Roberto Clemente",0,5,9
+start,whitb105,"Bill White",0,6,3
+start,bollf101,"Frank Bolling",0,7,4
+start,burgs101,"Smoky Burgess",0,8,2
+start,purkb101,"Bob Purkey",0,9,1
+start,cashn101,"Norm Cash",1,1,3
+start,colar101,"Rocky Colavito",1,2,7
+start,kalia101,"Al Kaline",1,3,9
+start,mantm101,"Mickey Mantle",1,4,8
+start,romaj101,"John Romano",1,5,2
+start,aparl101,"Luis Aparicio",1,6,6
+start,tempj101,"Johnny Temple",1,7,4
+start,robib104,"Brooks Robinson",1,8,5
+start,bunnj101,"Jim Bunning",1,9,1
+com,"$Managers: Danny Murtaugh (NL Pittsburgh), Paul Richards (AL Baltimore);"
+com,"first tie in history"
+play,1,0,willm102,??,,3/L
+play,1,0,mathe101,??,,4/P3DF
+play,1,0,maysw101,??,,53
+play,1,1,cashn101,??,,K/C
+play,1,1,colar101,??,,HR/7
+play,1,1,kalia101,??,,13
+play,1,1,mantm101,??,,8
+play,2,0,cepeo101,??,,6/L
+play,2,0,clemr101,??,,8
+play,2,0,whitb105,??,,43
+play,2,1,romaj101,??,,4
+play,2,1,aparl101,??,,W
+play,2,1,tempj101,??,,PB.1-2
+play,2,1,tempj101,??,,W
+play,2,1,robib104,??,,K
+play,2,1,bunnj101,??,,3
+play,3,0,bollf101,??,,53
+play,3,0,burgs101,??,,K
+play,3,0,purkb101,??,,NP
+sub,stuad101,"Dick Stuart",0,9,11
+play,3,0,stuad101,??,,63
+play,3,1,cashn101,??,,NP
+sub,mahaa102,"Art Mahaffey",0,9,1
+play,3,1,cashn101,??,,3/FL
+play,3,1,colar101,??,,6/P7S
+play,3,1,kalia101,??,,63
+play,4,0,willm102,??,,NP
+sub,schwd101,"Don Schwall",1,9,1
+play,4,0,willm102,??,,S8
+play,4,0,mathe101,??,,7
+play,4,0,maysw101,??,,S7.1-2
+play,4,0,cepeo101,??,,4
+play,4,0,clemr101,??,,63
+com,"$mild protest because Norm Cash appeared to juggle throw in dirt"
+play,4,1,mantm101,??,,NP
+sub,rosej101,"John Roseboro",0,8,2
+play,4,1,mantm101,??,,NP
+sub,kaske101,"Eddie Kasko",0,5,6
+play,4,1,mantm101,??,,NP
+sub,aaroh101,"Hank Aaron",0,1,9
+play,4,1,mantm101,??,,W
+play,4,1,romaj101,??,,NP
+sub,marir101,"Roger Maris",1,5,11
+play,4,1,marir101,??,,4
+play,4,1,aparl101,??,,E4/G.1-2
+play,4,1,tempj101,??,,46(1)3/GDP
+play,5,0,whitb105,??,,NP
+sub,howae101,"Elston Howard",1,5,2
+play,5,0,whitb105,??,,D8
+play,5,0,bollf101,??,,43.2-3
+play,5,0,rosej101,??,,K
+play,5,0,mahaa102,??,,NP
+sub,musis101,"Stan Musial",0,9,11
+play,5,0,musis101,??,,K
+play,5,1,robib104,??,,NP
+sub,koufs101,"Sandy Koufax",0,9,1
+play,5,1,robib104,??,,S7
+play,5,1,schwd101,??,,36(1)4/GDP/BG
+play,5,1,cashn101,??,,63
+play,6,0,aaroh101,??,,63
+play,6,0,mathe101,30,,W
+play,6,0,maysw101,??,,9/F9S
+play,6,0,cepeo101,02,,HP.1-2
+play,6,0,kaske101,02,,S6/G.2-3;1-2
+play,6,0,whitb105,??,,S6/G1.3-H;2-3;1-2
+play,6,0,bollf101,??,,7
+play,6,1,colar101,??,,9
+play,6,1,kalia101,??,,S4/G4M
+play,6,1,mantm101,??,,K
+play,6,1,howae101,??,,53
+com,"$the lights turned on"
+play,7,0,rosej101,??,,NP
+sub,pascc102,"Camilo Pascual",1,9,1
+play,7,0,rosej101,??,,K/C
+play,7,0,koufs101,??,,NP
+sub,altmg101,"George Altman",0,9,11
+play,7,0,altmg101,??,,8/F8XD
+play,7,0,aaroh101,??,,7/L
+play,7,1,aparl101,??,,NP
+sub,altmg101,"George Altman",0,9,9
+play,7,1,aparl101,??,,NP
+sub,mills101,"Stu Miller",0,1,1
+play,7,1,aparl101,??,,K
+play,7,1,tempj101,??,,K
+play,7,1,robib104,??,,63
+play,8,0,mathe101,??,,K/C
+play,8,0,maysw101,??,,W
+play,8,0,cepeo101,??,,43.1-2
+play,8,0,kaske101,??,,NP
+sub,banke101,"Ernie Banks",0,5,11
+play,8,0,banke101,??,,K
+play,8,1,pascc102,??,,NP
+sub,banke101,"Ernie Banks",0,5,6
+play,8,1,pascc102,??,,3/FL
+play,8,1,cashn101,??,,43
+com,"rain starts"
+play,8,1,colar101,??,,53
+play,9,0,whitb105,??,,3/G
+play,9,0,bollf101,??,,53
+play,9,0,rosej101,??,,K/C
+play,9,1,kalia101,??,,S/89
+play,9,1,mantm101,??,,K
+play,9,1,howae101,??,,SB2
+play,9,1,howae101,??,,K
+play,9,1,aparl101,??,,NP
+sub,sievr101,"Roy Sievers",1,6,11
+play,9,1,sievr101,??,,K
+com,"30 minute rain delay and then game called"
+data,er,purkb101,1
+data,er,mahaa102,0
+data,er,koufs101,0
+data,er,mills101,0
+data,er,bunnj101,0
+data,er,schwd101,1
+data,er,pascc102,0

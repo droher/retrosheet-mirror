@@ -1,0 +1,132 @@
+id,SAS193810020
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,NAS
+info,hometeam,SAS
+info,site,MEM02
+info,date,1938/10/02
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,gametype,allstar
+info,scorer,"Chicago Defender"
+info,translator,"Tom Thress"
+info,inputter,"Tom Thress"
+info,inputtime,2021/03/25 10:01PM
+info,howscored,unknown
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,0
+info,attendance,0
+info,wp,jeffw101
+info,lp,byrdb101
+info,save,
+info,gwrbi,
+start,wrigb104,"Wild Bill Wright",0,1,8
+start,willc106,"Chester Williams",0,2,6
+start,hughs101,"Sammy Hughes",0,3,4
+start,suttm101,"Mule Suttles",0,4,3
+start,hoskb101,"Bill Hoskins",0,5,9
+start,snowf101,"Felton Snow",0,6,5
+start,summl101,"Lonnie Summers",0,7,7
+start,bassp101,"Pepper Bassett",0,8,2
+start,byrdb101,"Bill Byrd",0,9,1
+start,hydec101,"Cowan Hyde",1,1,7
+start,cartm101,"Marlin Carter",1,2,5
+start,robin101,"Neil Robinson",1,3,4
+start,rogen101,"Nat Rogers",1,4,9
+start,currg102,"Goose Curry",1,5,8
+start,walkh103,"Hoss Walker",1,6,6
+start,lyong102,"Granville Lyons",1,7,3
+start,browl107,"Larry Brown",1,8,2
+start,jeffw101,"Willie Jefferson",1,9,1
+play,1,0,wrigb104,??,,99
+play,1,0,willc106,??,,99
+play,1,0,hughs101,??,,99
+play,1,1,hydec101,??,,E4
+play,1,1,cartm101,??,,FC3.1-3
+play,1,1,robin101,??,,SB2.3-H(E2/TH)(NR)(UR);1-3
+play,1,1,robin101,??,,99
+play,1,1,rogen101,??,,99
+play,1,1,currg102,??,,99
+play,2,0,suttm101,??,,S
+play,2,0,hoskb101,??,,S.1-2#
+play,2,0,snowf101,??,,K
+play,2,0,summl101,??,,K
+play,2,0,bassp101,??,,K
+play,2,1,walkh103,??,,99
+play,2,1,lyong102,??,,99
+play,2,1,browl107,??,,S
+play,2,1,jeffw101,??,,99
+play,3,0,byrdb101,??,,99
+play,3,0,wrigb104,??,,S
+play,3,0,willc106,??,,99
+play,3,0,hughs101,??,,99
+play,3,1,hydec101,??,,99
+play,3,1,cartm101,??,,99
+play,3,1,robin101,??,,S
+play,3,1,rogen101,??,,S.1-2#
+play,3,1,currg102,??,,NP
+sub,porta103,"Andy Porter",0,9,1
+play,3,1,currg102,??,,99
+play,4,0,suttm101,??,,99
+play,4,0,hoskb101,??,,99
+play,4,0,snowf101,??,,99
+play,4,1,walkh103,??,,E1#
+play,4,1,lyong102,??,,99
+play,4,1,browl107,??,,99
+play,4,1,jeffw101,??,,99
+play,5,0,summl101,??,,99
+play,5,0,bassp101,??,,99
+play,5,0,porta103,??,,99
+play,5,1,hydec101,??,,99
+play,5,1,cartm101,??,,99
+play,5,1,robin101,??,,S
+play,5,1,rogen101,??,,99
+play,6,0,wrigb104,??,,E4/TH
+play,6,0,willc106,??,,99/SH.1-2
+play,6,0,hughs101,??,,7
+play,6,0,suttm101,??,,T.2-H(UR)
+play,6,0,hoskb101,??,,99
+play,6,1,currg102,??,,W
+play,6,1,walkh103,??,,99/SH.1-2
+play,6,1,lyong102,??,,PO2(99)#
+play,6,1,lyong102,??,,99
+play,7,0,snowf101,??,,S
+play,7,0,summl101,??,,99/SH.1-2
+play,7,0,bassp101,??,,99
+play,7,0,porta103,??,,NP
+sub,mackb102,"Biz Mackey",0,9,11
+play,7,0,mackb102,??,,2/FL
+play,7,1,browl107,??,,NP
+sub,cainm101,"Marion Cain",0,9,1
+play,7,1,browl107,??,,W
+play,7,1,jeffw101,??,,E4/TH.1-2
+play,7,1,hydec101,??,,S4.2-3;1-2
+play,7,1,cartm101,??,,K
+play,7,1,robin101,??,,W.3-H;2-3;1-2
+play,7,1,rogen101,??,,S6.3-H(UR);2-3;1-2
+play,7,1,currg102,??,,5/FL
+play,7,1,walkh103,??,,64(1)/FO
+play,8,0,wrigb104,??,,W
+play,8,0,willc106,??,,S.1-2#
+play,8,0,hughs101,??,,99
+play,8,0,suttm101,??,,99
+play,8,0,hoskb101,??,,99
+play,8,1,lyong102,??,,99
+play,8,1,browl107,??,,W
+play,8,1,jeffw101,??,,64(1)3/GDP
+play,9,0,snowf101,??,,99
+play,9,0,summl101,??,,S
+play,9,0,bassp101,??,,99
+play,9,0,cainm101,??,,99
+data,er,byrdb101,0
+data,er,porta103,0
+data,er,cainm101,1
+data,er,jeffw101,0
