@@ -741,7 +741,7 @@ play,2,1,walkt101,??,,S.2-H;3-H
 play,2,1,gardl101,??,,NP
 sub,coumf101,"Fritz Coumbe",0,9,1
 play,2,1,gardl101,??,,46(1)/FO
-presadj,coumf101,3
+presadj,coumf101,1
 play,2,1,scote101,??,,T.1-H
 play,2,1,thomp101,??,,NP
 sub,walsj108,"Jimmy Walsh",1,8,11
