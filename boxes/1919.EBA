@@ -8094,7 +8094,7 @@ stat,dline,gandc101,1,1,3,27,7,0,0,0,0,0
 stat,dline,risbs101,1,1,6,27,3,5,0,0,1,0
 stat,dline,schar103,1,1,2,27,3,1,0,0,0,0
 stat,dline,lowdg101,1,1,1,21,0,2,0,0,0,0
-stat,dline,kerrd101,1,1,1,3,0,0,0,0,0,0
+stat,dline,kerrd101,1,1,1,3,0,1,0,0,1,0
 stat,dline,danfd101,1,1,1,3,0,0,0,0,0,0
 stat,phline,leonj101,6,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 stat,phline,thomh104,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -14050,10 +14050,6 @@ info,umphome,morig101
 info,ump1b,hildg101
 info,ump2b,(none)
 info,ump3b,(none)
-info,umphome,morig101
-info,ump1b,hildg101
-info,ump2b,(none)
-info,ump3b,(none)
 info,temp,0
 info,winddir,unknown
 info,windspeed,-1
@@ -14838,6 +14834,10 @@ info,number,0
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
+info,umphome,dinnb101
+info,ump1b,owenb901
+info,ump2b,(none)
+info,ump3b,(none)
 info,temp,0
 info,winddir,unknown
 info,windspeed,-1
@@ -28595,7 +28595,7 @@ stat,dline,russa101,1,1,1,14,0,0,0,0,0,0
 stat,dline,mogrg101,1,1,1,5,0,0,0,0,0,0
 stat,dline,quinj102,1,1,1,2,0,0,0,0,0,0
 stat,phline,shorc101,7,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-stat,phline,cunng101,9,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+stat,phline,cunng101,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 stat,phline,wicka101,9,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 event,csline,1,bodip101,daush101,stano101,3
 event,csline,1,vicks101,daush101,stano101,4
@@ -46968,9 +46968,9 @@ start,tobij101,"Jack Tobin",1,6,7
 start,gerbw101,"Wally Gerber",1,7,6
 start,seveh101,"Hank Severeid",1,8,2
 start,leifl101,"Lefty Leifield",1,9,1
-stat,bline,hooph101,0,1,1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+stat,bline,hooph101,0,1,1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
 stat,bline,vitto101,0,2,1,2,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
-stat,bline,rothb102,0,3,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0
+stat,bline,rothb102,0,3,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
 stat,bline,ruthb101,0,4,1,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
 stat,bline,mcins101,0,5,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 stat,bline,shanr101,0,6,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -47011,7 +47011,7 @@ stat,dline,gerbw101,1,1,6,27,3,4,0,1,0,0
 stat,dline,seveh101,1,1,2,27,2,1,0,0,0,0
 stat,dline,leifl101,1,1,1,27,0,3,0,0,0,0
 stat,phline,gaind101,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-event,csline,0,rothb102,leifl101,seveh101,1
+event,csline,0,hooph101,leifl101,seveh101,1
 event,dpline,1,gerbw101,gedej101
 event,hrline,1,jacow101,hoytw101,6,0,0
 event,sbline,1,austj101,hoytw101,waltr102,7

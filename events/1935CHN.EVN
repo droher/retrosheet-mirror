@@ -4178,6 +4178,152 @@ data,er,macfd101,6
 data,er,browb106,0
 data,er,hensr101,1
 data,er,rootc101,1
+id,CHN193507140
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,BSN
+info,hometeam,CHN
+info,date,1935/07/14
+info,site,CHI11
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,scorer,"71,163,274,111,611"
+info,translator,"Jim Wohlenhaus/RWood"
+info,inputter,"David W. Smith/RWood"
+info,inputtime,2019/01/17 4:17PM
+info,umphome,stard901
+info,ump1b,barrg901
+info,ump2b,(none)
+info,ump3b,riglc901
+info,howscored,park
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,109
+info,attendance,7700
+info,wp,carlt101
+info,lp,brane101
+info,save,
+info,gwrbi,
+start,coscj101,"Joe Coscarart",0,1,5
+start,jordb101,"Buck Jordan",0,2,3
+start,lee-h101,"Hal Lee",0,3,7
+start,bergw101,"Wally Berger",0,4,8
+start,moorr103,"Randy Moore",0,5,9
+start,whitp103,"Pinky Whitney",0,6,4
+start,urbab101,"Billy Urbanski",0,7,6
+start,spoha101,"Al Spohrer",0,8,2
+start,betth101,"Huck Betts",0,9,1
+start,galaa101,"Augie Galan",1,1,7
+start,hermb101,"Billy Herman",1,2,4
+start,cavap101,"Phil Cavarretta",1,3,3
+start,hartg103,"Gabby Hartnett",1,4,2
+start,demaf102,"Frank Demaree",1,5,8
+start,kleic101,"Chuck Klein",1,6,9
+start,hacks101,"Stan Hack",1,7,5
+start,jurgb101,"Billy Jurges",1,8,6
+start,warnl101,"Lon Warneke",1,9,1
+play,1,0,coscj101,??,,K
+play,1,0,jordb101,??,,E6/G
+play,1,0,lee-h101,??,,4(B)3(1)/LDP
+play,1,1,galaa101,??,,63
+play,1,1,hermb101,??,,63
+play,1,1,cavap101,??,,3/G
+play,2,0,bergw101,??,,S
+play,2,0,moorr103,??,,4/P
+play,2,0,whitp103,??,,64(1)/FO
+play,2,0,urbab101,??,,63
+play,2,1,hartg103,??,,99/F
+play,2,1,demaf102,??,,W
+play,2,1,kleic101,??,,99/F
+play,2,1,hacks101,??,,99/F
+play,3,0,spoha101,??,,S
+play,3,0,betth101,??,,99(1)/FO
+play,3,0,coscj101,??,,99(1)/FO
+play,3,0,jordb101,??,,CS2(26)
+play,3,1,jurgb101,??,,99/F
+play,3,1,warnl101,??,,99/F
+play,3,1,galaa101,??,,K
+play,4,0,jordb101,??,,99/G
+play,4,0,lee-h101,??,,99/G
+play,4,0,bergw101,??,,99/F
+play,4,1,hermb101,??,,99/G
+play,4,1,cavap101,??,,E3.B-2
+play,4,1,hartg103,??,,6/P
+play,4,1,demaf102,??,,S8/L.2-H(UR)
+play,4,1,kleic101,??,,HR/9.1-H(UR);B-H(UR)
+play,4,1,hacks101,??,,E4/G
+play,4,1,jurgb101,??,,CS2(24)
+play,5,0,moorr103,??,,S
+play,5,0,whitp103,??,,54(1)3/GDP
+play,5,0,urbab101,??,,99
+play,5,1,jurgb101,??,,99/G
+play,5,1,warnl101,??,,99/F
+play,5,1,galaa101,??,,99/F
+play,6,0,spoha101,??,,S7/G
+play,6,0,betth101,??,,S8/L.1-2
+play,6,0,coscj101,??,,9/FL
+play,6,0,jordb101,??,,D9/L.2-H;1-3
+play,6,0,lee-h101,??,,43.3-H;2-3
+play,6,0,bergw101,??,,S5.3-H
+play,6,0,moorr103,??,,S8/L.1-3
+play,6,0,whitp103,??,,NP
+sub,carlt101,"Tex Carleton",1,9,1
+play,6,0,whitp103,??,,99(1)/FO
+play,6,1,hermb101,??,,D9/L
+play,6,1,cavap101,??,,T8/L89.2-H
+play,6,1,hartg103,??,,4/P
+play,6,1,demaf102,??,,S7/L.3-H
+play,6,1,kleic101,??,,K
+play,6,1,hacks101,??,,8
+play,7,0,urbab101,??,,E6/TH
+play,7,0,spoha101,??,,S5.1-2
+play,7,0,betth101,??,,NP
+sub,thomt105,"Tommy Thompson",0,9,11
+play,7,0,thomt105,??,,31.2-3;1-2
+play,7,0,coscj101,??,,S8/L.3-H(UR);2-H
+play,7,0,jordb101,??,,64(1)3/GDP
+play,7,1,jurgb101,??,,NP
+sub,brane101,"Ed Brandt",0,9,1
+play,7,1,jurgb101,??,,99/F
+play,7,1,carlt101,??,,99/F
+play,7,1,galaa101,??,,99/F
+play,8,0,lee-h101,??,,99/F
+play,8,0,bergw101,??,,S
+play,8,0,moorr103,??,,3/G.1-2
+play,8,0,whitp103,??,,HR/78.2-H
+play,8,0,urbab101,??,,K
+play,8,1,hermb101,??,,S8/L
+play,8,1,cavap101,??,,6/P
+play,8,1,hartg103,??,,D7/L.1-3
+play,8,1,demaf102,??,,NP
+sub,odeak101,"Ken O'Dea",1,4,12
+play,8,1,demaf102,??,,D7/L.3-H;2-H
+play,8,1,kleic101,??,,NP
+sub,stait101,"Tuck Stainback",1,6,11
+play,8,1,stait101,??,,S.2-H
+play,8,1,hacks101,??,,54(1)/FO
+play,8,1,jurgb101,??,,7
+play,9,0,spoha101,??,,NP
+sub,odeak101,"Ken O'Dea",1,4,2
+play,9,0,spoha101,??,,NP
+sub,stait101,"Tuck Stainback",1,6,9
+play,9,0,spoha101,??,,S
+play,9,0,brane101,??,,NP
+sub,mowrj101,"Joe Mowry",0,9,11
+play,9,0,mowrj101,??,,16(1)3/GDP
+play,9,0,coscj101,??,,E5/G
+play,9,0,jordb101,??,,63
+data,er,betth101,2
+data,er,brane101,3
+data,er,warnl101,3
+data,er,carlt101,3
 id,CHN193507150
 version,1
 info,inputprogvers,"version 7RS(19) of 07/07/92"

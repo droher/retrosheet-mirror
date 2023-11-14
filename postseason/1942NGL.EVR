@@ -48,7 +48,7 @@ start,wilsj106,"Jud Wilson",1,6,5
 start,harrv102,"Vic Harris",1,7,7
 start,carlm101,"Matt Carlisle",1,8,4
 start,welmr101,"Roy Welmaker",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,simmw101,??,,99
 play,1,0,allen102,??,,99
 play,1,0,strot101,??,,99
@@ -181,7 +181,7 @@ start,banks101,"Sam Bankhead",1,6,6
 start,browr103,"Ray Brown",1,7,9
 start,willc106,"Chester Williams",1,8,4
 start,partr102,"Roy Partlow",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,simmw101,??,,99
 play,1,0,allen102,??,,99
 play,1,0,strot101,??,,D8.B-3(E8)#
@@ -344,7 +344,7 @@ start,wilsj106,"Jud Wilson",1,6,5
 start,willc106,"Chester Williams",1,7,6
 start,carlm101,"Matt Carlisle",1,8,4
 start,browr103,"Ray Brown",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,simmw101,??,,99
 play,1,0,soueh101,??,,99
 play,1,0,strot101,??,,99
@@ -497,10 +497,7 @@ start,serrb101,"Bonnie Serrell",1,6,4
 start,willj111,"Jesse Williams",1,7,6
 start,duncf102,"Frank Duncan",1,8,2
 start,paigs101,"Satchel Paige",1,9,1
-com,"Kansas City protested Homestead's use of Clarkson, from the"
-com,"Philadelphia Stars; and Stone, Pearson, and Day, all from"
-com,"the Newark Eagles. The protest was upheld and this game did not count."
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,benjj101,??,,99
 play,1,0,stone101,??,,S#
 play,1,0,easth104,??,,99
@@ -571,6 +568,9 @@ play,9,1,simmw101,??,,W#
 play,9,1,soueh101,??,,99
 play,9,1,strot101,??,,99
 play,9,1,broww101,??,,99
+com,"$Kansas City protested Homestead's use of Clarkson, from the"
+com,"Philadelphia Stars; and Stone, Pearson, and Day, all from"
+com,"the Newark Eagles. The protest was upheld and this game did not count."
 data,er,day-l101,1
 data,er,paigs101,3
 id,HOM194209290

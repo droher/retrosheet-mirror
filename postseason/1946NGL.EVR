@@ -49,7 +49,7 @@ start,davij106,"Johnny Davis",1,6,7
 start,harvb102,"Bob Harvey",1,7,9
 start,ruffl101,"Leon Ruffin",1,8,2
 start,day-l101,"Leon Day",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,thomh103,??,,S9.B-3(E9)
 play,1,0,soueh101,??,,S9.3-H
 play,1,0,strot101,??,,S.1-2#
@@ -202,7 +202,7 @@ start,davij106,"Johnny Davis",1,6,7
 start,harvb102,"Bob Harvey",1,7,9
 start,ruffl101,"Leon Ruffin",1,8,2
 start,mannm101,"Max Manning",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,thomh103,??,,99
 play,1,0,soueh101,??,,W#
 play,1,0,strot101,??,,99
@@ -341,7 +341,7 @@ start,oneib801,"Buck O'Neil",1,6,3
 start,scotj106,"Johnie Scott",1,7,7
 start,taboe101,"Earl Taborn",1,8,2
 start,lamaj102,"Jim LaMarque",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,wilkj101,??,,99
 play,1,0,pattp102,??,,99
 play,1,0,dobyl101,??,,99
@@ -499,7 +499,7 @@ start,oneib801,"Buck O'Neil",1,6,3
 start,scotj106,"Johnie Scott",1,7,7
 start,taboe101,"Earl Taborn",1,8,2
 start,alext101,"Ted Alexander",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,wilkj101,??,,S#
 play,1,0,pattp102,??,,46(1)3/GDP#
 play,1,0,dobyl101,??,,W
@@ -628,7 +628,7 @@ start,scotj106,"Johnie Scott",1,6,7
 start,smitf107,"Ford Smith",1,7,9
 start,taboe101,"Earl Taborn",1,8,2
 start,smith111,"Hilton Smith",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,wilkj101,??,,S#
 play,1,0,isrec101,??,,99/SH.1-2#
 play,1,0,dobyl101,??,,W#
@@ -754,7 +754,7 @@ start,davij106,"Johnny Davis",1,6,7
 start,harvb102,"Bob Harvey",1,7,9
 start,ruffl101,"Leon Ruffin",1,8,2
 start,day-l101,"Leon Day",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,renfc101,??,,S#
 play,1,0,soueh101,??,,E8.1-2#
 play,1,0,thomh103,??,,S.2-H;1-2#
@@ -905,7 +905,7 @@ start,davij106,"Johnny Davis",1,6,7
 start,harvb102,"Bob Harvey",1,7,9
 start,ruffl101,"Leon Ruffin",1,8,2
 start,lewir101,"Rufus Lewis",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,renfc101,??,,E4#
 play,1,0,soueh101,??,,99/SH.1-2#
 play,1,0,thomh103,??,,W#

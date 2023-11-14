@@ -1049,8 +1049,8 @@ play,7,0,boect101,??,,99
 play,7,1,withf101,??,,E4#
 play,7,1,smitg104,??,,99.1-2#
 play,7,1,paulg102,??,,S.2-H(UR)
-play,7,1,rawlj101,??,,D.1-3#
-play,7,1,willc103,??,,W.3-H(UR);2-3#
+play,7,1,rawlj101,??,,D.1-H;B-3(TH)#
+play,7,1,willc103,??,,W#
 play,7,1,meusi101,??,,SB2#
 play,7,1,meusi101,??,,99
 play,7,1,milld102,??,,99
@@ -1088,7 +1088,7 @@ play,9,0,fordh101,??,,NP
 sub,hubbb101,"Bill Hubbell",1,9,1
 play,9,0,fordh101,??,,99
 data,er,towni101,1
-data,er,rudod101,2
+data,er,rudod101,3
 data,er,scotj101,3
 data,er,causr101,4
 data,er,smitg104,6

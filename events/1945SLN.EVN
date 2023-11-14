@@ -7602,7 +7602,7 @@ start,lupit101,"Tony Lupien",0,3,3
 start,tripc101,"Coaker Triplett",0,4,7
 start,semia101,"Andy Seminick",0,5,2
 start,powej106,"Jake Powell",0,6,9
-start,antoj101,"John Antonelli",0,7,5
+start,antoj101,"Johnny Antonelli",0,7,5
 start,mottb101,"Bitsy Mott",0,8,6
 start,maund101,"Dick Mauney",0,9,1
 start,schor101,"Red Schoendienst",1,1,7
@@ -7709,7 +7709,7 @@ play,9,0,lupit101,??,,CS2(26)
 play,9,1,barrr101,??,,NP
 sub,piccn101,"N Picciuto",0,1,5
 play,9,1,barrr101,??,,NP
-sub,antoj101,"J Antonelli",0,7,4
+sub,antoj101,"Johnny Antonelli",0,7,4
 play,9,1,barrr101,??,,NP
 sub,schac101,"Charley Schanz",0,9,1
 play,9,1,barrr101,??,,NP
@@ -7763,7 +7763,7 @@ start,lupit101,"Tony Lupien",0,3,3
 start,tripc101,"Coaker Triplett",0,4,7
 start,spinh101,"Hal Spindel",0,5,2
 start,powej106,"Jake Powell",0,6,9
-start,antoj101,"John Antonelli",0,7,5
+start,antoj101,"Johnny Antonelli",0,7,5
 start,mottb101,"Bitsy Mott",0,8,6
 start,sproc101,"Charlie Sproull",0,9,1
 start,berga102,"Augie Bergamo",1,1,9
@@ -7840,7 +7840,7 @@ play,6,0,mottb101,??,,NP
 sub,montr101,"Rene Monteagudo",0,8,11
 play,6,0,montr101,??,,6
 play,6,1,gardg101,??,,NP
-sub,antoj101,"J Antonelli",0,7,6
+sub,antoj101,"Johnny Antonelli",0,7,6
 play,6,1,gardg101,??,,NP
 sub,piccn101,"N Piccuilo",0,8,5
 play,6,1,gardg101,??,,7

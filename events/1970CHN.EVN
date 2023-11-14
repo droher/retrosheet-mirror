@@ -5267,7 +5267,7 @@ info,umphome,olsea901
 info,ump1b,burkk101
 info,ump2b,sudoe901
 info,ump3b,weyel901
-info,scorer,"Mets,Cubs"
+info,scorer,"Mets/Cubs"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/03/22 9:17AM
@@ -5461,7 +5461,7 @@ info,umphome,burkk101
 info,ump1b,sudoe901
 info,ump2b,weyel901
 info,ump3b,olsea901
-info,scorer,"Mets,Cubs"
+info,scorer,"Mets/Cubs"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/05/09 5:01PM
@@ -11410,7 +11410,7 @@ info,umphome,venzt901
 info,ump1b,secof101
 info,ump2b,willb901
 info,ump3b,dezef901
-info,scorer,"Mets,Cubs"
+info,scorer,"Mets/Cubs"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/07/24 11:02PM

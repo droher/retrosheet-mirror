@@ -8632,6 +8632,7 @@ play,5,1,bushd102,??,,S18/L
 play,5,1,cobbt101,??,,W.1-2
 play,5,1,veacb101,??,,NP
 sub,courh101,"Harry Courtney",0,9,1
+presadj,courh101,2
 play,5,1,veacb101,??,,99/SH.2-3;1-2
 play,5,1,shorc101,??,,NP
 sub,hales101,"Sammy Hale",1,5,11
@@ -8677,8 +8678,8 @@ play,9,0,gharp101,??,,S
 play,9,0,courh101,??,,NP
 sub,rothb102,"Braggo Roth",0,9,11
 play,9,0,rothb102,??,,99
-data,er,bonog101,5
-data,er,courh101,2
+data,er,bonog101,4
+data,er,courh101,3
 data,er,ehmkh101,4
 id,DET192009192
 version,1

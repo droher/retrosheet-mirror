@@ -602,7 +602,7 @@ play,5,0,fox-p102,??,,S
 play,5,0,gehrc101,??,,D.1-3
 play,5,0,greeh102,??,,8.3-H
 play,5,0,simma101,??,,K
-play,5,0,goslg101,??,,99
+play,5,0,goslg101,??,,9/F
 play,5,1,hemsr101,??,,W
 play,5,1,cains101,??,,99
 play,5,1,laryl101,??,,99
@@ -7004,9 +7004,9 @@ play,5,1,clifh101,??,,99
 play,6,0,ferrw101,??,,FLE5
 play,6,0,ferrw101,??,,K
 play,6,0,cookd102,??,,99
-play,6,0,cramd102,??,,HP
+play,6,0,cramd102,??,,S8
 play,6,0,manuh101,??,,S.1-2
-play,6,0,foxxj101,??,,99
+play,6,0,foxxj101,??,,7
 play,6,1,soltm101,??,,99
 play,6,1,bellb102,??,,S
 play,6,1,wests101,??,,99
@@ -7020,7 +7020,7 @@ play,7,1,giult101,??,,99
 play,7,1,thomt103,??,,99
 play,8,0,ferrw101,??,,4/P
 play,8,0,cookd102,??,,99
-play,8,0,cramd102,??,,S
+play,8,0,cramd102,??,,HP
 play,8,0,manuh101,??,,99
 play,8,1,laryl101,??,,99/G
 play,8,1,clifh101,??,,W
@@ -9697,13 +9697,13 @@ play,2,0,mihaj101,??,,FC6/DP.3XH(625);BX1(53)
 com,"$Travis out in rundown and Mihalic out when he rounded"
 com,"first too far and they threw behind him"
 play,2,1,bellb102,??,,99
-play,2,1,bottj101,??,,K
-play,2,1,wests101,??,,K
+play,2,1,bottj101,??,,99
+play,2,1,wests101,??,,99
 play,3,0,hogas101,??,,99
 play,3,0,newsb101,??,,S
 play,3,0,chapb102,??,,99
 play,3,0,lewib103,??,,K
-play,3,1,hemsr101,??,,K
+play,3,1,hemsr101,??,,99
 play,3,1,caret102,??,,W
 play,3,1,calde101,??,,PO1(23)
 play,3,1,calde101,??,,K
@@ -9736,12 +9736,12 @@ play,6,0,mihaj101,??,,99
 play,6,0,hogas101,??,,99
 play,6,0,newsb101,??,,99
 play,6,1,bellb102,??,,99
-play,6,1,bottj101,??,,99
-play,6,1,wests101,??,,99
+play,6,1,bottj101,??,,K
+play,6,1,wests101,??,,K
 play,7,0,chapb102,??,,99
 play,7,0,lewib103,??,,99
 play,7,0,kuhej101,??,,99
-play,7,1,hemsr101,??,,99
+play,7,1,hemsr101,??,,K
 play,7,1,caret102,??,,9
 play,7,1,calde101,??,,NP
 sub,colee102,"Ed Coleman",1,9,11

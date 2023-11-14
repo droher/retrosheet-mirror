@@ -4534,8 +4534,8 @@ play,16,0,lavac101,??,,43
 play,16,0,durol101,??,,43
 play,16,0,cherp101,??,,3
 play,16,1,muelh101,??,,T
-play,16,1,marth101,??,,W
-play,16,1,weinp101,??,,W.1-2
+play,16,1,marth101,??,,IW
+play,16,1,weinp101,??,,IW.1-2
 play,16,1,arnom101,??,,S.1-2;2-3;3-H
 data,er,fitzf101,2
 data,er,hamll101,1

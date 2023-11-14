@@ -5269,6 +5269,8 @@ play,8,1,kellg101,??,,NP
 sub,lefea101,"Al Lefevre",1,4,12
 play,8,1,kellg101,??,,NP
 sub,betth101,"Huck Betts",0,9,1
+presadj,betth101,2
+presadj,betth101,1
 play,8,1,kellg101,??,,99
 play,8,1,spenv101,??,,S.2-H;1-3;BX2(99)
 play,8,1,grimr104,??,,WP.3-H
@@ -5283,8 +5285,8 @@ play,9,0,willc103,??,,99
 play,9,0,stenc101,??,,99
 play,9,0,meusi101,??,,99
 data,er,causr101,3
-data,er,hubbb101,7
-data,er,betth101,0
+data,er,hubbb101,5
+data,er,betth101,2
 data,er,nehfa101,0
 data,er,perrp101,0
 id,NY1192007270

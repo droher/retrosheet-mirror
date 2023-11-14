@@ -329,6 +329,7 @@ start,russb101,"Branch Russell",1,6,9
 start,reduw101,"Wilson Redus",1,7,7
 start,watte102,"Eddie Watts",1,8,4
 start,browd105,"David Brown",1,9,1
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,johnw103,??,,W
 play,1,0,allen102,??,,99/SH.1-2
 play,1,0,mothd101,??,,E4.2-3#
@@ -458,6 +459,7 @@ start,josen101,"Newt Joseph",1,6,5
 start,sweag101,"George Sweatt",1,7,7
 start,hawkl101,"Lemuel Hawkins",1,8,3
 start,duncf102,"Frank Duncan",1,9,2
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,S
 play,1,0,wellw101,??,,S.1-2
 play,1,0,bobow101,??,,FC/SH.2-3;1-2
@@ -596,6 +598,7 @@ start,josen101,"Newt Joseph",1,6,5
 start,hawkl101,"Lemuel Hawkins",1,7,3
 start,duncf102,"Frank Duncan",1,8,2
 start,drakb101,"Bill Drake",1,9,1
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,wellw101,??,,99
 play,1,0,bobow101,??,,99
@@ -741,6 +744,7 @@ start,josen101,"Newt Joseph",1,6,5
 start,hawkl101,"Lemuel Hawkins",1,7,3
 start,duncf102,"Frank Duncan",1,8,2
 start,bellw101,"William Bell",1,9,1
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,wellw101,??,,99
 play,1,0,bobow101,??,,E3#
@@ -891,6 +895,7 @@ start,josen101,"Newt Joseph",1,6,5
 start,hawkl101,"Lemuel Hawkins",1,7,3
 start,sweag101,"George Sweatt",1,8,9
 start,duncf102,"Frank Duncan",1,9,2
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,S
 play,1,0,wellw101,??,,99/SH.1-2
 play,1,0,bobow101,??,,99

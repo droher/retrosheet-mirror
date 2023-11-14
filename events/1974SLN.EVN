@@ -1954,7 +1954,7 @@ info,umphome,craws901
 info,ump1b,kiblj901
 info,ump2b,olsea901
 info,ump3b,rennd901
-info,scorer,"Mets,Cards"
+info,scorer,"Mets/Cards"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/11/29 1:29PM
@@ -2113,7 +2113,7 @@ info,umphome,kiblj901
 info,ump1b,olsea901
 info,ump2b,rennd901
 info,ump3b,craws901
-info,scorer,"Mets,Cards"
+info,scorer,"Mets/Cards"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/11/30 11:07AM
@@ -2275,7 +2275,7 @@ info,umphome,olsea901
 info,ump1b,rennd901
 info,ump2b,craws901
 info,ump3b,kiblj901
-info,scorer,"Mets,Cards"
+info,scorer,"Mets/Cards"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/11/30 11:23AM
@@ -8775,7 +8775,7 @@ play,1,1,mcbrb101,??,,31
 play,2,0,johnj002,??,,K
 play,2,0,boonb001,??,,W
 play,2,0,huttt101,??,,E6.1-2
-play,2,0,schur101,??,,K/F
+play,2,0,schur101,??,,K/BF
 play,2,0,cashd101,??,,7
 play,2,1,simmt001,??,,S4/G
 play,2,1,torrj101,??,,S8.1X3(85);B-2(TH3)

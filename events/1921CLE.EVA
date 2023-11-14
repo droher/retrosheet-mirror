@@ -537,10 +537,10 @@ play,5,0,sislg101,??,,S7.2-H;BX2(734)
 play,5,1,woodj108,??,,S7
 play,5,1,gardl101,??,,34/SH.1-2
 play,5,1,sewej101,??,,S9.2-3
-com,"$Joe Sewell spiked during play and left game"
+com,"$Joe Sewell spiked during play;"
+com,"Jack Graney in as a courtesy runner."
 play,5,1,stepr101,??,,NP
 sub,granj104,"Jack Graney",1,6,12
-com,"$Jack Graney in as a courtesy runner"
 play,5,1,stepr101,??,,S7/COUR.3-H;1-2
 play,5,1,oneis101,??,,8
 play,5,1,uhleg101,??,,S8.2-H;1-2

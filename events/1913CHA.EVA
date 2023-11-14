@@ -4931,8 +4931,8 @@ version,1
 info,inputprogvers,"version 7RS(19) of 07/07/92"
 info,visteam,NYA
 info,hometeam,CHA
-info,site,CHI10
 info,date,1913/07/09
+info,site,CHI10
 info,number,0
 info,starttime,0:00PM
 info,daynight,day
@@ -4941,9 +4941,9 @@ info,umphome,evanb901
 info,ump1b,sherj901
 info,ump2b,(none)
 info,ump3b,(none)
-info,scorer,"277"
-info,translator,"Cliff Blau"
-info,inputter,"Cliff Blau"
+info,scorer,"277,276"
+info,translator,"Cliff Blau/WTownsend"
+info,inputter,"Cliff Blau/WTownsend"
 info,inputtime,2013/11/29 3:51PM
 info,howscored,unknown
 info,pitches,none
@@ -4983,15 +4983,15 @@ play,1,0,creeb101,??,,43
 play,1,1,bealj101,??,,43
 play,1,1,rathm101,??,,S9
 play,1,1,lordh101,??,,S7.1-2
-com,"Hit and run."
-play,1,1,chash101,??,,6(B)4(2)/LDP
+play,1,1,chash101,??,,6/LDP.2X2(64)
 play,2,0,hartr102,??,,K
 play,2,0,peckr101,??,,K
 play,2,0,knigj102,??,,2/FL
 play,2,1,colls101,??,,63
-play,2,1,bodip101,??,,S8
+play,2,1,bodip101,??,,S8/G46
 play,2,1,schar103,??,,S/78.1-3
-play,2,1,weavb101,??,,K+SB2
+play,2,1,weavb101,??,,SB2
+play,2,1,weavb101,??,,K
 play,2,1,scotj104,??,,63
 play,3,0,midke101,??,,5/FL
 play,3,0,smitj111,??,,K
@@ -5001,17 +5001,17 @@ play,3,1,rathm101,??,,31
 play,3,1,lordh101,??,,8/F
 play,4,0,danib101,??,,53
 play,4,0,wolth101,??,,K
-play,4,0,creeb101,??,,S6
+play,4,0,creeb101,??,,S5
 play,4,0,hartr102,??,,E4/G.1-2
 play,4,0,peckr101,??,,K
 play,4,1,chash101,??,,7/F
-play,4,1,colls101,??,,E5/G
+play,4,1,colls101,??,,E5/G5L
 play,4,1,bodip101,??,,WP.1-3
 play,4,1,bodip101,??,,W
-play,4,1,schar103,??,,D/78.3-H(UR);1-H
+play,4,1,schar103,??,,D/L78.3-H(UR);1-H
 play,4,1,weavb101,??,,13/SH.2-3
 play,4,1,scotj104,??,,2/FL
-play,5,0,knigj102,??,,S/5
+play,5,0,knigj102,??,,S6
 play,5,0,midke101,??,,46(1)/FO
 play,5,0,smitj111,??,,K
 play,5,0,fordr101,??,,43
@@ -5022,7 +5022,7 @@ play,5,1,lordh101,??,,W
 play,5,1,chash101,??,,CS2(24)
 play,6,0,danib101,??,,63
 play,6,0,wolth101,??,,S/78
-play,6,0,creeb101,??,,D/89.1-3
+play,6,0,creeb101,??,,D9/89.1-3
 play,6,0,hartr102,??,,6/P
 play,6,0,peckr101,??,,2/FL
 play,6,1,chash101,??,,K23
@@ -5051,7 +5051,7 @@ play,9,0,knigj102,??,,63
 play,9,0,midke101,??,,43
 play,9,0,smitj111,??,,NP
 sub,zeidr101,"Rollie Zeider",0,8,11
-play,9,0,zeidr101,??,,9/F
+play,9,0,zeidr101,??,,9/L9L
 data,er,fordr101,1
 data,er,caldr101,0
 data,er,scotj104,0

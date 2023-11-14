@@ -2956,9 +2956,9 @@ play,2,0,greeh102,??,,S7
 play,2,0,yorkr101,??,,D/78.1-3#
 play,2,0,fox-p102,??,,D9.2-H;3-H
 play,2,0,laabc101,??,,FC/SH.2-3
-play,2,0,piett101,??,,S.3-H;1-2#
-play,2,0,kennv101,??,,S8.2-H;1-2#
-play,2,0,rogeb102,??,,S8.2-H;1-2#
+play,2,0,piett101,??,,S.3-H;1-3
+play,2,0,kennv101,??,,S8.3-H;1-3
+play,2,0,rogeb102,??,,S8.3-H;1-2#
 play,2,0,walkd101,??,,NP
 sub,dicke101,"Emerson Dickman",1,9,1
 play,2,0,walkd101,??,,S.2-H;1-2#

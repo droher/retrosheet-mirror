@@ -5149,7 +5149,12 @@ play,9,0,hooph101,??,,S7.1-2
 play,9,0,mcnam101,??,,14/SH.2-3;1-2
 play,9,0,menom101,??,,IW
 play,9,0,schaw101,??,,K
-com,"McInnis hit by a pitch he swings at, forced to hit again."
+com,"ej,bushj102,P,chilo901,HBP call (Reversed)"
+com,"$Red Sox Joe Bush, not in game, ejected by 1B umpire"
+com,"Chill for arguing the ruling that McInnis swung at"
+com,"pitch that hit him and thus was not entitled to 1st"
+com,"base (Chill over-ruled HP umpire Moriarty's initial"
+com,"ruling of HBP)"
 play,9,0,mcins101,??,,64(1)/FO
 play,9,1,johnd107,??,,S9
 play,9,1,oneis101,??,,16(1)/FO/BG

@@ -476,7 +476,6 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1953N1364","smitp104",1953,"PIT","O",,"CS","CHN195305160",1,0,,,,
 "1953N1365","torge101",1953,"PHI","O",,"GDP","SLN195306271",0,1,"1953N1366","SWAP",,
 "1953N1366","jonew101",1953,"PHI","O",,"GDP","SLN195306271",1,0,"1953N1365","SWAP",,
-"1953N1367","hemus101",1953,"SLN","O",,"RBI","SLN195309222",0,1,,,,
 "1953N1368","bickv101",1953,"MLN","P",,"BFP","PHI195308251",7,4,,,,
 "1953N1369","gillj102",1953,"BRO","D","2B","DP","PIT195307072",1,0,,,,
 "1953N1370","hodgg101",1953,"BRO","D","OF","G","CHN195306220",1,0,,,,

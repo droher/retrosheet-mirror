@@ -3186,7 +3186,7 @@ start,smitb110,"Bob Smith",1,7,4
 start,gibsf101,"Frank Gibson",1,8,2
 start,grahs101,"Skinny Graham",1,9,1
 play,1,0,soutb101,??,,8/F
-play,1,0,younr101,??,,K/BG
+play,1,0,younr101,??,,K/BF
 play,1,0,terrb101,??,,8/F8XD
 play,1,1,bancd101,??,,S7
 play,1,1,mannl101,??,,64(1)3/GDP
@@ -9426,7 +9426,7 @@ play,6,1,welsj101,??,,13.2-2
 play,6,1,higha101,??,,7/F
 play,6,1,gibsf101,??,,K
 play,7,0,vancd101,??,,W
-play,7,0,mitcj101,??,,K/BG/FL
+play,7,0,mitcj101,??,,K/BF
 play,7,0,stocm101,??,,S9.1-2
 play,7,0,wheaz101,??,,NP
 sub,kampi101,"Ike Kamp",1,9,1

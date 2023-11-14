@@ -4474,10 +4474,10 @@ info,umphome,stewb901
 info,ump1b,dunnt901
 info,ump2b,(none)
 info,ump3b,searz901
-info,translator,"Dick Cramer"
-info,inputter,"Dick Cramer"
+info,translator,"Dick Cramer/RWood"
+info,inputter,"Dick Cramer/RWood"
 info,inputtime,2017/03/27 4:30PM
-info,scorer,"277,68,67,111,71,163,274"
+info,scorer,"277,68,67,111,71,163,274,611"
 info,howscored,unknown
 info,pitches,none
 info,temp,0
@@ -4524,25 +4524,25 @@ play,2,0,lombe101,??,,W
 play,2,0,rossc103,??,,4/P
 play,2,0,mille104,??,,4/P
 play,2,0,gremb101,??,,9/F
-play,2,1,stril101,??,,53
+play,2,1,stril101,??,,5/L
 play,2,1,mccuc101,??,,5/P
 play,2,1,olsev101,??,,S7/G
 play,2,1,hacks101,??,,9/L
-play,3,0,javea101,??,,K
-play,3,0,sists101,??,,99
-play,3,0,coonj101,??,,99
-play,3,1,merul101,??,,99
-play,3,1,cavap101,??,,S
-play,3,1,russr101,??,,99
+play,3,0,javea101,??,,53
+play,3,0,sists101,??,,53
+play,3,0,coonj101,??,,63
+play,3,1,merul101,??,,S
+play,3,1,cavap101,??,,9/F
+play,3,1,russr101,??,,7/F
 play,3,1,nichb101,??,,S.1-2
-play,3,1,novil101,??,,99
+play,3,1,novil101,??,,8/F
 play,4,0,demaf102,??,,K
-play,4,0,fernn101,??,,99
+play,4,0,fernn101,??,,13
 play,4,0,lombe101,??,,S
 play,4,0,rossc103,??,,K
-play,4,1,stril101,??,,99
-play,4,1,mccuc101,??,,99
-play,4,1,olsev101,??,,99
+play,4,1,stril101,??,,7/F
+play,4,1,mccuc101,??,,7/F
+play,4,1,olsev101,??,,7/F
 play,5,0,mille104,??,,S8/L
 play,5,0,gremb101,??,,64(1)3/GDP
 play,5,0,javea101,??,,S
@@ -4550,32 +4550,32 @@ play,5,0,sists101,??,,S5/G.1-2
 play,5,0,coonj101,??,,W.2-3;1-2
 play,5,0,demaf102,??,,D7/L.3-H;2-H;1-3
 play,5,0,fernn101,??,,K
-play,5,1,hacks101,??,,99
-play,5,1,merul101,??,,S
-play,5,1,cavap101,??,,99
-play,5,1,russr101,??,,99
-play,6,0,lombe101,??,,99
+play,5,1,hacks101,??,,8/F
+play,5,1,merul101,??,,63
+play,5,1,cavap101,??,,S
+play,5,1,russr101,??,,8/F
+play,6,0,lombe101,??,,63
 play,6,0,rossc103,??,,K
-play,6,0,mille104,??,,99
-play,6,1,nichb101,??,,D78
+play,6,0,mille104,??,,53
+play,6,1,nichb101,??,,D/78
 play,6,1,novil101,??,,S8/G.2-H
-play,6,1,stril101,??,,99/SH.1-2
+play,6,1,stril101,??,,54/SH.1-2
 play,6,1,mccuc101,??,,W
-play,6,1,olsev101,??,,99
-play,6,1,hacks101,??,,99
-play,7,0,gremb101,??,,99
-play,7,0,javea101,??,,99
-play,7,0,sists101,??,,99
-play,7,1,merul101,??,,99
-play,7,1,cavap101,??,,99
-play,7,1,russr101,??,,99
-play,8,0,coonj101,??,,53
+play,6,1,olsev101,??,,13.2-3;1-2
+play,6,1,hacks101,??,,9/F
+play,7,0,gremb101,??,,9/F
+play,7,0,javea101,??,,K23
+play,7,0,sists101,??,,53
+play,7,1,merul101,??,,7/F
+play,7,1,cavap101,??,,63
+play,7,1,russr101,??,,7/F
+play,8,0,coonj101,??,,6/L
 play,8,0,demaf102,??,,63
 play,8,0,fernn101,??,,8/F
-play,8,1,nichb101,??,,99
+play,8,1,nichb101,??,,5/P
 play,8,1,novil101,??,,S
-play,8,1,stril101,??,,99
-play,8,1,mccuc101,??,,99
+play,8,1,stril101,??,,9/F
+play,8,1,mccuc101,??,,13
 play,9,0,lombe101,??,,S
 play,9,0,rossc103,??,,NP
 sub,robes101,"S Roberge",0,5,12
@@ -9658,10 +9658,10 @@ start,merul101,"Lennie Merullo",1,7,6
 start,sturb101,"Bobby Sturgeon",1,8,4
 start,olsev101,"Vern Olsen",1,9,1
 play,1,0,werbb101,??,,W
-play,1,0,witem101,??,,S8.1-2
+play,1,0,witem101,??,,S8.1-3
 play,1,0,ott-m101,??,,K
 play,1,0,mizej101,??,,K
-play,1,0,maynb101,??,,W.2-3;1-2
+play,1,0,maynb101,??,,IW.1-2
 play,1,0,barnb102,??,,7
 play,1,1,hacks101,??,,K
 play,1,1,cavap101,??,,63

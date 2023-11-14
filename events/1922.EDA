@@ -499,7 +499,6 @@ start,menom101,"Mike Menosky",1,6,9
 start,fewsc101,"Chick Fewster",1,7,5
 start,chape102,"Ed Chaplin",1,8,2
 start,collr104,"Rip Collins",1,9,1
-com,"ej,burng102,6,1,nalld901,3rd strike call"
 play,1,0,bluel101,??,,W
 play,1,0,cutsg101,??,,99/SH.1-2
 play,1,0,cobbt101,??,,99
@@ -1169,7 +1168,6 @@ start,mostj101,"Johnny Mostil",1,6,7
 start,sheee101,"Earl Sheely",1,7,3
 start,schar103,"Ray Schalk",1,8,2
 start,faber101,"Red Faber",1,9,1
-com,"ej,bluel101,9,0,morig101,K/C"
 play,1,0,bluel101,??,,43
 play,1,0,cutsg101,??,,S
 play,1,0,veacb101,??,,S.1-2
@@ -1265,7 +1263,7 @@ play,10,0,rignt101,??,,99
 play,10,0,bassj102,??,,W
 play,10,0,ehmkh101,??,,99
 play,10,0,bluel101,??,,K/C
-com,"ej,bluel101,P,morig101,10,Called third strike"
+com,"ej,bluel101,P,morig101,Called third strike"
 com,"$Blue ejected by HP umpire Moriarty for arguing called third strike"
 play,10,1,mcclh103,??,,NP
 sub,heilh101,"Harry Heilmann",0,4,3
@@ -1638,7 +1636,7 @@ play,3,1,johne102,??,,2/FL
 play,3,1,colle101,??,,W
 play,3,1,sheee101,??,,6/P
 play,4,0,walkt101,??,,K/C
-com,"ej,walkt101,PHA,guth901,Called third strike"
+com,"ej,walkt101,P,guth901,Called third strike"
 com,"$Walker ejected by HP umpire Guthrie for arguing called"
 com,"third strike"
 play,4,0,hausj101,??,,8/F

@@ -414,7 +414,7 @@ play,7,0,shelj001,00,,NP
 sub,holla001,"Al Holland",1,9,1
 play,7,0,shelj001,00,X,S7.1-2
 play,7,0,fordd001,12,SBCX,E6/G.2-H(UR)(NR);1-2;B-1
-play,7,0,ripkc001,00,X,8
+play,7,0,ripkc001,01,FX,8
 play,7,1,morgj001,00,,NP
 sub,stews001,"Sammy Stewart",0,9,1
 play,7,1,morgj001,32,BFCBFBFB,W

@@ -4254,7 +4254,7 @@ play,1,0,mccob102,??,,K
 play,1,0,mosew101,??,,99
 play,1,0,johnb102,??,,K
 play,1,1,crouf101,??,,S
-play,1,1,mccob101,??,,99/F
+play,1,1,mccob101,??,,9/F
 play,1,1,gehrc101,??,,S.1-3
 play,1,1,yorkr101,??,,99/G.3-H;1-2
 play,1,1,greeh102,??,,K
@@ -5778,7 +5778,7 @@ play,9,1,radcr101,??,,W
 play,9,1,mccob101,??,,S.1-2
 play,9,1,higgm101,??,,NP
 sub,hadlb101,"Bump Hadley",0,9,1
-play,9,1,higgm101,??,,99/F.2-3
+play,9,1,higgm101,??,,9/F.2-3
 play,9,1,yorkr101,??,,99(1)/FO.3-H
 play,9,1,tebbb101,??,,99(1)/FO
 data,er,knotj102,1
@@ -9211,7 +9211,7 @@ play,5,0,tebbb101,??,,99
 play,5,1,leond103,??,,NP
 sub,boltc101,"Cliff Bolton",1,9,11
 play,5,1,boltc101,??,,99
-play,5,1,welaj101,??,,99
+play,5,1,welaj101,??,,31/G
 play,5,1,cramd102,??,,S
 play,5,1,lewib103,??,,99
 play,6,0,crouf101,??,,NP

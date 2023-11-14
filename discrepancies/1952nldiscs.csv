@@ -244,9 +244,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1952N1079","kosld101",1952,"NY1","P",,"BB","CIN195208250",1,0,"1952N1078","SWAP",,
 "1952N1080","willd102",1952,"NY1","D","2B","DP","CIN195208250",0,1,,,,
 "1952N1081","pollh101",1952,"PIT","P",,"SH","PIT195206080",1,0,,,,
-"1952N1083","bickv101",1952,"BSN","P",,"BFP","BSN195206130",26,27,"1952N1084","SWAP",,"can't be or else pitching data and pinch-hitter don't match"
-"1952N1084","coled103",1952,"BSN","P",,"BFP","BSN195206130",11,10,"1952N1083","SWAP",,"can't be or else pitching data and pinch-hitter don't match"
-"1952N1085","sists101",1952,"BSN","D","2B","DP","BSN195206130",0,1,,,,
+"1952N1085","logaj101",1952,"BSN","D","SS","DP","BSN195206130",0,1,,,,
 "1952N1088","mikse101",1952,"CHN","O",,"GDP","CHN195205111",0,1,"1952N1089","SWAP",,
 "1952N1089","minnp101",1952,"CHN","O",,"GDP","CHN195205111",1,0,"1952N1088","SWAP",,
 "1952N1090","presj101",1952,"SLN","P",,"BFP","PIT195208050",7,9,,,,

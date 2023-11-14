@@ -13,7 +13,7 @@ info,umphome,pryop901
 info,ump1b,engeb901
 info,ump2b,gormt101
 info,ump3b,venzt901
-info,scorer,"Mets,Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/01/24 5:58PM
@@ -179,7 +179,7 @@ info,umphome,engeb901
 info,ump1b,gormt101
 info,ump2b,venzt901
 info,ump3b,pryop901
-info,scorer,"Mets,Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/01/24 6:13PM
@@ -317,7 +317,7 @@ info,umphome,gormt101
 info,ump1b,venzt901
 info,ump2b,pryop901
 info,ump3b,engeb901
-info,scorer,"Mets,Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1997/01/24 6:27PM
@@ -5061,7 +5061,7 @@ info,umphome,venzt901
 info,ump1b,pryop901
 info,ump2b,engeb901
 info,ump3b,gormt101
-info,scorer,"Mets, Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1996/07/20 12:17PM
@@ -5194,7 +5194,7 @@ info,umphome,pryop901
 info,ump1b,engeb901
 info,ump2b,gormt101
 info,ump3b,venzt901
-info,scorer,"Mets, Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1996/07/20 2:46PM
@@ -8776,7 +8776,7 @@ info,umphome,venzt901
 info,ump1b,pryop901
 info,ump2b,engeb901
 info,ump3b,gormt101
-info,scorer,"Mets, Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1996/08/04 1:09PM
@@ -8928,7 +8928,7 @@ info,umphome,pryop901
 info,ump1b,engeb901
 info,ump2b,gormt101
 info,ump3b,venzt901
-info,scorer,"Mets, Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1996/08/04 1:34PM
@@ -9103,7 +9103,7 @@ info,umphome,engeb901
 info,ump1b,gormt101
 info,ump2b,venzt901
 info,ump3b,pryop901
-info,scorer,"Mets, Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1996/08/04 1:59PM
@@ -9278,7 +9278,7 @@ info,umphome,gormt101
 info,ump1b,venzt901
 info,ump2b,pryop901
 info,ump3b,engeb901
-info,scorer,"Mets, Lewis"
+info,scorer,"Mets/Lewis"
 info,translator,"Fischthal"
 info,inputter,"Fischthal"
 info,inputtime,1996/08/04 2:21PM

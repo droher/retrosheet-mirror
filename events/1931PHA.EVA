@@ -1066,7 +1066,7 @@ play,6,1,foxxj101,??,,9.3-H
 play,6,1,millb110,??,,7
 play,7,0,picku101,??,,9
 play,7,0,conne101,??,,NP
-sub,rye-g101,"G Rye",0,8,11
+sub,rye-g101,"Gene Rye",0,8,11
 play,7,0,rye-g101,??,,S8
 play,7,0,liseh101,??,,NP
 sub,winst101,"Tom Winsett",0,9,11
@@ -1075,9 +1075,9 @@ play,7,0,rhynh101,??,,13
 play,7,1,dykej101,??,,NP
 sub,ruelm101,"Muddy Ruel",0,3,2
 play,7,1,dykej101,??,,NP
-sub,vanca101,"A Van Camp",0,6,3
+sub,vanca101,"Al Van Camp",0,6,3
 play,7,1,dykej101,??,,NP
-sub,rye-g101,"G Rye",0,8,7
+sub,rye-g101,"Gene Rye",0,8,7
 play,7,1,dykej101,??,,NP
 sub,klinb103,"Bob Kline",0,9,1
 play,7,1,dykej101,??,,53
@@ -1098,7 +1098,7 @@ play,8,1,millb110,??,,8/L
 play,9,0,picku101,??,,53
 play,9,0,rye-g101,??,,7
 play,9,0,klinb103,??,,NP
-sub,scarr103,"R Scarritt",0,9,11
+sub,scarr103,"Russ Scarritt",0,9,11
 play,9,0,scarr103,??,,43
 data,er,russj103,7
 data,er,liseh101,1

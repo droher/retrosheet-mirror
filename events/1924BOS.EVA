@@ -5467,7 +5467,7 @@ play,3,1,piciv101,??,,W.1-2
 play,3,1,geygc101,20,,NP
 sub,hollk101,"Ken Holloway",0,9,1
 com,"2-0 count on Geygan when Holloway relieves Wells"
-play,3,1,geygc101,??,,NP
+play,3,1,geygc101,20,,NP
 sub,clard101,"Danny Clark",1,8,11
 play,3,1,clard101,??,,W.3-H(UR);2-3;1-2
 play,3,1,fullc102,??,,E6/TH.3-H(UR);2-3;1-2

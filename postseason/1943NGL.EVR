@@ -48,7 +48,7 @@ start,banks101,"Sam Bankhead",1,6,6
 start,wilsj106,"Jud Wilson",1,7,5
 start,harrv102,"Vic Harris",1,8,9
 start,wrigj105,"Johnny Wright",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,mclaf102,??,,D9
 play,1,0,sampt101,??,,S9.2-H
 play,1,0,speac103,??,,CS2(99)
@@ -183,7 +183,7 @@ start,banks101,"Sam Bankhead",1,6,6
 start,wilsj106,"Jud Wilson",1,7,5
 start,harrv102,"Vic Harris",1,8,9
 start,carts102,"Spoon Carter",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,mclaf102,??,,99
 play,1,0,sampt101,??,,99
 play,1,0,speac103,??,,99
@@ -371,7 +371,7 @@ start,banks101,"Sam Bankhead",1,6,6
 start,harrv102,"Vic Harris",1,7,9
 start,gastr101,"Robert Gaston",1,8,2
 start,partr102,"Roy Partlow",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,mclaf102,??,,FLE2#
 play,1,0,mclaf102,??,,S
 play,1,0,sampt101,??,,99
@@ -522,7 +522,7 @@ start,lindl102,"Leonard Lindsay",1,6,3
 start,walkh103,"Hoss Walker",1,7,5
 start,radct101,"Ted Radcliffe",1,8,2
 start,mckig101,"Gready McKinnis",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,benjj101,??,,99
 play,1,0,leonb101,??,,99
@@ -669,7 +669,7 @@ start,radct101,"Ted Radcliffe",1,6,2
 start,lindl102,"Leonard Lindsay",1,7,3
 start,walkh103,"Hoss Walker",1,8,5
 start,markj101,"Johnny Markham",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,benjj101,??,,99
 play,1,0,leonb101,??,,99
@@ -814,7 +814,7 @@ start,davip102,"Piper Davis",1,6,6
 start,radct101,"Ted Radcliffe",1,7,2
 start,lindl102,"Leonard Lindsay",1,8,3
 start,sayla101,"Alfred Saylor",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,S
 play,1,0,benjj101,??,,99/SH.1-2
 play,1,0,leonb101,??,,S.2-H

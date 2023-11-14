@@ -203,6 +203,8 @@ play,9,0,garca005,12,FBSFX,D8
 play,9,0,martj006,00,,NP
 sub,cruzn002,"Nelson Cruz",0,1,11
 play,9,0,cruzn002,00,.X,31.2-3
+play,9,0,olsom001,00,,NP
+sub,wheez001,"Zack Wheeler",1,0,1
 play,9,0,olsom001,02,SFS,K
 play,9,1,narvo001,00,,NP
 sub,hendl001,"Liam Hendriks",0,0,1
@@ -228,3 +230,4 @@ data,er,walkt004,1
 data,er,peraf001,0
 data,er,melam001,0
 data,er,kimbc001,0
+data,er,wheez001,0

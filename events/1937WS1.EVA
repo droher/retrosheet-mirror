@@ -545,7 +545,7 @@ play,6,0,rolfr101,??,,SB2
 play,6,0,rolfr101,??,,99
 play,6,1,myerb103,??,,99
 play,6,1,kuhej101,??,,W
-play,6,1,simma101,??,,99
+play,6,1,simma101,??,,6/P
 play,6,1,stonj102,??,,99
 play,7,0,johnr102,??,,99
 play,7,0,gehrl101,??,,S
@@ -567,7 +567,7 @@ sub,lanad101,"Dick Lanahan",1,9,1
 play,8,0,lazzt101,??,,NP
 sub,mihaj101,"John Mihalic",1,6,6
 play,8,0,lazzt101,??,,99
-play,8,0,hoagm101,??,,99/L
+play,8,0,hoagm101,??,,1/L
 play,8,0,jorga101,??,,W
 play,8,0,gomel102,??,,W.1-2
 play,8,0,crosf103,??,,W.2-3;1-2
@@ -580,7 +580,7 @@ play,8,1,mihaj101,??,,99
 play,9,0,gehrl101,??,,W
 play,9,0,selkg101,??,,99
 play,9,0,lazzt101,??,,99
-play,9,0,hoagm101,??,,99
+play,9,0,hoagm101,??,,3/L
 play,9,1,lewib103,??,,8
 play,9,1,millw102,??,,8
 play,9,1,lanad101,??,,NP
@@ -7953,7 +7953,7 @@ play,3,0,greeh102,??,,99
 play,3,0,walkg101,??,,99
 play,3,1,stonj102,??,,99
 play,3,1,wasdj101,??,,99
-play,3,1,simma101,??,,99
+play,3,1,simma101,??,,63
 play,4,0,owenm102,??,,99
 play,4,0,rogeb102,??,,99
 play,4,0,tebbb101,??,,99

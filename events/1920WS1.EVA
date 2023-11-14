@@ -2147,8 +2147,10 @@ com,"Attempted delayed steal (not an official CS)"
 play,3,1,judgj101,??,,S9/L
 play,3,1,milac101,??,,NP
 sub,altee101,"Ernie Alten",0,9,1
+presadj,altee101,1
 play,3,1,milac101,??,,16(1)/FO/BG
 com,"ej,judgj101,P,hildg101,Call at 2B"
+com,"ej,grifc101,M,hildg101,Call at 2B"
 com,"$Judge and Senators manager Griffith ejected by 1B umpire"
 com,"Hildebrand for arguing that Judge was safe at 2B (Judge"
 com,"threw his cap during argument)"
@@ -2234,8 +2236,8 @@ sub,calvj101,"Jack Calvo",1,9,11
 play,9,1,calvj101,??,,53
 play,9,1,shanh101,??,,99
 play,9,1,milac101,??,,43
-data,er,bolab101,2
-data,er,altee101,1
+data,er,bolab101,1
+data,er,altee101,2
 data,er,oldhr101,0
 data,er,glaij101,0
 data,er,schaa101,4
@@ -10245,7 +10247,8 @@ play,6,0,scote101,??,,HP
 play,6,0,mcnam101,??,,S8.1-2
 play,6,0,bradc101,31,,NP
 sub,acosj101,"Jose Acosta",1,9,1
-com,"Acosta entered with 3-1 count to Brady"
+com,"$Acosta entered with 3-1 count to Brady"
+presadj,acosj101,2
 play,6,0,bradc101,??,,7/FL
 play,6,0,karrb101,??,,W.2-3;1-2
 play,6,0,hooph101,??,,9/F9LD/SF.3-H
@@ -10274,8 +10277,8 @@ play,9,0,vitto101,??,,99
 play,9,0,menom101,??,,99
 data,er,pennh101,5
 data,er,karrb101,0
-data,er,courh101,3
-data,er,acosj101,0
+data,er,courh101,2
+data,er,acosj101,1
 id,WS1192009061
 version,1
 info,inputprogvers,"version 7RS(19) of 07/07/92"

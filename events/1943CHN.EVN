@@ -3105,7 +3105,7 @@ play,7,0,gustf101,??,,NP
 sub,podgj101,"Johnny podgajny",0,9,12
 play,7,0,gustf101,??,,99
 play,7,1,passc101,??,,NP
-sub,gustf101,"Frank gustine",0,1,4
+sub,gustf101,"Frankie Gustine",0,1,4
 play,7,1,passc101,??,,NP
 sub,gearh101,"Hal Geary",0,8,6
 play,7,1,passc101,??,,NP
@@ -3774,7 +3774,7 @@ play,2,0,joose101,??,,S
 play,2,0,andrn101,??,,K
 play,2,1,goodi101,??,,99
 play,2,1,lowrp101,??,,D
-play,2,1,mccuc101,??,,99
+play,2,1,mccuc101,??,,8/F
 play,2,1,merul101,??,,S.2-H
 play,2,1,bithh101,??,,K
 play,3,0,holmt101,??,,99/G
@@ -4365,7 +4365,7 @@ play,7,1,stane101,??,,99
 play,8,0,orenj101,??,,99
 play,8,0,fiscr101,??,,NP
 sub,ruckj101,"Johnny Rucker",0,9,11
-play,8,0,ruckj101,??,,99
+play,8,0,ruckj101,??,,99/L
 play,8,0,bartd101,??,,99
 play,8,1,cavap101,??,,NP
 sub,adama101,"Ace Adams",0,9,1
@@ -4582,7 +4582,7 @@ play,3,0,bartd101,??,,S7.1-2
 play,3,0,witem101,??,,W.2-3;1-2
 play,3,0,medwj101,??,,9.3-H
 play,3,0,ott-m101,??,,WP.2-3;1-2
-play,3,0,ott-m101,??,,W
+play,3,0,ott-m101,??,,IW
 play,3,0,maynb101,??,,FLE7
 play,3,0,maynb101,??,,S/89.3-H(UR);2-H(UR);1-3
 play,3,0,gords101,??,,NP
@@ -5092,7 +5092,7 @@ play,5,0,walkd101,??,,D
 play,5,0,galaa101,??,,43
 play,5,1,stane101,??,,W
 play,5,1,cavap101,??,,D.1-3
-play,5,1,nichb101,??,,W
+play,5,1,nichb101,??,,IW
 play,5,1,goodi101,??,,S.3-H;2-3;1-2
 play,5,1,lowrp101,??,,9.3-H
 play,5,1,mccuc101,??,,S.2-H;1-3

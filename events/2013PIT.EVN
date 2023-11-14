@@ -583,7 +583,7 @@ sub,paulx001,"Xavier Paul",0,9,11
 play,9,0,paulx001,12,..CFBS,K
 play,9,0,choos001,22,BCBCX,S8/G
 play,9,0,heisc001,02,S1FX,54(1)/FO/G
-play,9,0,vottj001,32,*BFBCB>+1>B,W.1-2
+play,9,0,vottj001,32,*BFBCB+1>B,W.1-2
 play,9,0,philb001,32,CS*BBB>S,K
 data,er,leakm001,5
 data,er,hoovj002,1

@@ -7502,9 +7502,9 @@ sub,caseh101,"Hugh Casey",1,9,1
 play,9,0,musis101,02,.CSS,K
 play,9,0,slaue101,10,BX,8
 play,9,0,nortr101,00,X,HR8/F89XDW/IPHR
-com,"$Ron Northey was thrown out at the plate, ending the inning;"
+com,"$Ron Northey was thrown out at the plate (942), ending the inning;"
 com,"Cardinals manager Eddie Dyer protested the game because"
-com,"3B umpire Beans Reardon had signaled that Northey's ball"
+com,"3B umpire Beans Reardon had signaled that the ball"
 com,"was a home run as the batter approached 3B; Northey slowed"
 com,"his pace when he thought he had a four-bagger and would have"
 com,"scored without the errant signal; the Cardinals used that"
@@ -7512,12 +7512,10 @@ com,"as the basis of their protest; NL President Ford Frick"
 com,"later ruled in favor of the Cardinals declaring Northey's"
 com,"hit a home run; Frick did not order the teams to resume"
 com,"the game from this point, however, declaring the game a"
-com,"3-3 tie due to the runs scored by the Dodgers in the"
-com,"bottom of the ninth; the play on Northey was 942 but"
-com,"with the out removed, the half inning only has two outs;"
-com,"the next play never happened and is inserted because we"
-com,"need three outs"
+com,"3-3 tie due to the runs scored by the Dodgers in the bottom of the 9th"
 play,9,0,kurow101,00,X,99#
+com,"The play on Kurowski never happened but is inserted to create"
+com,"a fictitious third out"
 play,9,1,reisp101,00,.,NP
 sub,dierc101,"Chuck Diering",0,5,9
 play,9,1,reisp101,00,..X,D8/F8XDW
@@ -7542,6 +7540,8 @@ sub,pollh101,"Howie Pollet",0,9,1
 play,9,1,giona101,00,..,NP
 sub,mikse101,"Eddie Miksis",1,9,11
 play,9,1,mikse101,01,...CX,S9/L9.3-H(UR);1-2
+com,"$At the time it was played the game ended on a walk-off single by Miksis."
+com,"Following the appeal which credited Northey with a run the game became a tie."
 data,er,hearj102,2
 data,er,braza101,0
 data,er,dickm101,0

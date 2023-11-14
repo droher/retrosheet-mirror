@@ -49,6 +49,7 @@ start,mornl101,"Leroy Morney",1,6,3
 start,lockl101,"Lester Lockett",1,7,7
 start,britj104,"John Britton",1,8,5
 start,markj101,"Johnny Markham",1,9,1
+com,"$Play-by-play deduced from newspaper game stories and box score"
 com,"Five Birmingham players were seriously injured in a car"
 com,"accident two weeks earlier. Wilson and Britton played in the"
 com,"series despite their injuries. Britton was bandaged over his"
@@ -56,7 +57,6 @@ com,"left eye and right wrist. Wilson had both wrists bandaged."
 com,"Pepper Bassett, Tommy Sampson, and Leandy Young were unable"
 com,"to play. The short-handed Black Barons were allowed to add"
 com,"local player Collins Jones to their World Series roster."
-com,"Play-by-play deduced from newspaper game stories and box scores."
 play,1,0,bellj103,??,,6
 play,1,0,benjj101,??,,D7
 play,1,0,banks101,??,,W
@@ -207,7 +207,7 @@ start,lockl101,"Lester Lockett",1,6,5
 start,mornl101,"Leroy Morney",1,7,3
 start,jonec109,"Collins Jones",1,8,7
 start,sayla101,"Alfred Saylor",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,S8
 play,1,0,benjj101,??,,36(1)/FO
 play,1,0,banks101,??,,S5.1-2
@@ -343,7 +343,7 @@ start,radct101,"Ted Radcliffe",1,6,2
 start,lockl101,"Lester Lockett",1,7,5
 start,jonec109,"Collins Jones",1,8,7
 start,bumpe101,"Earl Bumpus",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,benjj101,??,,W
 play,1,0,banks101,??,,99
@@ -481,7 +481,7 @@ start,gibsj101,"Josh Gibson",1,6,2
 start,cannw101,"Walter Cannady",1,7,5
 start,jackj104,"Jelly Jackson",1,8,4
 start,carts102,"Spoon Carter",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,mclaf102,??,,99
 play,1,0,wilsa101,??,,99
 play,1,0,britj104,??,,99
@@ -616,7 +616,7 @@ start,gibsj101,"Josh Gibson",1,6,2
 start,wilsj106,"Jud Wilson",1,7,5
 start,jackj104,"Jelly Jackson",1,8,4
 start,welmr101,"Roy Welmaker",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,mclaf102,??,,99
 play,1,0,wilsa101,??,,99
 play,1,0,britj104,??,,S

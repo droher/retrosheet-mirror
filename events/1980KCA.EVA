@@ -2259,7 +2259,7 @@ info,umphome,hallb901
 info,ump1b,goetr901
 info,ump2b,malog901
 info,ump3b,voltv901
-info,scorer,"Royals, Angels"
+info,scorer,"Royals/Angels"
 info,translator,"Doug Burks"
 info,inputter,"Doug Burks"
 info,inputtime,1996/04/11 7:07PM
@@ -2402,7 +2402,7 @@ info,umphome,goetr901
 info,ump1b,malog901
 info,ump2b,voltv901
 info,ump3b,hallb901
-info,scorer,"Royals, A's"
+info,scorer,"Royals/A's"
 info,translator,"Doug Burks"
 info,inputter,"Doug Burks"
 info,inputtime,1996/04/10 7:53PM
@@ -2593,7 +2593,7 @@ info,umphome,malog901
 info,ump1b,voltv901
 info,ump2b,hallb901
 info,ump3b,goetr901
-info,scorer,"Royals, A's"
+info,scorer,"Royals/A's"
 info,translator,"Doug Burks"
 info,inputter,"Doug Burks"
 info,inputtime,1996/04/14 12:53PM
@@ -2731,7 +2731,7 @@ info,umphome,voltv901
 info,ump1b,hallb901
 info,ump2b,goetr901
 info,ump3b,malog901
-info,scorer,"Royals, As"
+info,scorer,"Royals/As"
 info,translator,"Doug Burks"
 info,inputter,"Doug Burks"
 info,inputtime,1996/04/17 8:46PM
@@ -2941,7 +2941,7 @@ info,umphome,hallb901
 info,ump1b,goetr901
 info,ump2b,malog901
 info,ump3b,voltv901
-info,scorer,"Royals, As"
+info,scorer,"Royals/As"
 info,translator,"Doug Burks"
 info,inputter,"Doug Burks"
 info,inputtime,1996/04/20 9:29AM

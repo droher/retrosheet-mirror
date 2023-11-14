@@ -5489,7 +5489,7 @@ play,1,1,hayej101,??,,W
 play,1,1,kuhej101,??,,S8/8S.1-2
 play,1,1,kreem101,??,,24/SH.2-3;1-2
 play,1,1,radcr101,??,,S4/G.3-H;2-3
-play,1,1,walkg101,??,,E5/TH2.3-H(RBI);1-2
+play,1,1,walkg101,??,,FC5.3-H(RBI);1-2(E5/TH)
 play,1,1,appll101,??,,95(2)/FO.1-2
 com,"$Moses shoestring try failed but Radcliffe had to wait."
 play,1,1,mcnae101,??,,S7.2-H(UR);1-3
@@ -5509,16 +5509,16 @@ play,3,1,radcr101,??,,6/FL
 play,3,1,walkg101,??,,8/F
 play,4,0,amblw101,??,,W
 play,4,0,siebd102,??,,S.1-3
-play,4,0,johnb102,??,,E4/P/8S.3-H(RBI);1-2
+play,4,0,johnb102,??,,E4/F8S.3-H(RBI);1-2
 play,4,0,hayef101,??,,S5/G.2-3;1-2
 play,4,0,chaps101,??,,3/FL
 play,4,0,nageb101,??,,K
-play,4,0,lodid101,??,,7/F
-play,4,1,appll101,??,,S
-play,4,1,mcnae101,??,,S.1-2
-play,4,1,tresm101,??,,FC1.2XH(99);1-2
-play,4,1,rignj101,??,,S/1/G.2-H;1-3#
-play,4,1,hayej101,??,,FC.3-3;1-2
+play,4,0,lodid101,??,,7/F7D
+play,4,1,appll101,??,,S8
+play,4,1,mcnae101,??,,S9.1-3
+play,4,1,tresm101,??,,FC1.3XH(125643);1-3;B-2
+play,4,1,rignj101,??,,S1/G.3-H;2-3
+play,4,1,hayej101,??,,FC5.3-3;1-2
 com,"ej,siebd102,P,kolll901,Call at 3B"
 com,"ej,berrc103,C,summb901,Call at 3B"
 com,"$Siebert ejected by ump Kolls for arguing Hayes had tagged"
@@ -5533,50 +5533,50 @@ play,4,1,kuhej101,??,,NP
 sub,chaps101,"Sam Chapman",0,6,3
 play,4,1,kuhej101,??,,WP.3-H;2-3;1-2#
 play,4,1,kuhej101,??,,K
-play,4,1,kreem101,??,,99
-play,5,0,pottn102,??,,99
-play,5,0,mosew101,??,,E4#
+play,4,1,kreem101,??,,63
+play,5,0,pottn102,??,,8/L
+play,5,0,mosew101,??,,E4/G
 play,5,0,amblw101,??,,W.1-2
-play,5,0,miled101,??,,99(1)/FO.2-3
-play,5,0,johnb102,??,,S.3-H(UR);1-2#
-play,5,0,hayef101,??,,K
-play,5,1,radcr101,??,,FLE4#
-play,5,1,radcr101,??,,99
-play,5,1,walkg101,??,,K#
+play,5,0,miled101,??,,46(1)/FO.2-3
+play,5,0,johnb102,??,,S7.3-H(UR);1-2
+play,5,0,hayef101,??,,K/C
+play,5,1,radcr101,??,,7/F
+play,5,1,walkg101,??,,13
 play,5,1,appll101,??,,W
-play,5,1,mcnae101,??,,K
-play,6,0,chaps101,??,,S
-play,6,0,nageb101,??,,S.1-2#
-play,6,0,lodid101,??,,S.2-H;1-2
-play,6,0,pottn102,??,,99(2)/FO/BG.1-2
-play,6,0,mosew101,??,,99(1)/FO.2-3
+play,5,1,mcnae101,??,,PO1(1E4).1-2
+play,5,1,mcnae101,??,,K23
+play,6,0,chaps101,??,,S8
+play,6,0,nageb101,??,,S8.1-3
+play,6,0,lodid101,??,,S8.3-H;1-2
+play,6,0,pottn102,??,,15(2)/FO/BG.1-2
+play,6,0,mosew101,??,,36(1)/FO.2-3
 play,6,0,amblw101,??,,K
-play,6,1,tresm101,??,,99
-play,6,1,rignj101,??,,99
-play,6,1,hayej101,??,,99
-play,7,0,miled101,??,,99
-play,7,0,johnb102,??,,99
+play,6,1,tresm101,??,,1/L
+play,6,1,rignj101,??,,6/P
+play,6,1,hayej101,??,,7/F
+play,7,0,miled101,??,,7/F
+play,7,0,johnb102,??,,13
 play,7,0,hayef101,??,,K
 play,7,1,kuhej101,??,,W
-play,7,1,kreem101,??,,99/SH.1-2
-play,7,1,radcr101,??,,S.2-H
-play,7,1,walkg101,??,,SB2#
-play,7,1,walkg101,??,,99
-play,7,1,appll101,??,,99
-play,8,0,chaps101,??,,99
-play,8,0,nageb101,??,,S
-play,8,0,lodid101,??,,99
-play,8,0,pottn102,??,,99
+play,7,1,kreem101,??,,3/SH.1-2
+play,7,1,radcr101,??,,S8.2-H
+play,7,1,walkg101,??,,SB2
+play,7,1,walkg101,??,,K
+play,7,1,appll101,??,,43
+play,8,0,chaps101,??,,9/F
+play,8,0,nageb101,??,,S8
+play,8,0,lodid101,??,,46(1)/FO
+play,8,0,pottn102,??,,7/L
 play,8,1,mcnae101,??,,HR/7
-play,8,1,tresm101,??,,99
-play,8,1,rignj101,??,,99
-play,8,1,hayej101,??,,99
+play,8,1,tresm101,??,,7/F
+play,8,1,rignj101,??,,53
+play,8,1,hayej101,??,,9/F
 play,9,0,mosew101,??,,W
 play,9,0,amblw101,??,,NP
 sub,gantj101,"Joe Gantenbein",0,2,11
-play,9,0,gantj101,??,,99(1)/FO
-play,9,0,miled101,??,,E1.1-2#
-play,9,0,johnb102,??,,W.2-3;1-2
+play,9,0,gantj101,??,,46(1)/FO
+play,9,0,miled101,??,,FC1.1-3(E1/TH);B-1
+play,9,0,johnb102,??,,W.1-2
 play,9,0,hayef101,??,,54(1)3/GDP
 data,er,pottn102,6
 data,er,rignj101,2
@@ -8612,7 +8612,6 @@ play,3,1,walkg101,??,,S8.1-3
 play,3,1,rosel101,??,,SB2
 play,3,1,rosel101,??,,W
 play,3,1,mcnae101,??,,S8.3-H;2-H;1-3
-com,"$scoresheet says this is McNair's seventh straight hit."
 play,3,1,schln101,??,,K
 play,4,0,vosmj101,??,,6/P
 play,4,0,taboj101,??,,53
@@ -8626,8 +8625,7 @@ play,5,0,wilsj103,??,,NP
 sub,nonnr101,"Red Nonnenkamp",0,9,11
 play,5,0,nonnr101,??,,6/FL
 play,5,0,doerb101,??,,S1/L
-com,"$Doerr's liner struck Dietrich's arm. Time called for "
-com,"treatment."
+com,"$Doerr's liner struck Dietrich's arm."
 play,5,0,cramd102,??,,4/P
 play,5,0,foxxj101,??,,W.1-2
 play,5,0,willt103,??,,K
@@ -8668,18 +8666,14 @@ play,7,1,walkg101,??,,53
 play,8,0,vosmj101,??,,43
 play,8,0,taboj101,??,,7/F
 play,8,0,dicke101,??,,K
-com,"rest of pbp cut off but might be on original"
-com,"so rest reconstructed with Chi Trib story."
 play,8,1,rosel101,??,,W
-play,8,1,mcnae101,??,,CS2(99)#
-com,"CS by rosel101 could be later in inning"
-play,8,1,mcnae101,??,,99
-play,8,1,schln101,??,,99
-play,9,0,peacj101,??,,99
-play,9,0,doerb101,??,,99
+play,8,1,mcnae101,??,,9/F
+play,8,1,schln101,??,,CS2(24)
+play,8,1,schln101,??,,43
+play,9,0,peacj101,??,,7/F
+play,9,0,doerb101,??,,13/BG
 play,9,0,cramd102,??,,S8
 play,9,0,foxxj101,??,,W.1-2
-com,"Ted 3-2"
 play,9,0,willt103,32,,5/FL
 data,er,wilsj103,4
 data,er,wagnc101,0

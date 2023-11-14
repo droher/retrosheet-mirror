@@ -2043,7 +2043,6 @@ play,4,0,pippw101,??,,S9/L4D
 play,4,0,scote101,??,,D7/G5L.1XH(762);B-3(THH)
 play,4,0,schaw101,??,,W
 play,4,0,jones104,??,,CSH(2452)
-com,"Attempted double steal"
 play,4,1,mullj103,??,,53
 play,4,1,colle101,??,,43
 play,4,1,hooph101,??,,D7/7L
@@ -2061,14 +2060,14 @@ play,6,0,meusb101,??,,53
 play,6,0,pippw101,??,,T/L78
 play,6,0,scote101,??,,2/P
 play,6,0,schaw101,??,,S6/G/COUR.3-H
-com,"Schang hurt sliding into 1B; he was helped off the field"
+com,"$Schang hurt sliding into 1B; he was helped off the field"
 com,"and replaced by courtesy runner DeVormer."
 play,6,0,jones104,??,,NP
 sub,devoa101,"Al DeVormer",0,8,12
 play,6,0,jones104,??,,2/FL
 play,6,1,johne102,??,,NP
 sub,schaw101,"Wally Schang",0,8,2
-com,"Schang back in the lineup"
+com,"$Schang back in the lineup"
 play,6,1,johne102,??,,31
 play,6,1,mullj103,??,,6/FL
 play,6,1,colle101,??,,31
@@ -2080,15 +2079,12 @@ play,7,0,meusb101,??,,HR/F7D.3-H;1-H
 play,7,0,pippw101,??,,43
 play,7,1,hooph101,??,,3/G
 play,7,1,mostj101,??,,S1/G
-com,"Off Jones' bare hand"
 play,7,1,falkb101,??,,D8/G4.1-3
-com,"Bad hop over Ward"
 play,7,1,sheee101,??,,S7.3-H;2-H
 play,7,1,schar103,??,,NP
 sub,hoytw101,"Waite Hoyt",0,9,1
 play,7,1,schar103,??,,53/SH.1-2
 play,7,1,courh101,??,,T8/L8.2-H
-com,"Past Miller to deep CF"
 play,7,1,johne102,??,,W
 play,7,1,mullj103,??,,S7.3-H;1-2
 play,7,1,colle101,??,,S8.2-H;1-2
@@ -2103,7 +2099,7 @@ play,8,0,bushj102,??,,NP
 sub,fewsc101,"Chick Fewster",0,9,11
 play,8,0,fewsc101,??,,NP
 sub,devoa101,"Al DeVormer",0,8,12
-com,"DeVormer already ran for Wally Schang in the sixth"
+com,"$DeVormer had previously run for Wally Schang in the sixth"
 play,8,0,fewsc101,??,,WP.1-2
 play,8,0,fewsc101,??,,8
 play,8,0,mille102,??,,9/FDP.2X2(96)
@@ -2120,7 +2116,7 @@ play,8,1,courh101,??,,8
 play,8,1,johne102,??,,43
 play,9,0,warda101,??,,63
 play,9,0,ruthb101,20,BBX,HR/F8XD
-com,"Over CF screen; first time anyone had done that here"
+com,"$Over CF screen; first time anyone had done that here"
 play,9,0,bakef102,??,,43
 play,9,0,meusb101,??,,D9
 play,9,0,pippw101,??,,K
@@ -2802,7 +2798,7 @@ play,4,0,perkc101,??,,8/SF.3-H;2-3(E8)
 play,4,0,gallc101,??,,63
 play,4,1,sheee101,??,,W
 play,4,1,schar103,??,,S7.1-2
-play,4,1,faber101,??,,25(2)5(B)/DP.1-2
+play,4,1,faber101,??,,15(2)3(B)/GDP/BG.1-2
 play,4,1,johne102,??,,NP
 sub,mcclh103,"Harvey McClellan",1,1,11
 play,4,1,mcclh103,??,,S7.2-H
@@ -4303,6 +4299,7 @@ play,6,1,sheee101,??,,S7.1-3
 play,6,1,schar103,??,,NP
 sub,keefd101,"Dave Keefe",0,9,1
 presadj,keefd101,3
+presadj,keefd101,1
 play,6,1,schar103,??,,13.1-2
 play,6,1,faber101,??,,FC5.3XH(62)
 play,6,1,johne102,??,,D9.2-H;1-3

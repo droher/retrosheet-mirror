@@ -261,7 +261,7 @@ play,4,0,swifb102,??,,S
 play,4,0,wolfr102,??,,W.1-2
 play,4,0,welaj101,??,,99.2-3;1-2
 play,4,0,whitj104,??,,S3/G.3-H;2-3
-play,4,0,mayoe101,??,,99/F.3-H
+play,4,0,mayoe101,??,,9/F.3-H
 play,4,0,estab101,??,,99
 play,4,1,conrb101,??,,S
 play,4,1,chask101,??,,99
@@ -872,11 +872,11 @@ start,lupit101,"Tony Lupien",1,6,3
 start,newss101,"Skeeter Newsome",1,7,6
 start,peacj101,"Johnny Peacock",1,8,2
 start,terry101,"Yank Terry",1,9,1
-play,1,0,guttd101,??,,99
+play,1,0,guttd101,??,,9
 play,1,0,byrnm101,??,,W
 play,1,0,laabc101,??,,HR.1-H
-play,1,0,charm101,??,,99
-play,1,0,mcqug101,??,,K
+play,1,0,charm101,??,,43
+play,1,0,mcqug101,??,,9
 play,1,1,miled101,??,,W
 play,1,1,fox-p102,??,,NP
 sub,galed101,"Denny Galehouse",0,9,1
@@ -902,7 +902,7 @@ play,3,1,simma101,??,,99
 play,3,1,taboj101,??,,W
 play,3,1,lupit101,??,,99
 play,4,0,charm101,??,,99
-play,4,0,mcqug101,??,,99
+play,4,0,mcqug101,??,,K
 play,4,0,clifh101,??,,99
 play,4,1,newss101,??,,99
 play,4,1,peacj101,??,,99
@@ -2432,7 +2432,7 @@ play,10,0,radcr101,??,,99
 play,10,0,rossd101,??,,99
 play,10,1,doerb101,??,,NP
 sub,troud101,"Dizzy Trout",0,9,1
-play,10,1,doerb101,??,,99/F
+play,10,1,doerb101,??,,9/F
 play,10,1,taboj101,??,,HR/7
 data,er,whith101,2
 data,er,troud101,1
@@ -3062,8 +3062,7 @@ play,4,0,mcqug101,??,,99
 play,4,1,mosew101,??,,S
 play,4,1,culld101,??,,99(1)/FO
 play,4,1,tresm101,??,,99
-play,4,1,lee-t101,??,,SB2
-play,4,1,lee-t101,??,,PB.2-3
+play,4,1,lee-t101,??,,PB.1-2
 play,4,1,lee-t101,??,,99
 play,5,0,kreem101,??,,S
 play,5,0,ferrr101,??,,99
@@ -3085,10 +3084,11 @@ play,6,1,kolld101,??,,S
 play,6,1,mosew101,??,,SB2
 play,6,1,mosew101,??,,7/F
 play,6,1,culld101,??,,S.2-H
-play,6,1,tresm101,??,,99/G.1-2
+play,6,1,tresm101,??,,SB2
+play,6,1,tresm101,??,,99/F
 play,6,1,lee-t101,??,,NP
 sub,hodgr101,"R Hodgin",1,9,11
-play,6,1,hodgr101,??,,99
+play,6,1,hodgr101,??,,99/F
 play,7,0,kreem101,??,,NP
 sub,maltg101,"Gordon Maltzberger",1,9,1
 play,7,0,kreem101,??,,99
@@ -3263,7 +3263,7 @@ play,9,1,kolld101,??,,S.1-2
 play,9,1,mosew101,??,,E6/G.2-3;1-2
 play,9,1,culld101,??,,NP
 sub,curtg102,"Guy Curtright",1,7,11
-play,9,1,curtg102,??,,99/FL
+play,9,1,curtg102,??,,2/FL
 play,9,1,turnt102,??,,99(1)/FO
 data,er,sunds101,1
 data,er,humpj101,1
@@ -3518,7 +3518,7 @@ sub,schuj103,"Joe Schultz",0,4,2
 play,6,1,tuckt102,??,,NP
 sub,chrim102,"Mark Christman",0,7,6
 play,6,1,tuckt102,??,,NP
-sub,hayef101,"Frank Hayes",0,8,3
+sub,hayef101,"Frankie Hayes",0,8,3
 play,6,1,tuckt102,??,,K
 play,6,1,culld101,??,,99
 play,6,1,curtg102,??,,W
@@ -3774,7 +3774,7 @@ play,1,0,roccm101,??,,K
 play,1,0,desag101,??,,99(1)/FO.3-H;2-3
 play,1,0,mackr101,??,,HP.1-2
 play,1,0,poatr101,??,,NP
-sub,peter101,"R Peters",0,8,12
+sub,peter101,"Rusty Peters",0,8,12
 com,"$Courtesy runner while Mack is treated"
 play,1,0,poatr101,??,,S/COUR.3-H;2-3;1-2
 play,1,0,hocko101,??,,NP
@@ -5520,7 +5520,7 @@ play,1,1,mosew101,??,,S
 play,1,1,tuckt102,??,,CS2(99)
 play,1,1,tuckt102,??,,K
 play,1,1,curtg102,??,,K
-play,2,0,stepv101,??,,K
+play,2,0,stepv101,??,,99
 play,2,0,byrnm101,??,,99
 play,2,0,chrim102,??,,99
 play,2,1,appll101,??,,6/L
@@ -5547,27 +5547,27 @@ play,5,0,chrim102,??,,S9.1-2
 play,5,0,ferrr101,??,,K
 play,5,0,galed101,??,,S8/F.2-3;1-2
 play,5,0,guttd101,??,,9/F
-play,5,1,webbs101,??,,S
-play,5,1,tresm101,??,,W.1-2
+play,5,1,webbs101,??,,99
+play,5,1,tresm101,??,,W
 play,5,1,grovo101,??,,K+PO1(23)/DP
-play,5,1,mosew101,??,,99
 play,6,0,zaria101,??,,9/L
 play,6,0,mcqug101,??,,S1/G
 play,6,0,laabc101,??,,D.1-H
 play,6,0,stepv101,??,,SB3
 play,6,0,stepv101,??,,99
 play,6,0,byrnm101,??,,99
+play,6,1,mosew101,??,,99
 play,6,1,tuckt102,??,,S
 play,6,1,curtg102,??,,FC1.1-2(E1/TH2);B-1
-play,6,1,appll101,??,,99(1)/FO.2-3
+play,6,1,appll101,??,,46(1)/FO.2-3
 play,6,1,hodgr101,??,,SB2
 play,6,1,hodgr101,??,,S.3-H;2-3
-play,6,1,hansd102,??,,99
-play,6,1,webbs101,??,,99
+play,6,1,hansd102,??,,6/L
 play,7,0,chrim102,??,,99
 play,7,0,ferrr101,??,,K
 play,7,0,galed101,??,,99
-play,7,1,tresm101,??,,W
+play,7,1,webbs101,??,,S
+play,7,1,tresm101,??,,W.1-2
 play,7,1,grovo101,??,,K
 play,7,1,mosew101,??,,99
 play,7,1,tuckt102,??,,99
@@ -5575,7 +5575,7 @@ play,8,0,guttd101,??,,S9
 play,8,0,zaria101,??,,S1/BG.1-2
 play,8,0,mcqug101,??,,99/SH.2-3;1-2
 play,8,0,laabc101,??,,IW
-play,8,0,stepv101,??,,99
+play,8,0,stepv101,??,,K
 play,8,0,byrnm101,??,,13
 play,8,1,curtg102,??,,W
 play,8,1,appll101,??,,D9.1-3
@@ -5788,14 +5788,14 @@ play,1,0,waked101,??,,S
 play,1,0,yorkr101,??,,K
 play,1,1,boudl101,??,,99
 play,1,1,edwah101,??,,99
-play,1,1,keltk101,??,,D
-play,1,1,heatj101,??,,31
+play,1,1,keltk101,??,,99
 play,2,0,higgm101,??,,99
 play,2,0,blooj101,??,,99
 play,2,0,hoovj101,??,,99
+play,2,1,heatj101,??,,S#
 play,2,1,cullr101,??,,K
 play,2,1,denno101,??,,99
-play,2,1,rosab101,??,,W
+play,2,1,rosab101,??,,W.1-2
 play,2,1,mackr101,??,,99
 play,3,0,richp101,??,,99
 play,3,0,trucv101,??,,99
@@ -5855,8 +5855,8 @@ play,9,0,radcr101,??,,S/L78.1-3
 play,9,0,waked101,??,,99/G.3-H;1-2
 play,9,0,yorkr101,??,,99
 play,9,1,edwah101,??,,99
-play,9,1,keltk101,??,,99
-play,9,1,heatj101,??,,S
+play,9,1,keltk101,??,,D
+play,9,1,heatj101,??,,31/G.2-3
 play,9,1,cullr101,??,,99
 data,er,trucv101,0
 data,er,hardm101,2
@@ -6863,7 +6863,7 @@ info,timeofgame,131
 info,attendance,0
 info,wp,florj101
 info,lp,milna101
-info,save,
+info,save,wolfr102
 info,gwrbi,
 start,welaj101,"Johnny Welaj",0,1,9
 start,whitj104,"Jo-Jo White",0,2,8
@@ -7213,7 +7213,7 @@ play,4,1,seerp101,??,,99
 play,4,1,cullr101,??,,W
 play,4,1,keltk101,??,,S.1-3;B-2(TH)
 play,4,1,roccm101,??,,IW
-play,4,1,desag101,??,,99/G.3-H;2-3;1-2
+play,4,1,desag101,??,,64(1)/FO.3-H;2-3
 play,4,1,mackr101,??,,99
 play,5,0,chrim102,??,,S
 play,5,0,hayef101,??,,99/F
@@ -7991,7 +7991,7 @@ play,10,0,pridj101,??,,NP
 sub,centp101,"Pete Center",1,9,1
 play,10,0,pridj101,??,,7.3-H
 play,10,0,sullj104,??,,WP.2-3;1-2
-play,10,0,sullj104,??,,W
+play,10,0,sullj104,??,,IW
 play,10,0,earlj101,??,,W.3-H;2-3;1-2
 play,10,0,mertj101,??,,99
 play,10,0,caseg101,??,,PO1(99)
@@ -8613,7 +8613,7 @@ play,8,0,lupit101,??,,99
 play,8,1,peter101,??,,NP
 sub,taboj101,"Jim Tabor",0,1,5
 play,8,1,peter101,??,,NP
-sub,newss101,"Skeeter Newsom",0,8,6
+sub,newss101,"Skeeter Newsome",0,8,6
 play,8,1,peter101,??,,99
 play,8,1,hocko101,??,,99
 play,8,1,edwah101,??,,99
@@ -10477,7 +10477,7 @@ play,9,0,roccm101,??,,99
 play,9,1,cramd102,??,,99
 play,9,1,woodj101,??,,K
 play,9,1,waked101,??,,S
-play,9,1,higgm101,??,,W.1-2
+play,9,1,higgm101,??,,IW.1-2
 play,9,1,harrn101,??,,NP
 sub,milna101,"Al Milner",0,9,1
 play,9,1,harrn101,??,,9/F
@@ -10744,7 +10744,7 @@ play,7,1,metrc101,??,,99
 play,7,1,hoovj101,??,,T
 play,7,1,waked101,??,,S.3-H
 play,7,1,yorkr101,??,,HR/7.1-H
-play,7,1,higgm101,??,,99
+play,7,1,higgm101,??,,99/F
 play,7,1,rossd101,??,,S
 play,7,1,blooj101,??,,HR/7.1-H
 play,7,1,unsea101,??,,99
@@ -11291,43 +11291,43 @@ start,troud101,"Dizzy Trout",1,9,1
 play,1,0,mosew101,??,,99
 play,1,0,hodgr101,??,,S
 play,1,0,curtg102,??,,CS2(99)
-play,1,0,curtg102,??,,99
+play,1,0,curtg102,??,,S
+play,1,0,appll101,??,,99
 play,1,1,cramd102,??,,K
 play,1,1,hoovj101,??,,K
 play,1,1,waked101,??,,99
-play,2,0,appll101,??,,S
-play,2,0,cucct101,??,,6(1)3/GDP
+play,2,0,cucct101,??,,99
 play,2,0,kuhej101,??,,99
+play,2,0,culld101,??,,2
 play,2,1,yorkr101,??,,K
 play,2,1,higgm101,??,,99
 play,2,1,rossd101,??,,99
-play,3,0,culld101,??,,2
 play,3,0,tresm101,??,,K
 play,3,0,smite105,??,,K
+play,3,0,mosew101,??,,99
 play,3,1,blooj101,??,,S
 play,3,1,richp101,??,,14(1)3/GDP
 play,3,1,troud101,??,,K
-play,4,0,mosew101,??,,99
-play,4,0,hodgr101,??,,S
-play,4,0,curtg102,??,,S.1-2
+play,4,0,hodgr101,??,,99
+play,4,0,curtg102,??,,S
 play,4,0,appll101,??,,K
-play,4,0,cucct101,??,,99
+play,4,0,cucct101,??,,W.1-2
+play,4,0,kuhej101,??,,99
 play,4,1,cramd102,??,,S
 play,4,1,hoovj101,??,,FC2/SH.1-3(E2/TH);B-2
 play,4,1,waked101,??,,9/F.3-H;2-3
 play,4,1,yorkr101,??,,8/F.3-H
 play,4,1,higgm101,??,,S
 play,4,1,rossd101,??,,99
-play,5,0,kuhej101,??,,99
 play,5,0,culld101,??,,99
 play,5,0,tresm101,??,,99
+play,5,0,smite105,??,,99
 play,5,1,blooj101,??,,K
 play,5,1,richp101,??,,99
 play,5,1,troud101,??,,W
 play,5,1,cramd102,??,,S.1-2
 play,5,1,hoovj101,??,,99
-play,6,0,smite105,??,,99
-play,6,0,mosew101,??,,S
+play,6,0,mosew101,??,,99
 play,6,0,hodgr101,??,,99
 play,6,0,curtg102,??,,99
 play,6,1,waked101,??,,99
@@ -11345,19 +11345,19 @@ play,7,1,cramd102,??,,99
 play,7,1,hoovj101,??,,99
 play,8,0,tresm101,??,,99
 play,8,0,smite105,??,,99
-play,8,0,mosew101,??,,99
+play,8,0,mosew101,??,,S
+play,8,0,hodgr101,??,,S.1-2
+play,8,0,curtg102,??,,99(1)/FO
 play,8,1,waked101,??,,99
 play,8,1,yorkr101,??,,HR
 play,8,1,higgm101,??,,S
 play,8,1,rossd101,??,,S.1-2
 play,8,1,blooj101,??,,99
 play,8,1,richp101,??,,99
-play,9,0,hodgr101,??,,NP
+play,9,0,appll101,??,,NP
 sub,harrn101,"Ned Harris",1,6,9
-play,9,0,hodgr101,??,,99
-play,9,0,curtg102,??,,S
-play,9,0,appll101,??,,99
-play,9,0,cucct101,??,,W.1-2
+play,9,0,appll101,??,,S
+play,9,0,cucct101,??,,6(1)3/GDP
 play,9,0,kuhej101,??,,99
 data,er,smite105,5
 data,er,troud101,0
@@ -16254,22 +16254,22 @@ play,7,1,guttd101,??,,NP
 sub,scarr102,"Roy Scarborough",0,9,1
 play,7,1,guttd101,??,,S
 play,7,1,byrnm101,??,,99/SH.1-2
-play,7,1,laabc101,??,,WP.2-3
 play,7,1,laabc101,??,,K
 play,7,1,stepv101,??,,99
 play,8,0,moorg104,??,,HR
 play,8,0,johnb102,??,,NP
 sub,castg101,"George Caster",1,9,1
 play,8,0,johnb102,??,,S
-play,8,0,vernm101,??,,99/G.1-2
+play,8,0,vernm101,??,,3/G.1-2
 play,8,0,earlj101,??,,K
 play,8,0,pridj101,??,,K
 play,8,1,zaria101,??,,S
 play,8,1,mcqug101,??,,E4.1-2
 play,8,1,hayef101,??,,99(2)/FO.1-2
-play,8,1,clifh101,??,,W.2-3;1-2
-play,8,1,castg101,??,,99.3-H(UR)
-play,8,1,guttd101,??,,99
+play,8,1,clifh101,??,,WP.2-3;1-2
+play,8,1,clifh101,??,,IW
+play,8,1,castg101,??,,13.3-H(UR);2-3;1-2
+play,8,1,guttd101,??,,6/L
 play,9,0,sullj104,??,,99
 play,9,0,scarr102,??,,NP
 sub,kampa101,"Alex Kampouris",0,9,11
@@ -16279,135 +16279,6 @@ data,er,mertj101,3
 data,er,scarr102,0
 data,er,sunds101,2
 data,er,castg101,0
-id,SLA194307042
-version,4
-info,inputprogvers,"version 7RS(19) of 07/07/92"
-info,visteam,WS1
-info,hometeam,SLA
-info,site,STL07
-info,date,1943/07/04
-info,number,2
-info,starttime,0:00PM
-info,daynight,day
-info,usedh,false
-info,umphome,romme101
-info,ump1b,hubbc901
-info,ump2b,(none)
-info,ump3b,(none)
-info,translator,"Dick Cramer"
-info,inputter,"Dick Cramer"
-info,inputtime,2016/11/21 9:45AM
-info,scorer,"208,222"
-info,howscored,unknown
-info,pitches,none
-info,temp,0
-info,winddir,unknown
-info,windspeed,-1
-info,fieldcond,unknown
-info,precip,unknown
-info,sky,unknown
-info,timeofgame,104
-info,attendance,9355
-info,wp,holla101
-info,lp,carra101
-info,save,
-info,gwrbi,
-start,caseg101,"George Case",0,1,7
-start,spens101,"Stan Spence",0,2,8
-start,moorg104,"Gene Moore",0,3,9
-start,johnb102,"Bob Johnson",0,4,5
-start,pridj101,"Jerry Priddy",0,5,4
-start,vernm101,"Mickey Vernon",0,6,3
-start,sullj104,"John Sullivan",0,7,6
-start,giult101,"Tony Giuliani",0,8,2
-start,carra101,"Alex Carrasquel",0,9,1
-start,guttd101,"Don Gutteridge",1,1,4
-start,byrnm101,"Milt Byrnes",1,2,8
-start,laabc101,"Chet Laabs",1,3,7
-start,stepv101,"Vern Stephens",1,4,6
-start,zaria101,"Al Zarilla",1,5,9
-start,mcqug101,"George McQuinn",1,6,3
-start,clifh101,"Harlond Clift",1,7,5
-start,ferrr101,"Rick Ferrell",1,8,2
-start,holla101,"Al Hollingsworth",1,9,1
-play,1,0,caseg101,??,,99
-play,1,0,spens101,??,,S
-play,1,0,moorg104,??,,W.1-2
-play,1,0,johnb102,??,,K
-play,1,0,pridj101,??,,99
-play,1,1,guttd101,??,,S
-play,1,1,byrnm101,??,,SB2
-play,1,1,byrnm101,??,,99
-play,1,1,laabc101,??,,HR/8.2-H
-play,1,1,stepv101,??,,99
-play,1,1,zaria101,??,,99
-play,2,0,vernm101,??,,K
-play,2,0,sullj104,??,,99
-play,2,0,giult101,??,,S
-play,2,0,carra101,??,,K
-play,2,1,mcqug101,??,,D
-play,2,1,clifh101,??,,99/SH.2-3
-play,2,1,ferrr101,??,,S.3-H
-play,2,1,holla101,??,,26(1)3/GDP
-play,3,0,caseg101,??,,S
-play,3,0,spens101,??,,SB2
-play,3,0,spens101,??,,HR/9.2-H
-play,3,0,moorg104,??,,S
-play,3,0,johnb102,??,,99
-play,3,0,pridj101,??,,6(1)3/GDP
-play,3,1,guttd101,??,,W
-play,3,1,byrnm101,??,,SB2
-play,3,1,byrnm101,??,,D.2-H
-play,3,1,laabc101,??,,99
-play,3,1,stepv101,??,,99
-play,3,1,zaria101,??,,S.2-3
-play,3,1,mcqug101,??,,99
-play,4,0,vernm101,??,,E6
-play,4,0,sullj104,??,,99
-play,4,0,giult101,??,,99
-play,4,0,carra101,??,,W.1-2
-play,4,0,caseg101,??,,99
-play,4,1,clifh101,??,,D
-play,4,1,ferrr101,??,,D.2-H
-play,4,1,holla101,??,,99
-play,4,1,guttd101,??,,99
-play,4,1,byrnm101,??,,99
-play,5,0,spens101,??,,S
-play,5,0,moorg104,??,,SB2
-play,5,0,moorg104,??,,99
-play,5,0,johnb102,??,,99
-play,5,0,pridj101,??,,W
-play,5,0,vernm101,??,,99
-play,5,1,laabc101,??,,S
-play,5,1,stepv101,??,,SB2
-play,5,1,stepv101,??,,W
-play,5,1,zaria101,??,,99/SH.2-3;1-2
-play,5,1,mcqug101,??,,S.3-H;2-H
-play,5,1,clifh101,??,,99
-play,5,1,ferrr101,??,,PO1(99)
-play,6,0,sullj104,??,,S
-play,6,0,giult101,??,,99.1-2
-play,6,0,carra101,??,,99
-play,6,0,caseg101,??,,S.2-H
-play,6,0,spens101,??,,99
-play,6,1,ferrr101,??,,99
-play,6,1,holla101,??,,99
-play,6,1,guttd101,??,,99
-play,7,0,moorg104,??,,99
-play,7,0,johnb102,??,,S
-play,7,0,pridj101,??,,99
-play,7,0,vernm101,??,,99
-play,7,1,byrnm101,??,,99
-play,7,1,laabc101,??,,W
-play,7,1,stepv101,??,,S.1-2
-play,7,1,zaria101,??,,E5.2-H(NR);1-2
-play,7,1,mcqug101,??,,W.2-3;1-2
-play,7,1,clifh101,??,,W.3-H;2-3;1-2
-play,7,1,ferrr101,??,,99.3-H(UR)
-play,7,1,holla101,??,,99
-com,"$Game called to allow Senators to catch train"
-data,er,carra101,9
-data,er,holla101,3
 id,SLA194307111
 version,4
 info,inputprogvers,"version 7RS(19) of 07/07/92"
@@ -19439,7 +19310,7 @@ play,3,0,cramd102,??,,99
 play,3,1,caseg101,??,,S
 play,3,1,spens101,??,,SB2
 play,3,1,spens101,??,,K
-play,3,1,vernm101,??,,99
+play,3,1,vernm101,??,,99/F
 play,3,1,johnb102,??,,D.2-H
 play,3,1,pridj101,??,,99
 play,4,0,waked101,??,,S
@@ -19484,9 +19355,9 @@ play,8,0,hoovj101,??,,NP
 sub,metrc101,"Charlie Metro",0,9,12
 play,8,0,hoovj101,??,,E5/SH.1-2
 play,8,0,cramd102,??,,99/SH.2-3;1-2
-play,8,0,waked101,??,,99/F.3-H(UR)
+play,8,0,waked101,??,,8/F.3-H(UR)
 play,8,0,higgm101,??,,S.2-3
-play,8,0,rossd101,??,,99
+play,8,0,rossd101,??,,9/L
 play,8,1,vernm101,??,,NP
 sub,gorsj101,"J Gorsica",0,9,1
 play,8,1,vernm101,??,,99
@@ -19500,7 +19371,7 @@ play,9,0,gorsj101,??,,NP
 sub,woodj101,"J Wood",0,8,12
 play,9,0,gorsj101,??,,NP
 sub,harrn101,"Ned Harris",0,9,11
-play,9,0,harrn101,??,,FC.3-H;1X3(99);B-1
+play,9,0,harrn101,??,,FC6.3-H;1X3(99);B-1
 play,9,0,hoovj101,??,,PO1(99)
 play,9,1,kampa101,??,,NP
 sub,parsd101,"Dave Parsons",0,8,2
@@ -20554,7 +20425,7 @@ com,"Hollingsworth argued balk call vehemently, laid his hands"
 com,"on the umpire and was ejected"
 play,7,1,moorg104,??,,NP
 sub,castg101,"George Caster",0,9,1
-play,7,1,moorg104,??,,99.3-H
+play,7,1,moorg104,??,,8/F.3-H
 play,7,1,pridj101,??,,99
 play,8,0,clifh101,??,,99
 play,8,0,mcqug101,??,,W

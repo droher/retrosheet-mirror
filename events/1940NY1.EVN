@@ -1062,61 +1062,61 @@ play,3,1,jurgb101,??,,53
 play,3,1,glosa101,??,,K
 play,3,1,schuh103,??,,63
 play,4,0,hermb101,??,,HR/7
-play,4,0,gleej101,??,,S
-play,4,0,leibh101,??,,99
-play,4,0,galaa101,??,,99
-play,4,0,russr101,??,,S.1-2
+play,4,0,gleej101,??,,S8
+play,4,0,leibh101,??,,7
+play,4,0,galaa101,??,,16(1)/FO
+play,4,0,russr101,??,,S9.1-2
 play,4,0,todda101,??,,6/P
-play,4,1,whitb101,??,,99
+play,4,1,whitb101,??,,8
 play,4,1,moorj103,??,,W
-play,4,1,demaf102,??,,99
-play,4,1,ott-m101,??,,99
+play,4,1,demaf102,??,,16(1)/FO
+play,4,1,ott-m101,??,,2/FL
 play,5,0,mattb101,??,,9/L
-play,5,0,passc101,??,,99
-play,5,0,rogeb102,??,,99
-play,5,1,dannh101,??,,99
-play,5,1,younb102,??,,E1
+play,5,0,passc101,??,,53
+play,5,0,rogeb102,??,,43
+play,5,1,dannh101,??,,63
+play,5,1,younb102,??,,3E1
 play,5,1,jurgb101,??,,W.1-2
-play,5,1,glosa101,??,,99/F
-play,5,1,schuh103,??,,99/F
-play,6,0,hermb101,??,,S
-play,6,0,gleej101,??,,K
-play,6,0,leibh101,??,,99
-play,6,0,galaa101,??,,99
+play,5,1,glosa101,??,,8/F
+play,5,1,schuh103,??,,9/F
+play,6,0,hermb101,??,,S8
+play,6,0,gleej101,??,,46(1)/FO
+play,6,0,leibh101,??,,54(1)/FO
+play,6,0,galaa101,??,,4/P
 play,6,1,whitb101,??,,E4
-play,6,1,moorj103,??,,S.1-2
+play,6,1,moorj103,??,,S3.1-2
 play,6,1,demaf102,??,,4/P
-play,6,1,ott-m101,??,,99(1)/FO.2-3
+play,6,1,ott-m101,??,,46(1)/FO.2-3
 play,6,1,dannh101,??,,3/FL
-play,7,0,russr101,??,,E5
-play,7,0,todda101,??,,S.1-2
-play,7,0,mattb101,??,,S.2-H(UR);1-2
-play,7,0,passc101,??,,D7/G.2-H;1-H
+play,7,0,russr101,??,,E5/TH
+play,7,0,todda101,??,,S7.1-2
+play,7,0,mattb101,??,,S7.2-H(UR);1-3;B-2(TH)
+play,7,0,passc101,??,,D7/G.3-H;2-H
 play,7,0,rogeb102,??,,PO2(E6).2-3
-play,7,0,rogeb102,??,,99
-play,7,0,hermb101,??,,99
-play,7,0,gleej101,??,,99
-play,7,1,younb102,??,,99
-play,7,1,jurgb101,??,,99
-play,7,1,glosa101,??,,99
-play,8,0,leibh101,??,,99
-play,8,0,galaa101,??,,99
-play,8,0,russr101,??,,99
+play,7,0,rogeb102,??,,43
+play,7,0,hermb101,??,,8
+play,7,0,gleej101,??,,K
+play,7,1,younb102,??,,43
+play,7,1,jurgb101,??,,4/P
+play,7,1,glosa101,??,,8
+play,8,0,leibh101,??,,6/FL
+play,8,0,galaa101,??,,43
+play,8,0,russr101,??,,53
 play,8,1,schuh103,??,,NP
 sub,ruckj101,"Johnny Rucker",1,9,11
-play,8,1,ruckj101,??,,99
-play,8,1,whitb101,??,,99
-play,8,1,moorj103,??,,S
+play,8,1,ruckj101,??,,13
+play,8,1,whitb101,??,,63
+play,8,1,moorj103,??,,S7
 play,8,1,demaf102,??,,E6/G.1-2
 play,8,1,ott-m101,??,,53
 play,9,0,todda101,??,,NP
 sub,browj110,"Jumbo Brown",1,9,1
-play,9,0,todda101,??,,99
+play,9,0,todda101,??,,8
 play,9,0,mattb101,??,,K
-play,9,0,passc101,??,,99
-play,9,1,dannh101,??,,99
-play,9,1,younb102,??,,99
-play,9,1,jurgb101,??,,99
+play,9,0,passc101,??,,43
+play,9,1,dannh101,??,,9
+play,9,1,younb102,??,,7
+play,9,1,jurgb101,??,,4/L
 data,er,passc101,0
 data,er,schuh103,3
 data,er,browj110,0
@@ -2187,9 +2187,9 @@ info,number,0
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
-info,scorer,"98,96,103,104,140"
-info,translator,"Tom Thress"
-info,inputter,"Tom Thress"
+info,scorer,"98,96,103,104,140,611"
+info,translator,"Tom Thress/RWood"
+info,inputter,"Tom Thress/RWood"
 info,inputtime,2017/11/28 9:26AM
 info,umphome,balll901
 info,ump1b,campb901
@@ -2229,7 +2229,7 @@ start,witem101,"Mickey Witek",1,8,4
 start,schuh103,"Hal Schumacher",1,9,1
 play,1,0,handl101,??,,S8
 play,1,0,ellib103,??,,PO1(136)
-play,1,0,ellib103,??,,5
+play,1,0,ellib103,??,,5/P
 play,1,0,vauga101,??,,13
 play,1,1,whitb101,??,,53
 play,1,1,moorj103,??,,43
@@ -2241,20 +2241,21 @@ play,2,0,dimav101,??,,W
 play,2,0,davis101,??,,SB2
 play,2,0,davis101,??,,W
 play,2,0,bowmj101,??,,K
-play,2,1,younb102,??,,99
-play,2,1,dannh101,??,,99
+play,2,1,younb102,??,,99/F
+play,2,1,dannh101,??,,99/FL
 play,2,1,ott-m101,??,,K
 play,3,0,handl101,??,,W
-play,3,0,ellib103,??,,99
-play,3,0,vauga101,??,,99
-play,3,0,flete101,??,,99
+play,3,0,ellib103,??,,99/G
+play,3,0,vauga101,??,,99/G
+play,3,0,flete101,??,,99/G
 play,3,1,jurgb101,??,,W
 play,3,1,witem101,??,,PO1(23)
 play,3,1,witem101,??,,W
-play,3,1,schuh103,??,,W.1-3(E2/TH)
-com,"$Witek was going with the pitch on 3-2. The pitch was ball 4,"
-com,"but Davis threw to 2B anyway, the throw going into CF."
-play,3,1,whitb101,??,,FC4.3-H;1-2(E4/TH)
+play,3,1,schuh103,??,,W.1-3(E2/TH2)
+com,"$Witek was running on 3-2 pitch. The pitch was ball 4,"
+com,"but Davis threw to 2B anyway, the throw going into CF"
+com,"allowing Witek to reach 3B"
+play,3,1,whitb101,??,,FC4.3-H;1-2(E4/TH2);B-1
 com,"ej,vauga101,P,campb901,call at 2B"
 com,"$SS Vaughan ejected by 1B umpire Campbell for arguing that Gustine's"
 com,"throw had not pulled him off the bag"
@@ -2262,26 +2263,26 @@ play,3,1,moorj103,??,,NP
 sub,younp101,"Pep Young",0,3,6
 play,3,1,moorj103,??,,S9.2-H;1-3
 play,3,1,seedb101,??,,64(1)/FO.3-H(UR);B-2(E4/TH)
-play,3,1,younb102,??,,99
+play,3,1,younb102,??,,99/F
 play,4,0,vanrm101,??,,K
-play,4,0,gustf101,??,,99
-play,4,0,dimav101,??,,K
+play,4,0,gustf101,??,,99/G
+play,4,0,dimav101,??,,99/F
 play,4,1,dannh101,??,,D
-play,4,1,ott-m101,??,,99
-play,4,1,jurgb101,??,,99
+play,4,1,ott-m101,??,,99/G
+play,4,1,jurgb101,??,,99/G
 play,4,1,witem101,??,,W
 play,4,1,schuh103,??,,HP.2-3;1-2
-play,4,1,whitb101,??,,99
+play,4,1,whitb101,??,,99/F
 play,5,0,davis101,??,,S
 play,5,0,bowmj101,??,,S.1-2#
-play,5,0,handl101,??,,99
-play,5,0,ellib103,??,,99
+play,5,0,handl101,??,,99/F
+play,5,0,ellib103,??,,99/G
 play,5,0,younp101,??,,K
 play,5,1,moorj103,??,,HP
 play,5,1,seedb101,??,,S.1-2#
 play,5,1,younb102,??,,S.2-H;1-2#
 play,5,1,dannh101,??,,HR8/IPHR.2-H;1-H
-com,"Line drive over DiMaggio's head that landed behind the Eddie"
+com,"$Long drive over DiMaggio's head landed behind the Eddie"
 com,"Grant memorial 460 feet from home plate"
 play,5,1,ott-m101,??,,NP
 sub,lanad101,"Dick Lanahan",0,9,1
@@ -2295,9 +2296,9 @@ sub,lannj101,"Johnny Lanning",0,9,1
 play,5,1,moorj103,??,,S9.3-H(UR);1-2#
 play,5,1,seedb101,??,,K
 play,5,1,younb102,??,,99
-play,6,0,flete101,??,,99
-play,6,0,vanrm101,??,,99
-play,6,0,gustf101,??,,99
+play,6,0,flete101,??,,99/G
+play,6,0,vanrm101,??,,99/G
+play,6,0,gustf101,??,,99/G
 play,6,1,dannh101,??,,NP
 sub,ferne101,"Ed Fernandes",0,8,2
 play,6,1,dannh101,??,,T9
@@ -2305,27 +2306,27 @@ play,6,1,ott-m101,??,,D7.3-H
 play,6,1,jurgb101,??,,99/F
 play,6,1,witem101,??,,S7.2-H;BX2(753)
 play,6,1,schuh103,??,,S
-play,6,1,whitb101,??,,99
+play,6,1,whitb101,??,,99/F
 play,7,0,dimav101,??,,E5.B-2
-play,7,0,ferne101,??,,99
+play,7,0,ferne101,??,,99/F
 play,7,0,lannj101,??,,K
-play,7,0,handl101,??,,99
-play,7,1,moorj103,??,,99
+play,7,0,handl101,??,,99/G
+play,7,1,moorj103,??,,99/F
 play,7,1,seedb101,??,,K
 play,7,1,younb102,??,,S
 play,7,1,dannh101,??,,S.1-2#
-play,7,1,ott-m101,??,,99
-play,8,0,ellib103,??,,99
-play,8,0,younp101,??,,99
-play,8,0,flete101,??,,99
-play,8,1,jurgb101,??,,99
-play,8,1,witem101,??,,99
+play,7,1,ott-m101,??,,99/G
+play,8,0,ellib103,??,,99/G
+play,8,0,younp101,??,,99/F
+play,8,0,flete101,??,,99/F
+play,8,1,jurgb101,??,,99/G
+play,8,1,witem101,??,,99/F
 play,8,1,schuh103,??,,S
-play,8,1,whitb101,??,,99
+play,8,1,whitb101,??,,99/F
 play,9,0,vanrm101,??,,S
-play,9,0,gustf101,??,,99
-play,9,0,dimav101,??,,99
-play,9,0,ferne101,??,,99
+play,9,0,gustf101,??,,99/G
+play,9,0,dimav101,??,,K
+play,9,0,ferne101,??,,99/FL
 data,er,bowmj101,6
 data,er,lanad101,1
 data,er,lannj101,2
@@ -4780,10 +4781,10 @@ info,number,2
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
-info,translator,"Dick Cramer"
-info,inputter,"Dick Cramer"
+info,translator,"Dick Cramer/RWood"
+info,inputter,"Dick Cramer/RWood"
 info,inputtime,2017/12/14 7:00PM
-info,scorer,"266,119,104,98,99,103,96"
+info,scorer,"266,119,104,98,99,103,96,611"
 info,umphome,rearb901
 info,ump1b,goetl901
 info,ump2b,(none)
@@ -4851,10 +4852,10 @@ play,3,1,demaf102,??,,99
 play,3,1,younb102,??,,99
 play,4,0,bragb101,??,,NP
 sub,vandh101,"H Vandenberg",1,9,1
-play,4,0,bragb101,??,,99
-play,4,0,schuh104,??,,W
-play,4,0,warrb102,??,,W.1-2
-play,4,0,johns103,??,,K
+play,4,0,bragb101,??,,S
+play,4,0,schuh104,??,,99/SH.1-2
+play,4,0,warrb102,??,,W
+play,4,0,johns103,??,,99
 play,4,0,mahaa101,??,,K
 play,4,1,dannh101,??,,99
 play,4,1,ott-m101,??,,99
@@ -4866,9 +4867,9 @@ play,5,1,witem101,??,,D
 play,5,1,vandh101,??,,9/L
 play,5,1,whitb101,??,,S.2-3
 play,5,1,moorj103,??,,3/G/GDP.3-H;1X2(36)
-play,6,0,may-p101,??,,D
+play,6,0,may-p101,??,,K
 play,6,0,bragb101,??,,99
-play,6,0,schuh104,??,,99/SH.2-3
+play,6,0,schuh104,??,,W
 play,6,0,warrb102,??,,99
 play,6,1,demaf102,??,,99
 play,6,1,younb102,??,,HR/9
@@ -4887,16 +4888,16 @@ play,8,0,martj102,??,,NP
 sub,browj110,"Jumbo Brown",1,9,1
 play,8,0,martj102,??,,99
 play,8,0,rizzj101,??,,99
-play,8,0,may-p101,??,,K
+play,8,0,may-p101,??,,D
+play,8,0,bragb101,??,,99
 play,8,1,whitb101,??,,99
 play,8,1,moorj103,??,,S
-play,8,1,demaf102,??,,99
+play,8,1,demaf102,??,,99(1)/FO
 play,8,1,younb102,??,,S.1-2
 play,8,1,dannh101,??,,43
-play,9,0,bragb101,??,,S.B-2(E8)
 play,9,0,schuh104,??,,99
 play,9,0,warrb102,??,,99
-play,9,0,johns103,??,,99
+play,9,0,johns103,??,,K
 play,9,1,ott-m101,??,,99
 play,9,1,cucct101,??,,S
 play,9,1,witem101,??,,4/L
@@ -5266,24 +5267,23 @@ play,4,0,bonuz101,??,,8
 play,4,0,todda101,??,,3/P
 play,4,0,warsr101,??,,K
 play,4,1,dannh101,??,,K
-play,4,1,ott-m101,??,,99
+play,4,1,ott-m101,??,,2
 play,4,1,cucct101,??,,W
-play,4,1,stewg101,??,,99
+play,4,1,stewg101,??,,54(1)/FO
 play,5,0,frenl101,??,,43
 play,5,0,hacks101,??,,K
 play,5,0,hermb101,??,,53
 play,5,1,meltc101,??,,K
-play,5,1,moorj103,??,,E6
-play,5,1,whitb101,??,,S6.1-2
+play,5,1,moorj103,??,,7
+play,5,1,whitb101,??,,S6
 com,"$Rain started"
-play,5,1,seedb101,??,,5/LDP.1X1(53)
+play,5,1,seedb101,??,,6/L
 play,6,0,galaa101,??,,53
 play,6,0,nichb101,??,,K
 play,6,0,leibh101,??,,K
 play,6,1,younb102,??,,S
-play,6,1,dannh101,??,,99
-play,6,1,ott-m101,??,,99
-play,6,1,cucct101,??,,99
+play,6,1,dannh101,??,,5(B)3(1)/LDP
+play,6,1,ott-m101,??,,4
 play,7,0,bonuz101,??,,W
 play,7,0,todda101,??,,64(1)/FO
 play,7,0,warsr101,??,,S7/G56.1-3
@@ -5297,12 +5297,12 @@ com,"catch Galan off 2nd"
 play,7,0,leibh101,??,,W+SB3
 play,7,0,bonuz101,??,,HR/F7D.3-H;1-H
 play,7,0,todda101,??,,3/FL
+play,7,1,cucct101,??,,43
 play,7,1,stewg101,??,,S
 play,7,1,meltc101,??,,NP
 sub,witem101,"Mickey Witt",1,9,11
-play,7,1,witem101,??,,99
-play,7,1,moorj103,??,,99
-play,7,1,whitb101,??,,99
+play,7,1,witem101,??,,43.1-2
+play,7,1,moorj103,??,,31
 play,8,0,warsr101,??,,NP
 sub,ruckj101,"Johnny Rucker",1,1,8
 play,8,0,warsr101,??,,NP
@@ -5315,9 +5315,10 @@ play,8,0,warsr101,??,,K
 play,8,0,frenl101,??,,3/L
 play,8,0,hacks101,??,,S
 play,8,0,hermb101,??,,7
-play,8,1,seedb101,??,,99
-play,8,1,younb102,??,,99
-play,8,1,odeak101,??,,99
+play,8,1,whitb101,??,,5
+play,8,1,seedb101,??,,E6
+play,8,1,younb102,??,,3/G.1-2
+play,8,1,odeak101,??,,63
 play,9,0,galaa101,??,,W
 play,9,0,nichb101,??,,D.1-3
 play,9,0,leibh101,??,,W
@@ -5328,8 +5329,8 @@ play,9,0,warsr101,??,,W.1-2
 play,9,0,frenl101,??,,S.2-H;1-2
 play,9,0,hacks101,??,,8
 play,9,1,ott-m101,??,,S
-play,9,1,cucct101,??,,99
-play,9,1,stewg101,??,,99
+play,9,1,cucct101,??,,13.1-2
+play,9,1,stewg101,??,,13
 play,9,1,deanp101,??,,NP
 sub,schuh103,"Hal Schumacher",1,9,11
 play,9,1,schuh103,??,,K

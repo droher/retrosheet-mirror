@@ -297,7 +297,7 @@ info,inputtime,1995/05/12 11:00AM
 info,howscored,park
 info,pitches,none
 info,oscorer,kellr701
-info,temp,0
+info,temp,66
 info,winddir,unknown
 info,windspeed,-1
 info,fieldcond,unknown
@@ -413,9 +413,9 @@ play,9,0,clint101,??,,IW
 play,9,0,batej102,??,,WP.3-H;2-3;1-2
 play,9,0,batej102,??,,K
 play,9,0,laboc101,??,,K
-play,9,1,stonr102,??,,K
-play,9,1,brigj102,??,,K
-play,9,1,johnd103,??,,63
+play,9,1,stonr102,32,BBCCBS,K
+play,9,1,brigj102,22,CSBFBFS,K
+play,9,1,johnd103,11,CBX,63/G6
 data,er,stonb101,0
 data,er,johnj104,3
 data,er,wilsb101,3

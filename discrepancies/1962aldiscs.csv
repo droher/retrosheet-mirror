@@ -68,7 +68,6 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1962A0071","cashn101",1962,"DET","O",,"CS","MIN196207230",1,0,,,,
 "1962A0072","cashn101",1962,"DET","O",,"CS","DET196208240",1,0,,,,
 "1962A0073","fernc102",1962,"DET","O",,"CS","DET196206232",1,0,,,,
-"1962A0074","fernc102",1962,"DET","O",,"CS","LAA196207190",1,0,,,,
 "1962A0075","mortb101",1962,"DET","O",,"SO","DET196207030",0,1,"1962A0077","SWAP",,
 "1962A0076","mortb101",1962,"DET","O",,"SB","BAL196207010",1,0,,,,
 "1962A0077","roarm101",1962,"DET","O",,"SO","DET196207030",1,0,"1962A0075","SWAP",,

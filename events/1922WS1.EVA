@@ -8926,24 +8926,25 @@ play,10,0,mcins101,??,,D7
 play,10,0,speat101,??,,S9/F.2-3
 play,10,0,stepr101,??,,S8.3-H;1-2
 play,10,0,sewej101,??,,NP
-sub,franr101,"R Francis",1,9,1
+sub,franr101,"Ray Francis",1,9,1
 presadj,franr101,2
+presadj,franr101,1
 play,10,0,sewej101,??,,S/BG.2-3;1-2
 play,10,0,woodj108,??,,12(3)/FO.2-3;1-2
 play,10,0,gardl101,??,,NP
-sub,nunal101,"L Nunamaker",0,7,11
+sub,nunal101,"Les Nunamaker",0,7,11
 play,10,0,nunal101,??,,S9/G.3-H;2XH(92);1-3;B-2
 play,10,0,oneis101,??,,IW
 play,10,0,coves101,??,,43
 play,10,1,piciv101,??,,NP
-sub,wambb101,"B Wambsgans",0,7,4
+sub,wambb101,"B Wambsganss",0,7,4
 play,10,1,piciv101,??,,NP
 sub,stepr101,"Riggs Stephenson",0,4,5
 play,10,1,piciv101,??,,NP
 sub,gharp101,"Pat Gharrity",1,8,11
 play,10,1,gharp101,??,,7/F
 play,10,1,franr101,??,,NP
-sub,bushd102,"Donnie Bush",1,9,11
+sub,bushd102,"Donie Bush",1,9,11
 play,10,1,bushd102,??,,K
 play,10,1,rices101,??,,8/F
 data,er,coves101,0
@@ -9289,7 +9290,7 @@ play,1,1,harrb106,??,,CS2(26)
 play,1,1,harrb106,??,,K
 play,1,1,judgj101,??,,3E1
 play,1,1,goslg101,??,,W.1-2
-play,1,1,browf102,??,,99
+play,1,1,browf102,??,,31
 play,2,0,falkb101,??,,K
 play,2,0,mcclh103,??,,K
 play,2,0,schar103,??,,4/F
@@ -9320,31 +9321,31 @@ play,5,0,colle101,??,,WP.3-H
 play,5,0,colle101,??,,S7
 play,5,0,sheee101,??,,CS2(24)
 play,5,1,lamob101,??,,K
-play,5,1,franr101,??,,99
-play,5,1,rices101,??,,99
-play,6,0,sheee101,??,,99
-play,6,0,mostj101,??,,99
-play,6,0,falkb101,??,,99
-play,6,1,harrb106,??,,99
-play,6,1,judgj101,??,,99
-play,6,1,goslg101,??,,99
-play,7,0,mcclh103,??,,99
-play,7,0,schar103,??,,T
-play,7,0,mackf101,??,,K
-play,7,0,hooph101,??,,99
+play,5,1,franr101,??,,5/FL
+play,5,1,rices101,??,,43
+play,6,0,sheee101,??,,43
+play,6,0,mostj101,??,,7
+play,6,0,falkb101,??,,2/FL
+play,6,1,harrb106,??,,3/P
+play,6,1,judgj101,??,,43
+play,6,1,goslg101,??,,8/L
+play,7,0,mcclh103,??,,5/P
+play,7,0,schar103,??,,T7
+play,7,0,mackf101,??,,K/C
+play,7,0,hooph101,??,,63
 play,7,1,browf102,??,,W
 play,7,1,gharp101,??,,E6/G.1-2
-play,7,1,peckr101,??,,6/F
+play,7,1,peckr101,??,,6/F7S
 play,7,1,lamob101,??,,NP
 sub,milac101,"Clyde Milan",1,8,11
 play,7,1,milac101,??,,2/FL
 play,7,1,franr101,??,,NP
-sub,goebe101,"E Goebel",1,9,11
+sub,goebe101,"Ed Goebel",1,9,11
 play,7,1,goebe101,??,,K
 play,8,0,johne102,??,,NP
 sub,shanh101,"Howie Shanks",1,8,5
 play,8,0,johne102,??,,NP
-sub,erice101,"E Erickson",1,9,1
+sub,erice101,"Eric Erickson",1,9,1
 play,8,0,johne102,??,,K
 play,8,0,colle101,??,,99
 play,8,0,sheee101,??,,99

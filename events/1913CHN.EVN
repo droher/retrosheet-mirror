@@ -4318,6 +4318,159 @@ play,9,0,clart101,??,,53
 data,er,suggg101,5
 data,er,packg101,0
 data,er,lavej101,1
+id,CHN191307050
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,CIN
+info,hometeam,CHN
+info,date,1913/07/05
+info,site,CHI08
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,umphome,brenb901
+info,ump1b,easom101
+info,ump2b,(none)
+info,ump3b,(none)
+info,scorer,"109,111,240"
+info,translator,"Wayne Townsend"
+info,inputter,"Wayne Townsend"
+info,inputtime,2023/07/20 11:30PM
+info,howscored,park
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,145
+info,attendance,8000
+info,wp,humpb101
+info,lp,johnc102
+info,save,
+info,gwrbi,
+start,devoj101,"Josh Devore",0,1,8
+start,bescb101,"Bob Bescher",0,2,7
+start,batej101,"Johnny Bates",0,3,9
+start,bergm101,"Marty Berghammer",0,4,6
+start,hobld101,"Dick Hoblitzell",0,5,3
+start,dodgj101,"John Dodge",0,6,5
+start,grohh101,"Heinie Groh",0,7,4
+start,clart101,"Tommy Clarke",0,8,2
+start,hartf102,"Frank Harter",0,9,1
+start,leact101,"Tommy Leach",1,1,8
+start,everj102,"Johnny Evers",1,2,4
+start,schuf103,"Frank Schulte",1,3,9
+start,zimmh101,"Heinie Zimmerman",1,4,5
+start,saiev101,"Vic Saier",1,5,3
+start,mitcm102,"Mike Mitchell",1,6,7
+start,brida101,"Al Bridwell",1,7,6
+start,bresr102,"Roger Bresnahan",1,8,2
+start,humpb101,"Bert Humphries",1,9,1
+play,1,0,devoj101,??,,13
+play,1,0,bescb101,??,,8/F8S
+play,1,0,batej101,??,,13/G23
+play,1,1,leact101,??,,7/F7S
+play,1,1,everj102,??,,W
+play,1,1,schuf103,??,,W.1-2
+play,1,1,zimmh101,??,,8/L78D
+play,1,1,saiev101,??,,W.2-3;1-2
+play,1,1,mitcm102,??,,13
+play,2,0,bergm101,??,,43
+play,2,0,hobld101,??,,43
+play,2,0,dodgj101,??,,143
+play,2,1,brida101,??,,7/F
+play,2,1,bresr102,??,,W
+play,2,1,humpb101,??,,K
+play,2,1,leact101,??,,43
+play,3,0,grohh101,??,,S6/G
+play,3,0,clart101,??,,5/P5D/DP.1X1(53)
+play,3,0,hartf102,??,,163
+play,3,1,everj102,??,,W
+play,3,1,schuf103,??,,W.1-2
+play,3,1,zimmh101,??,,E7/L.2-H(NR);1-2
+play,3,1,saiev101,??,,9/F9D.2-3
+play,3,1,mitcm102,??,,S9.3-H(UR);1-2
+play,3,1,brida101,??,,NP
+sub,johnc102,"Chief Johnson",0,9,1
+play,3,1,brida101,??,,OA.2X3(24E5);1-2
+play,3,1,brida101,??,,8(B)2(3)/DP/F8S
+com,"$Zimmerman injured his ankle sliding home and was helped off"
+com,"the field."
+play,4,0,devoj101,??,,NP
+sub,phela101,"Art Phelan",1,4,5
+play,4,0,devoj101,??,,E6/TH1
+play,4,0,bescb101,??,,8/F8XD
+play,4,0,batej101,??,,SB2
+play,4,0,batej101,??,,S7.2-H(UR)
+play,4,0,bergm101,??,,SB2
+play,4,0,bergm101,??,,K
+play,4,0,hobld101,??,,S9.2-H(UR)
+play,4,0,dodgj101,??,,7/F
+play,4,1,bresr102,??,,S5/P5D
+play,4,1,humpb101,??,,W.1-2
+play,4,1,leact101,??,,53/SH.2-3;1-2
+play,4,1,everj102,??,,HR7/L78/IPHR.3-H;2-H
+play,4,1,schuf103,??,,K
+play,4,1,phela101,??,,W
+play,4,1,saiev101,??,,SB2
+play,4,1,saiev101,??,,E3/P3D.2-H(NR)(UR);B-2
+play,4,1,mitcm102,??,,T9/F.2-H(UR)
+play,4,1,brida101,??,,S8.3-H(UR)
+play,4,1,bresr102,??,,SB2
+play,4,1,bresr102,??,,S7/F7S.2-H(UR)
+play,4,1,humpb101,??,,54(1)/FO
+play,5,0,grohh101,??,,K
+play,5,0,clart101,??,,NP
+sub,blace101,"Earl Blackburn",0,8,11
+play,5,0,blace101,??,,K
+play,5,0,johnc102,??,,9/F
+play,5,1,leact101,??,,NP
+sub,blace101,"Earl Blackburn",0,8,2
+play,5,1,leact101,??,,53
+play,5,1,everj102,??,,43
+play,5,1,schuf103,??,,K/C
+play,6,0,devoj101,??,,43
+play,6,0,bescb101,??,,T7
+play,6,0,batej101,??,,S6/P5D.BX2(63);3-3
+play,6,0,bergm101,??,,K
+play,6,1,phela101,??,,8/F
+play,6,1,saiev101,??,,T/89D
+play,6,1,mitcm102,??,,FC6/G6S.3XH(625);B-2
+play,6,1,brida101,??,,S7.2-H;B-2(E7)
+play,6,1,bresr102,??,,PO2(26)
+play,7,0,hobld101,??,,S9
+play,7,0,dodgj101,??,,E9/F.1-2
+play,7,0,grohh101,??,,D7.2-H;1-3
+play,7,0,blace101,??,,S9.3-H(UR);2-3
+play,7,0,johnc102,??,,46(1)3/GDP.3-H(RBI)(UR)
+play,7,0,devoj101,??,,63
+play,7,1,bresr102,??,,S6/G56
+play,7,1,humpb101,??,,16(1)/FO
+play,7,1,leact101,??,,K
+play,7,1,everj102,??,,4(1)/FO
+play,8,0,bescb101,??,,D
+play,8,0,batej101,??,,HP
+play,8,0,bergm101,??,,64(1)/FO.2-3
+play,8,0,hobld101,??,,8/SF.3-H
+play,8,0,dodgj101,??,,53
+play,8,1,schuf103,??,,D9/F89
+play,8,1,phela101,??,,13/SH.2-3
+play,8,1,saiev101,??,,S.3-H
+play,8,1,mitcm102,??,,S.1-2
+play,8,1,brida101,??,,S8.2-H;1-2
+play,8,1,bresr102,??,,9
+play,8,1,humpb101,??,,13
+play,9,0,grohh101,??,,4
+play,9,0,blace101,??,,4
+play,9,0,johnc102,??,,NP
+sub,shecj101,"Jimmy Sheckard",0,9,11
+play,9,0,shecj101,??,,43
+data,er,hartf102,1
+data,er,johnc102,6
+data,er,humpb101,2
 id,CHN191307260
 version,1
 info,inputprogvers,"version 7RS(19) of 07/07/92"
@@ -5904,6 +6057,151 @@ play,10,1,saiev101,??,,D.2-H
 data,er,walkm102,1
 data,er,wagnb102,3
 data,er,chenl101,3
+id,CHN191308070
+version,1
+info,inputprogvers,"version 7RS(19) of 07/07/92"
+info,visteam,PHI
+info,hometeam,CHN
+info,date,1913/08/07
+info,site,CHI08
+info,number,0
+info,starttime,0:00PM
+info,daynight,day
+info,usedh,false
+info,umphome,odayh101
+info,ump1b,emslb101
+info,ump2b,(none)
+info,ump3b,(none)
+info,scorer,"109,111,266"
+info,translator,"Wayne Townsend"
+info,inputter,"Wayne Townsend"
+info,inputtime,2023/07/21 5:14AM
+info,howscored,park
+info,pitches,none
+info,temp,0
+info,winddir,unknown
+info,windspeed,-1
+info,fieldcond,unknown
+info,precip,unknown
+info,sky,unknown
+info,timeofgame,115
+info,attendance,5800
+info,wp,stace101
+info,lp,seatt102
+info,save,
+info,gwrbi,
+start,paskd101,"Dode Paskert",0,1,8
+start,knabo101,"Otto Knabe",0,2,4
+start,lobeh101,"Hans Lobert",0,3,5
+start,beckb101,"Beals Becker",0,4,7
+start,cravg101,"Gavvy Cravath",0,5,9
+start,ludef101,"Fred Luderus",0,6,3
+start,doolm101,"Mickey Doolin",0,7,6
+start,killb101,"Bill Killefer",0,8,2
+start,seatt102,"Tom Seaton",0,9,1
+start,leact101,"Tommy Leach",1,1,8
+start,everj102,"Johnny Evers",1,2,4
+start,schuf103,"Frank Schulte",1,3,9
+start,zimmh101,"Heinie Zimmerman",1,4,5
+start,saiev101,"Vic Saier",1,5,3
+start,willc103,"Cy Williams",1,6,7
+start,brida101,"Al Bridwell",1,7,6
+start,archj102,"Jimmy Archer",1,8,2
+start,stace101,"Eddie Stack",1,9,1
+play,1,0,paskd101,??,,8/F8S
+play,1,0,knabo101,??,,6/P6
+play,1,0,lobeh101,??,,7/F
+play,1,1,leact101,??,,6/P6D
+play,1,1,everj102,??,,9/FL
+play,1,1,schuf103,??,,S8/8S
+play,1,1,zimmh101,??,,CS2(26)
+play,2,0,beckb101,??,,6/P6MD
+play,2,0,cravg101,??,,K
+play,2,0,ludef101,??,,5/FL
+play,2,1,zimmh101,??,,9/F
+play,2,1,saiev101,??,,W
+play,2,1,willc103,32,,S9.1-3
+play,2,1,brida101,??,,K/C
+play,2,1,archj102,??,,SB2
+play,2,1,archj102,??,,IW
+play,2,1,stace101,??,,S18/L.3-H;2-H;1-2
+play,2,1,leact101,??,,8/F
+play,3,0,doolm101,??,,8/F
+play,3,0,killb101,??,,6/P6
+play,3,0,seatt102,??,,W
+play,3,0,paskd101,??,,13
+play,3,1,everj102,??,,S/L4D
+play,3,1,schuf103,??,,8/F8S
+play,3,1,zimmh101,??,,9/F9DW
+play,3,1,saiev101,??,,CS2(24)
+play,4,0,knabo101,??,,D7/7L
+play,4,0,lobeh101,??,,7/F
+play,4,0,beckb101,??,,S7/L78.2-H
+play,4,0,cravg101,??,,13/G1S.1-3
+play,4,0,ludef101,??,,9/L9S
+play,4,1,saiev101,??,,43
+play,4,1,willc103,??,,K
+play,4,1,brida101,??,,7/FL
+play,5,0,doolm101,??,,7/F7S
+play,5,0,killb101,??,,K
+play,5,0,seatt102,??,,3/FL
+play,5,1,archj102,??,,HP
+com,"$Hit in the ribs"
+play,5,1,stace101,??,,K/BF
+play,5,1,leact101,??,,43.1-2
+play,5,1,everj102,??,,S8.2XH(82)
+play,6,0,paskd101,??,,53/G5S
+play,6,0,knabo101,??,,S8
+play,6,0,lobeh101,??,,K+SB2
+com,"ej,everj102,P,emslb101,Call at 2B"
+com,"$Evers ejected by Umpire Emslie for arguing call at 2B"
+play,6,0,beckb101,??,,NP
+sub,phela101,"Art Phelan",1,2,4
+play,6,0,beckb101,??,,13
+play,6,1,schuf103,??,,E4/G
+play,6,1,zimmh101,??,,W.1-2
+play,6,1,saiev101,??,,13/SH.2-3;1-2
+play,6,1,willc103,??,,T9/L9L.3-H(UR);2-H
+play,6,1,brida101,??,,FC1.3XH(12)
+play,6,1,archj102,??,,CS2(26)
+play,7,0,cravg101,??,,7
+play,7,0,ludef101,??,,9
+play,7,0,doolm101,??,,W
+play,7,0,killb101,??,,WP.1-2
+play,7,0,killb101,??,,K
+play,7,1,archj102,??,,W
+play,7,1,stace101,??,,K/BF
+play,7,1,leact101,??,,T.1-H
+play,7,1,phela101,12,,NP
+sub,howld101,"Dan Howley",0,8,2
+com,"ej,killb101,P,odayh101,Foul tip call"
+com,"$During Phelan's AB, Killefer was ejected by Ump O'Day after"
+com,"a foul tip was ruled with 2 strikes.  Killefer argued there"
+com,"was no foul tip and that Phelan should have been struck out."
+play,7,1,phela101,??,,FC1.3XH(1526)
+play,7,1,schuf103,??,,S3/L.1-3
+play,7,1,zimmh101,??,,CSH(262)
+play,8,0,seatt102,??,,NP
+sub,milld106,"Doc Miller",0,9,11
+play,8,0,milld106,??,,7
+play,8,0,paskd101,??,,K
+play,8,0,knabo101,??,,7
+play,8,1,zimmh101,??,,NP
+sub,mayee101,"Erskine Mayer",0,9,1
+play,8,1,zimmh101,??,,8
+play,8,1,saiev101,??,,43
+play,8,1,willc103,??,,K
+play,9,0,lobeh101,??,,D
+play,9,0,beckb101,??,,E4/G.2-3
+play,9,0,cravg101,??,,FLE3#
+play,9,0,cravg101,??,,3/P
+play,9,0,ludef101,??,,7/F7D/SF.3-H(UR)
+play,9,0,doolm101,??,,NP
+sub,mages101,"Sherry Magee",0,7,11
+play,9,0,mages101,??,,K/C
+data,er,seatt102,4
+data,er,mayee101,0
+data,er,stace101,1
 id,CHN191308080
 version,1
 info,inputprogvers,"version 7RS(19) of 07/07/92"

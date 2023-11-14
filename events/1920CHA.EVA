@@ -2865,9 +2865,10 @@ play,8,1,colle101,??,,S7
 play,8,1,weavb101,??,,S7.1-2
 play,8,1,jackj101,??,,NP
 sub,mogrg101,"George Mogridge",0,9,1
+presadj,mogrg101,2
+presadj,mogrg101,1
 play,8,1,jackj101,??,,PO2(E1/TH).2-3;1-2
 play,8,1,jackj101,??,,S8.3-H;2-H(UR)
-com,"IRRR here"
 play,8,1,felsh101,??,,NP
 sub,shawb102,"Bob Shawkey",0,9,1
 com,"$15 minute rain delay"
@@ -2887,8 +2888,8 @@ play,9,1,faber101,??,,NP
 sub,jourt101,"Ted Jourdan",1,9,11
 play,9,1,jourt101,??,,43
 play,9,1,murpe102,??,,13
-data,er,quinj102,3
-data,er,mogrg101,0
+data,er,quinj102,2
+data,er,mogrg101,1
 data,er,shawb102,0
 data,er,faber101,5
 id,CHA192006170
@@ -5666,6 +5667,8 @@ play,9,1,schar103,??,,NP
 sub,naylr101,"Rollie Naylor",0,9,1
 play,9,1,schar103,??,,NP
 sub,murpe102,"Eddie Murphy",1,8,11
+presadj,naylr101,3
+presadj,naylr101,2
 play,9,1,murpe102,??,,S.3-H(UR);2-H
 play,9,1,kerrd101,??,,PB.1-2
 play,9,1,kerrd101,??,,53
@@ -5693,8 +5696,8 @@ play,10,1,risbs101,??,,5(2)/FO.1-2
 play,10,1,lynnb101,??,,NP
 sub,strua102,"Amos Strunk",1,8,11
 play,10,1,strua102,??,,K
-data,er,perrs101,5
-data,er,naylr101,0
+data,er,perrs101,4
+data,er,naylr101,1
 data,er,kerrd101,6
 data,er,wilkr101,0
 id,CHA192007300
@@ -7706,6 +7709,9 @@ play,4,1,colls101,??,,FC6.1X2(6E4);B-1
 play,4,1,risbs101,??,,HP.2-3;1-2
 play,4,1,schar103,??,,NP
 sub,zacht101,"Tom Zachary",0,9,1
+presadj,zacht101,3
+presadj,zacht101,2
+presadj,zacht101,1
 play,4,1,schar103,??,,S7.3-H(UR);2-3;1-2
 play,4,1,cicoe101,??,,K
 play,4,1,leibn101,??,,52(3)/FO.2-3;1-2
@@ -9069,6 +9075,7 @@ play,6,0,jones104,??,,3/P
 play,6,0,hooph101,??,,T8.1-H
 play,6,0,vitto101,??,,NP
 sub,hodgs101,"Shovel Hodge",1,9,1
+presadj,hodgs101,3
 play,6,0,vitto101,??,,13/SH.3-H
 play,6,0,pascb102,??,,NP
 sub,menom101,"Mike Menosky",0,3,11
@@ -9088,6 +9095,7 @@ play,7,1,strua102,??,,T/78
 play,7,1,weavb101,??,,T/78.3-H
 play,7,1,colle101,??,,NP
 sub,karrb101,"Benn Karr",0,9,1
+presadj,karrb101,3
 play,7,1,colle101,??,,W
 play,7,1,jackj101,??,,46(1)/FO.3-H
 play,7,1,felsh101,??,,S7.1-2
@@ -9112,10 +9120,10 @@ play,9,0,scote101,??,,7
 play,9,1,weavb101,??,,63
 play,9,1,colle101,??,,63
 play,9,1,jackj101,??,,43
-data,er,jones104,7
-data,er,karrb101,0
-data,er,kerrd101,7
-data,er,hodgs101,0
+data,er,jones104,6
+data,er,karrb101,1
+data,er,kerrd101,6
+data,er,hodgs101,1
 data,er,wilkr101,0
 id,CHA192009120
 version,1
@@ -9363,6 +9371,8 @@ play,5,1,weavb101,??,,S9.1-2
 play,5,1,colle101,??,,W.2-3;1-2
 play,5,1,jackj101,??,,NP
 sub,erice101,"Eric Erickson",0,9,1
+presadj,erice101,3
+presadj,erice101,2
 play,5,1,jackj101,??,,9/SF.3-H;2-3
 play,5,1,felsh101,??,,S5.3-H;1-2
 play,5,1,colls101,??,,6/P
@@ -9421,8 +9431,8 @@ play,9,0,zacht101,??,,99(1)/FO
 play,9,0,browf102,??,,T.1-H
 play,9,0,milac101,??,,99/G
 play,9,0,rices101,??,,99/G
-data,er,shawj101,4
-data,er,erice101,7
+data,er,shawj101,2
+data,er,erice101,9
 data,er,bonog101,4
 data,er,faber101,4
 id,CHA192009140
@@ -10143,6 +10153,7 @@ sub,perrs101,"Scott Perry",0,9,1
 play,6,1,wilkr101,??,,NP
 sub,murpe102,"Eddie Murphy",1,9,11
 play,6,1,murpe102,??,,46(1)/FO.3-H;2-3
+presadj,perrs101,3
 play,6,1,strua102,??,,SBH;SB2
 play,6,1,strua102,??,,K
 play,7,0,perrs101,??,,NP
@@ -10170,8 +10181,8 @@ play,9,0,perrs101,??,,NP
 sub,kellb102,"Bill Kelly",0,9,11
 play,9,0,kellb102,??,,99/F
 play,9,0,dykej101,??,,99
-data,er,romme101,5
-data,er,perrs101,0
+data,er,romme101,4
+data,er,perrs101,1
 data,er,willl104,0
 data,er,wilkr101,0
 data,er,kerrd101,0

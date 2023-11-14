@@ -335,7 +335,7 @@ play,1,1,hollc101,01,CX,23/SH.1-2
 play,1,1,mannl101,10,BX,9/F
 play,1,1,paskd101,32,CBFFBBS,K
 play,2,0,whitg101,21,CBBX,S7
-play,2,0,mcins101,02,FFL,K/BP23F/FL
+play,2,0,mcins101,02,FFL,K/BF
 play,2,0,schaw101,02,CF>C,K+SB2/C
 play,2,0,scote101,11,BKX,E6/G.2-3;B-1
 play,2,0,thomf102,01,KX,9/F
@@ -782,7 +782,7 @@ play,3,1,mcins101,01,SX,S6/G6S.1X3(635)
 play,4,0,flacm101,22,BCBFX,S8/L8S
 play,4,0,hollc101,21,BBCX,3/G.1-2
 play,4,0,mannl101,22,BCFBFH,HP
-com,$Mann was hit on the lower leg"
+com,"$Mann was hit on the lower leg"
 play,4,0,paskd101,12,CBS+1,PO1(23)
 play,4,0,paskd101,32,CBS+1.BB>B,W+SB3
 play,4,0,merkf101,00,.X,S7/78.3-H;1-2

@@ -5868,12 +5868,11 @@ play,4,0,cobbt101,??,,S9
 play,4,0,heilh101,??,,SB2.1-3(E2/TH2)
 com,"$Cobb injured his leg sliding into 2B but wiggled to 3B"
 com,"where he collapsed and had to be carried from the field."
+com,"Larry Woodall was used as a courtesy runner. Woodall entered the game again"
+com,"in the 6th inning replacing Bassler at C batting 8th."
 play,4,0,heilh101,??,,NP
 sub,woodl101,"Larry Woodall",0,4,12
-com,"Woodall did not take the field"
-com,"again until the 6th, replacing Bassler in the 8th spot."
-play,4,0,heilh101,??,,9/L9D/SF/COUR.3-H
-com,"Sensational leaping 1-handed catch"
+play,4,0,heilh101,??,,9!/L9D/SF/COUR.3-H
 play,4,0,bluel101,??,,S7
 play,4,0,tavej101,??,,NP
 sub,rignt101,"Topper Rigney",0,7,11
@@ -12416,10 +12415,11 @@ play,8,0,kanej102,??,,HP
 play,8,0,hooph101,??,,2/BP/DP.1X1(23)
 play,8,0,sheee101,??,,W
 play,8,0,falkb101,??,,NP
-sub,schar103,"Ray Schalk",0,4,12
-com,"On an attempted pick-off by Smith, Sheely hurt his right"
+com,"sub,schar103,'Ray Schalk',0,4,12"
+com,"$On an attempted pick-off by Smith, Sheely hurt his right"
 com,"ankle sliding into 1B and was helped from the field."
-com,"Schalk left game after Falk's AB but returned in the 9th."
+com,"Ray Schalk ran for Sheely and left the game after Falk's AB"
+com,"but returned in the 9th."
 play,8,0,falkb101,??,,2/P1S/COUR
 play,8,1,jamic101,??,,NP
 sub,elshr101,"Roy Elsh",0,4,3

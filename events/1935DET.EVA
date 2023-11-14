@@ -3665,9 +3665,9 @@ info,number,0
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
-info,scorer,"212,56,71,163,274"
-info,translator,"Tom Thress/Smith"
-info,inputter,"Tom Thress/Smith"
+info,scorer,"212,56,71,163,274,611"
+info,translator,"Tom Thress/Smith/RWood"
+info,inputter,"Tom Thress/Smith/RWood"
 info,inputtime,2019/01/03 11:25PM
 info,umphome,summb901
 info,ump1b,quinj901
@@ -3774,13 +3774,13 @@ play,6,1,walkg101,??,,53.1-2
 play,6,1,gehrc101,??,,S9.2-H
 play,6,1,greeh102,??,,K
 play,7,0,millb110,??,,W
-play,7,0,ferrr101,??,,99/SH.1-2
-play,7,0,willd107,??,,99
-play,7,0,melis101,??,,99
+play,7,0,ferrr101,??,,13/SH.1-2
+play,7,0,willd107,??,,3/P
+play,7,0,melis101,??,,63
 play,7,1,goslg101,??,,S
-play,7,1,rogeb102,??,,99
-play,7,1,haywr101,??,,99
-play,7,1,cliff101,??,,E6.1-3
+play,7,1,rogeb102,??,,53.1-2
+play,7,1,haywr101,??,,7/F
+play,7,1,cliff101,??,,E6.2-3
 play,7,1,hogsc101,??,,NP
 sub,reibf101,"Frank Reiber",1,9,11
 play,7,1,reibf101,??,,W.1-2
@@ -3789,7 +3789,7 @@ sub,johnh101,"Hank Johnson",0,9,1
 play,7,1,fox-p102,??,,NP
 sub,schuh105,"Heinie Schuble",1,9,12
 play,7,1,fox-p102,??,,HR/7.3-H(UR);2-H(UR);1-H(UR);B-H(UR)
-play,7,1,walkg101,??,,99/F
+play,7,1,walkg101,??,,8/F
 play,8,0,dahlb101,??,,NP
 sub,whitj104,"Jo-Jo White",1,2,8
 play,8,0,dahlb101,??,,NP
@@ -3797,36 +3797,36 @@ sub,sorrv101,"Vic Sorrell",1,9,1
 play,8,0,dahlb101,??,,NP
 sub,fox-p102,"Pete Fox",1,1,9
 play,8,0,dahlb101,??,,E8/L.B-2
-play,8,0,johnh101,??,,99/SH.2-3
+play,8,0,johnh101,??,,13/SH.2-3
 play,8,0,werbb101,??,,NP
 sub,cookd102,"Dusty Cooke",0,8,12
 play,8,0,werbb101,??,,HR/7.3-H(UR)
-play,8,0,almam101,??,,99
+play,8,0,almam101,??,,43
 play,8,0,johnr102,??,,W
-play,8,0,millb110,??,,CS2(99)
+play,8,0,millb110,??,,CS2(24)
 play,8,1,gehrc101,??,,NP
 sub,bishm102,"Max Bishop",0,4,3
 play,8,1,gehrc101,??,,NP
 sub,reync102,"Carl Reynolds",0,8,9
 play,8,1,gehrc101,??,,NP
 sub,grovl101,"Lefty Grove",0,9,1
-play,8,1,gehrc101,??,,99
+play,8,1,gehrc101,??,,4/L
 play,8,1,greeh102,??,,S
-play,8,1,goslg101,??,,99(1)/FO
+play,8,1,goslg101,??,,36(1)/FO
 play,8,1,rogeb102,??,,W.1-2
-play,8,1,haywr101,??,,99/G
+play,8,1,haywr101,??,,63
 play,9,0,bishm102,??,,S
-play,9,0,ferrr101,??,,99/SH.1-2
+play,9,0,ferrr101,??,,13/SH.1-2
 play,9,0,willd107,??,,S9.2-3
 play,9,0,melis101,??,,HP.1-2
 play,9,0,reync102,??,,W.3-H;2-3;1-2
 play,9,0,grovl101,??,,K
-play,9,0,werbb101,??,,99
-play,9,1,cliff101,??,,99
+play,9,0,werbb101,??,,9/F
+play,9,1,cliff101,??,,43
 play,9,1,sorrv101,??,,NP
 sub,owenm102,"Marv Owen",1,9,11
-play,9,1,owenm102,??,,99
-play,9,1,fox-p102,??,,99
+play,9,1,owenm102,??,,13
+play,9,1,fox-p102,??,,53
 data,er,hockg101,4
 data,er,johnh101,0
 data,er,grovl101,0

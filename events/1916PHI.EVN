@@ -9274,11 +9274,10 @@ play,9,0,egand102,??,,W.2-3;1-2
 play,9,0,gowdh101,??,,K/C
 play,9,1,whitp102,??,,2/FL
 play,9,1,goodw101,??,,63
-play,9,1,bendc101,??,,8#
-com,"$Bender not charged with AB in official records, although"
-com,"clear that 6th spot was last in game for Phillies; pbp"
-com,"accounts had Niehoff batting here, which would require"
-com,"batting out of turn"
+ladj,1,7
+play,9,1,niehb101,??,,8/BOOT
+com,"$Official records and pbp accounts indicate that"
+com,"Niehaus batted out of turn to end the game"
 data,er,tylel101,1
 data,er,mayee101,0
 data,er,bendc101,2

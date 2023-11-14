@@ -19840,7 +19840,7 @@ stat,dline,hickj102,0,1,9,24,1,0,0,0,0,0
 stat,dline,wheam101,0,1,2,24,6,1,0,0,0,0
 stat,dline,pfefj101,0,1,1,24,0,2,0,0,0,0
 stat,dline,mccab101,1,1,9,27,3,0,0,0,0,0
-stat,dline,hollc101,1,1,6,27,4,3,1,0,1,0
+stat,dline,hollc101,1,1,6,27,4,4,1,0,1,0
 stat,dline,herzb101,1,1,4,27,3,1,0,0,0,0
 stat,dline,robed103,1,1,8,27,2,0,0,0,0,0
 stat,dline,merkf101,1,1,3,27,6,0,0,0,1,0
@@ -29216,7 +29216,7 @@ stat,dline,kaufb101,1,1,8,27,2,0,0,0,0,0
 stat,dline,zimmh101,1,1,5,27,0,4,0,0,0,0
 stat,dline,fleta101,1,1,6,27,4,7,0,2,0,0
 stat,dline,mccal102,1,1,2,27,5,0,0,0,0,0
-stat,dline,bentr102,1,1,1,27,0,1,0,0,0,0
+stat,dline,bentr102,1,1,1,27,0,2,0,0,0,0
 stat,phline,barbw101,8,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 stat,phline,lee-c101,9,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 stat,phline,zitzb101,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0

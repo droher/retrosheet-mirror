@@ -6394,18 +6394,14 @@ sub,wheee101,"Ed Wheeler",1,8,4
 play,7,0,grayp101,??,,S4
 play,7,0,schul101,??,,FC3/SH/TH2.1-2;B-1
 play,7,0,byrnm101,??,,NP
-sub,chrim102,"Mark Christman",0,1,12
-play,7,0,byrnm101,??,,15(2)/FO/BG/COUR.1-2
+com,"'sub,chrim102,"Mark Christman",0,1,12'"
 com,"$Gray loosened his spikes sliding into second and Christman"
-com,"was a courtesy runner"
+com,"went in as a courtesy runner"
+play,7,0,byrnm101,??,,15(2)/FO/BG/COUR.1-2
 play,7,0,stepv101,??,,W.2-3;1-2
 play,7,0,mcqug101,??,,99(1)/FO.3-H;2-3
 play,7,0,chrim102,??,,S.3-H;1-2
 play,7,0,moorg104,??,,99
-play,7,1,seerp101,??,,NP
-sub,grayp101,"Pete Gray",0,1,8
-play,7,1,seerp101,??,,NP
-sub,chrim102,"Mark Christman",0,6,5
 play,7,1,seerp101,??,,99
 play,7,1,hayef101,??,,HR/7
 play,7,1,boudl101,??,,99
@@ -11736,11 +11732,11 @@ play,8,1,maieb101,??,,99
 play,8,1,swifb102,??,,K
 play,9,0,methb101,??,,NP
 sub,tobij103,"Jim Tobin",1,9,1
-play,9,0,methb101,??,,99
-play,9,0,marth101,??,,S
-play,9,0,etten101,??,,99
-play,9,0,grimo101,??,,W.1-2
-play,9,0,stait101,??,,99
+play,9,0,methb101,??,,S/BG
+play,9,0,marth101,??,,99/SH.1-2
+play,9,0,etten101,??,,8
+play,9,0,grimo101,??,,W
+play,9,0,stait101,??,,13
 play,9,1,tobij103,??,,99
 play,9,1,hoovj101,??,,99
 play,9,1,boror101,??,,99
@@ -11751,8 +11747,8 @@ play,10,0,stirs101,??,,99
 play,10,1,outlj101,??,,99
 play,10,1,greeh102,??,,S
 play,10,1,cullr101,??,,36(1)3/GDP
-play,11,0,methb101,??,,S
-play,11,0,marth101,??,,99/SH.1-2
+play,11,0,methb101,??,,99
+play,11,0,marth101,??,,S
 play,11,0,etten101,??,,99
 play,11,0,grimo101,??,,99
 play,11,1,yorkr101,??,,D
@@ -14787,10 +14783,10 @@ play,2,0,swifb102,??,,99
 play,2,0,benta101,??,,99
 play,2,1,burnj101,??,,K
 ladj,1,6
-play,2,1,kellg102,??,,K
+play,2,1,kellg102,??,,K/BOOT
 com,"$Kell bats out of order, but Tigers obviously do not appeal."
 ladj,1,5
-play,2,1,halli101,??,,2
+play,2,1,halli101,??,,2/BOOT
 com,"$Hall singles batting out of turn, Tigers appeal and Hall is called out incorrectly."
 com,"$Siebert, the batter after Kell in the correct lineup should be ruled out."
 play,3,0,maieb101,??,,99

@@ -49,7 +49,7 @@ start,trouq101,"Quincy Trouppe",1,6,2
 start,armob101,"Buddy Armour",1,7,7
 start,cowaj101,"Johnnie Cowan",1,8,4
 start,jeffw101,"Willie Jefferson",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,benjj101,??,,99
 play,1,0,hoskd101,??,,99
@@ -180,7 +180,7 @@ start,trouq101,"Quincy Trouppe",1,6,2
 start,armob101,"Buddy Armour",1,7,7
 start,cowaj101,"Johnnie Cowan",1,8,4
 start,breme101,"Eugene Bremer",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,bellj103,??,,99
 play,1,0,benjj101,??,,99
 play,1,0,hoskd101,??,,W
@@ -318,7 +318,7 @@ start,banks101,"Sam Bankhead",1,6,6
 start,battr102,"Ray Battle",1,7,5
 start,jackb104,"Bozo Jackson",1,8,4
 start,welmr101,"Roy Welmaker",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,cania101,??,,99
 play,1,0,warea101,??,,99
 play,1,0,jeths101,??,,T#
@@ -403,14 +403,14 @@ sub,harrv102,"Vic Harris",1,8,11
 play,9,1,harrv102,??,,99
 data,er,jeffg102,0
 data,er,welmr101,1
-id,HOM194509200
+id,HOM194509201
 version,1
 info,inputprogvers,"version 7RS(19) of 07/07/92"
 info,visteam,CVB
 info,hometeam,HOM
 info,site,PHI11
 info,date,1945/09/20
-info,number,0
+info,number,1
 info,starttime,0:00PM
 info,daynight,night
 info,usedh,false
@@ -454,7 +454,7 @@ start,banks101,"Sam Bankhead",1,6,6
 start,wilsj106,"Jud Wilson",1,7,5
 start,jackb104,"Bozo Jackson",1,8,4
 start,browr103,"Ray Brown",1,9,1
-com,"Play-by-play deduced from newspaper game stories and box scores."
+com,"$Play-by-play deduced from newspaper game stories and box score"
 play,1,0,cania101,??,,S
 play,1,0,warea101,??,,W.1-2
 play,1,0,jeths101,??,,S1.2-3;1-2

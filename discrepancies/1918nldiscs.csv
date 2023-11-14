@@ -3,9 +3,9 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0001","basha101",1918,"BRO","D","OF","RFG",,1,0,,,,"Official sheets show 1 RFG","Y"
 "1918N0003","coomj101",1918,"BRO","D","OF","CFG",,2,3,,,,"Official sheets show 2 CFG","Y"
 "1918N0004","coomj101",1918,"BRO","D","OF","RFG",,10,11,,,,"Official sheets show 10 RFG","Y"
-"1918N0005","daubj101",1918,"BRO","O",,"SH","PIT191805170",1,0,"1918N0042","SWAP,PAA",,
+"1918N0005","daubj101",1918,"BRO","O",,"SH","PIT191805170",1,0,"1918N0042","SWAP;PAA",,
 "1918N0007","doolm101",1918,"BRO","D","2B","DP",,40,41,,,,"DPs not shown on Official sheets"
-"1918N0008","grimb101",1918,"BRO","O",,"BB","SLN191805270",0,1,"1918N0034","SWAP,PAA",,
+"1918N0008","grimb101",1918,"BRO","O",,"BB","SLN191805270",0,1,"1918N0034","SWAP;PAA",,
 "1918N0009","hickj102",1918,"BRO","D","OF","G",,45,46,,,,"Official sheets show 45 G in OF"
 "1918N0010","hickj102",1918,"BRO","D","OF","CFG","NY1191804190",1,0,"1918N0018","DUP",,,"Y"
 "1918N0011","hickj102",1918,"BRO","D","OF","CFG","PHI191804200",1,0,"1918N0019","DUP",,,"Y"
@@ -31,17 +31,17 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0031","johnj107",1918,"BRO","D","OF","RFG","PHI191809022",0,1,"1918N0028","DUP",,,"Y"
 "1918N0032","johnj107",1918,"BRO","D","OF","RFG",,76,75,,,,"Official sheets show 76 RFG","Y"
 "1918N0033","kruee101",1918,"BRO","D","C","G","PIT191805180",0,1,,,,
-"1918N0034","millo103",1918,"BRO","O",,"BB","SLN191805270",1,0,"1918N0008","SWAP,PAA",,
+"1918N0034","millo103",1918,"BRO","O",,"BB","SLN191805270",1,0,"1918N0008","SWAP;PAA",,
 "1918N0035","millo103",1918,"BRO","D","C","G","SLN191805250",1,0,,,,"No C in game at end"
 "1918N0036","mitcc102",1918,"BRO","D","1B","G",,1,2,,,,"Official sheets show 1 G at 1B"
 "1918N0037","mitcc102",1918,"BRO","D","OF","G",,5,6,,,,"Official sheets show 5 G in OF"
 "1918N0038","mitcc102",1918,"BRO","D","OF","RFG",,5,6,,,,"Official sheets show 5 G in RFG","Y"
 "1918N0039","nixoa101",1918,"BRO","D","OF","RFG",,2,1,,,,"Official sheets show 2 RFG","Y"
-"1918N0040","olsoi101",1918,"BRO","O",,"SH","PHI191809022",1,0,"1918N0044","SWAP,PAA",,
+"1918N0040","olsoi101",1918,"BRO","O",,"SH","PHI191809022",1,0,"1918N0044","SWAP;PAA",,
 "1918N0041","omaro101",1918,"BRO","O",,"AB","SLN191807072",2,3,,"PAA",,
-"1918N0042","omaro101",1918,"BRO","O",,"SH","PIT191805170",0,1,"1918N0005","SWAP,PAA",,
+"1918N0042","omaro101",1918,"BRO","O",,"SH","PIT191805170",0,1,"1918N0005","SWAP;PAA",,
 "1918N0043","orouf101",1918,"BRO","D","OF","CFG",,1,0,,,,"Official sheets show 1 CFG","Y"
-"1918N0044","smitg104",1918,"BRO","O",,"SH","PHI191809022",0,1,"1918N0040","SWAP,PAA",,
+"1918N0044","smitg104",1918,"BRO","O",,"SH","PHI191809022",0,1,"1918N0040","SWAP;PAA",,
 "1918N0045","wheam101",1918,"BRO","D","C","G",,37,38,,,,"Official sheets show 37 G at C"
 "1918N0046","wheam101",1918,"BRO","D","OF","LFG","SLN191807071",0,1,"1918N0048","DUP",,,"Y"
 "1918N0047","wheam101",1918,"BRO","D","OF","CFG",,2,1,,,,"Official sheets show 2 CFG","Y"
@@ -61,7 +61,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0062","kellj102",1918,"BSN","D","OF","LFG","SLN191805180",1,0,,,,"No LF in game at end","Y"
 "1918N0063","kellj102",1918,"BSN","D","OF","LFG",,23,22,,,,"Official sheets show 23 LFG","Y"
 "1918N0064","kellj102",1918,"BSN","D","OF","CFG",,19,18,,,,"Official sheets show 19 CFG","Y"
-"1918N0065","konee101",1918,"BSN","O",,"BB","CHN191808182",1,0,"1918N0089","SWAP,PAA",,
+"1918N0065","konee101",1918,"BSN","O",,"BB","CHN191808182",1,0,"1918N0089","SWAP;PAA",,
 "1918N0066","konee101",1918,"BSN","D","1B","G","SLN191807160",1,0,,,,"No 1B in game at end"
 "1918N0067","konee101",1918,"BSN","D","1B","DP",,74,69,,,,"DPs not shown on Official sheets","Y"
 "1918N0068","konee101",1918,"BSN","D","OF","LFG",,5,1,,,,"Official sheets show 5 LFG","Y"
@@ -75,7 +75,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0075","massr101",1918,"BSN","D","OF","LFG",,17,21,,,,"Official sheets show 17 LFG","Y"
 "1918N0076","massr101",1918,"BSN","D","OF","CFG",,30,29,,,,"Official sheets show 30 CFG","Y"
 "1918N0077","nehfa101",1918,"BSN","D","P","DP",,3,2,,,,"DPs not shown on Official sheets","Y"
-"1918N0078","power101",1918,"BSN","O",,"AB","PIT191805280",2,3,"1918N0110","SWAP,PAA",,
+"1918N0078","power101",1918,"BSN","O",,"AB","PIT191805280",2,3,"1918N0110","SWAP;PAA",,
 "1918N0079","rawlj101",1918,"BSN","O",,"SH","PHI191808311",1,0,"1918N0796","PAA",,
 "1918N0080","rawlj101",1918,"BSN","D","2B","DP",,5,4,,,,"DPs not shown on Official sheets"
 "1918N0081","rawlj101",1918,"BSN","D","SS","G",,70,71,,,,"Official sheets show 70 G at SS"
@@ -86,7 +86,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0086","rehgw101",1918,"BSN","D","OF","G",,37,38,,,,"Official sheets show 37 G in OF"
 "1918N0087","rehgw101",1918,"BSN","D","OF","LFG",,29,30,,,,"Official sheets show 29 LFG","Y"
 "1918N0088","rehgw101",1918,"BSN","D","OF","RFG","BRO191805020",0,1,"1918N0085",,,,"Y"
-"1918N0089","smitr108",1918,"BSN","O",,"BB","CHN191808182",0,1,"1918N0065","SWAP,PAA",,
+"1918N0089","smitr108",1918,"BSN","O",,"BB","CHN191808182",0,1,"1918N0065","SWAP;PAA",,
 "1918N0090","smitj107",1918,"BSN","O",,"G","SLN191805150",1,0,,,,
 "1918N0091","smitj107",1918,"BSN","D","2B","G","BSN191808060",0,1,"1918N0095","DUP",,
 "1918N0092","smitj107",1918,"BSN","D","2B","G","BSN191808070",0,1,"1918N0096","DUP",,
@@ -107,7 +107,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0107","tragw101",1918,"BSN","D","C","G","BSN191806171",0,1,,,,
 "1918N0108","uphab101",1918,"BSN","O",,"BB","PHI191806210",0,1,"1918N0070",,,
 "1918N0109","wicka101",1918,"BSN","O",,"G","SLN191808172",1,0,,,,
-"1918N0110","wicka101",1918,"BSN","O",,"AB","PIT191805280",4,3,"1918N0078","SWAP,PAA",,
+"1918N0110","wicka101",1918,"BSN","O",,"AB","PIT191805280",4,3,"1918N0078","SWAP;PAA",,
 "1918N0111","wicka101",1918,"BSN","D","OF","LFG","PIT191807080",1,0,"1918N0114","DUP",,,"Y"
 "1918N0112","wicka101",1918,"BSN","D","OF","LFG","PIT191807090",1,0,"1918N0115",,,,"Y"
 "1918N0113","wicka101",1918,"BSN","D","OF","LFG","BSN191808080",1,0,"1918N0116",,,,"Y"
@@ -126,7 +126,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0126","dougp101",1918,"CHN","O",,"AB","SLN191807030",3,4,,"PAA",,
 "1918N0127","flacm101",1918,"CHN","O",,"AB","SLN191807050",5,4,"1918N0124","PAA",,
 "1918N0128","flacm101",1918,"CHN","D","OF","DP",,4,5,,,,"DPs not shown on Official sheets","Y"
-"1918N0129","hollc101",1918,"CHN","O",,"BB","PHI191807252",2,0,,"OPP,PAA",,
+"1918N0129","hollc101",1918,"CHN","O",,"BB","PHI191807252",2,0,,"OPP;PAA",,
 "1918N0130","hollc101",1918,"CHN","D","SS","DP",,43,42,,,,"DPs not shown on Official sheets"
 "1918N0131","kildp101",1918,"CHN","O",,"AB","CHN191805301",0,2,,"PAA",,
 "1918N0132","kildp101",1918,"CHN","D","2B","DP",,17,15,,,,"DPs not shown on Official sheets"
@@ -229,7 +229,6 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0227","schnp101",1918,"CIN","O",,"SO",,11,12,,"ADD",,"Official sheets show 11 SO"
 "1918N0228","smith107",1918,"CIN","D","OF","CFG",,0,1,,,,"Official sheets show 0 CFG","Y"
 "1918N0229","smith107",1918,"CIN","D","OF","RFG",,1,0,,,,"Official sheets show 1 RFG","Y"
-"1918N0230","wingi101",1918,"CIN","O",,"BB","SLN191806221",2,1,"1918N0828","PAA",,
 "1918N0231","wingi101",1918,"CIN","D","OF","LFG",,4,3,,,,"Official sheets show 4 LFG","Y"
 "1918N0232","burng101",1918,"NY1","D","OF","LFG","BSN191806240",0,1,"1918N0284","DUP",,,"Y"
 "1918N0233","burng101",1918,"NY1","D","OF","LFG","BSN191806250",0,1,"1918N0285","DUP",,,"Y"
@@ -340,15 +339,15 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0338","compp101",1918,"NY1","D","OF","CFG","BSN191809021",1,0,"1918N0369",,,,"Y"
 "1918N0339","compp101",1918,"NY1","D","OF","CFG","CHN191808220",1,0,"1918N0340",,,"No CF in game at end","Y"
 "1918N0340","compp101",1918,"NY1","D","OF","RFG","CHN191808220",0,1,"1918N0339",,,,"Y"
-"1918N0341","demaa101",1918,"NY1","O",,"BB","NY1191804190",1,0,"1918N0349","SWAP,PAA",,
+"1918N0341","demaa101",1918,"NY1","O",,"BB","NY1191804190",1,0,"1918N0349","SWAP;PAA",,
 "1918N0342","demaa101",1918,"NY1","D","P","DP",,0,1,,,,"DPs not shown on Official sheets","Y"
 "1918N0343","doyll101",1918,"NY1","O",,"AB","NY1191807311",2,4,,"PAA",,
-"1918N0344","doyll101",1918,"NY1","O",,"H","CHN191807090",0,1,,"IMP",,"Officially, Doyle 1-1 with 1 SO"
+"1918N0344","doyll101",1918,"NY1","O",,"H","CHN191807090",0,1,,"IMP",,"Offcially Doyle 1-1 with 1 SO"
 "1918N0345","doyll101",1918,"NY1","O",,"SO",,9,10,,"ADD",,"Official sheets show 9 SO"
 "1918N0346","doyll101",1918,"NY1","O",,"BB","NY1191808060",1,0,"1918N0752","PAA",,
 "1918N0347","doyll101",1918,"NY1","D","2B","DP",,28,24,,,,"DPs not shown on Official sheets","Y"
 "1918N0348","holkw101",1918,"NY1","O",,"AB","NY1191806040",2,3,,"PAA",,
-"1918N0349","holkw101",1918,"NY1","O",,"BB","NY1191804190",0,1,"1918N0341","SWAP,PAA",,
+"1918N0349","holkw101",1918,"NY1","O",,"BB","NY1191804190",0,1,"1918N0341","SWAP;PAA",,
 "1918N0350","holkw101",1918,"NY1","D","1B","DP",,52,51,,,,"DPs not shown on Official sheets"
 "1918N0352","mccal102",1918,"NY1","O",,"AB","NY1191807311",2,3,,"PAA",,
 "1918N0353","perrp101",1918,"NY1","D","P","ERR","NY1191808312",0,2,"1918N0358","SWAP",,
@@ -365,7 +364,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0364","sicke101",1918,"NY1","D","2B","DP",,2,1,,,,"DPs not shown on Official sheets"
 "1918N0365","sicke101",1918,"NY1","D","3B","G",,25,24,,,,"Official sheets show 25 G at 3B"
 "1918N0366","sicke101",1918,"NY1","D","3B","DP",,2,0,,,,"DPs not shown on Official sheets","Y"
-"1918N0367","smitg104",1918,"NY1","O",,"SO","SLN191807180",0,1,,"IMP",,"Officially, Smith 1-1 with 1 SO"
+"1918N0367","smitg104",1918,"NY1","O",,"SO","SLN191807180",0,1,,"IMP",,"Offcially Smith 1-1 with 1 SO"
 "1918N0368","thorj101",1918,"NY1","D","OF","G",,32,44,,,,"Official sheets show 32 G in OF","Y"
 "1918N0369","thorj101",1918,"NY1","D","OF","LFG","BSN191809021",1,0,"1918N0372",,,,"Y"
 "1918N0370","thorj101",1918,"NY1","D","OF","LFG",,23,2,,,,"Official sheets show 23 LFG","Y"
@@ -381,20 +380,20 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0399","zimmh101",1918,"NY1","D","3B","G","CIN191808170",1,0,,,,"No 3B in game at end"
 "1918N0400","zimmh101",1918,"NY1","D","3B","G",,103,100,,,,"Official sheets show 103 G at 3B"
 "1918N0401","adamb106",1918,"PHI","O",,"BB","PHI191808011",1,0,"1918N0837","PAA",,
-"1918N0402","adamb106",1918,"PHI","O",,"SH","SLN191808190",0,1,"1918N0495","SWAP,PAA",,
+"1918N0402","adamb106",1918,"PHI","O",,"SH","SLN191808190",0,1,"1918N0495","SWAP;PAA",,
 "1918N0404","bancd101",1918,"PHI","O",,"AB","PHI191806041",5,4,,"PAA",,
 "1918N0405","bancd101",1918,"PHI","O",,"AB","PHI191807251",5,4,,"PAA",,
 "1918N0407","bancd101",1918,"PHI","O",,"SO","PHI191807252",1,0,,"OPP",,
 "1918N0408","bancd101",1918,"PHI","O",,"SO","PHI191807260",0,1,,"OPP",,
 "1918N0409","bancd101",1918,"PHI","O",,"SO","PHI191808081",1,0,,"OPP",,
-"1918N0410","bancd101",1918,"PHI","O",,"BB","PHI191807290",3,0,"1918N0436","SWAP,PAA",,
+"1918N0410","bancd101",1918,"PHI","O",,"BB","PHI191807290",3,0,"1918N0436","SWAP;PAA",,
 "1918N0411","bancd101",1918,"PHI","D","SS","DP",,59,58,,,,"DPs not shown on Official sheets"
 "1918N0412","burne101",1918,"PHI","O",,"AB",,183,184,,"ADD",,"Official sheets show 183 AB"
 "1918N0413","cravg101",1918,"PHI","O",,"AB","SLN191807101",3,4,,"PAA",,
 "1918N0414","cravg101",1918,"PHI","O",,"AB","PHI191808311",4,5,,"PAA",,
 "1918N0415","cravg101",1918,"PHI","O",,"SO","PIT191807190",1,0,,"OPP",,
 "1918N0416","cravg101",1918,"PHI","O",,"SO",,44,46,,"ADD",,"Official sheets show 44 SO"
-"1918N0417","cravg101",1918,"PHI","O",,"BB","NY1191806292",0,1,"1918N0454","SWAP,PAA",,
+"1918N0417","cravg101",1918,"PHI","O",,"BB","NY1191806292",0,1,"1918N0454","SWAP;PAA",,
 "1918N0418","cravg101",1918,"PHI","D","OF","LFG","SLN191805130",0,1,"1918N0425","DUP",,,"Y"
 "1918N0419","cravg101",1918,"PHI","D","OF","LFG","SLN191805140",0,1,"1918N0426","DUP",,,"Y"
 "1918N0420","cravg101",1918,"PHI","D","OF","LFG","PIT191805220",1,0,"1918N0427",,,,"Y"
@@ -413,16 +412,14 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0433","dillp101",1918,"PHI","O",,"G","CHN191805190",1,0,"1918N0434",,,
 "1918N0434","dillp101",1918,"PHI","O",,"BB","CHN191805190",1,0,"1918N0450","SWAP",,
 "1918N0435","dillp101",1918,"PHI","D","C","G","NY1191805070",0,1,,,,
-"1918N0436","fitzm102",1918,"PHI","O",,"BB","PHI191807290",0,3,"1918N0410","SWAP,PAA",,
-"1918N0437","fitzm102",1918,"PHI","D","OF","G","SLN191808181",1,0,"1918N0442",,,,"Y"
+"1918N0436","fitzm102",1918,"PHI","O",,"BB","PHI191807290",0,3,"1918N0410","SWAP;PAA",,
 "1918N0438","fitzm102",1918,"PHI","D","OF","G",,27,59,,,,"Official sheets show 27 G in OF","Y"
 "1918N0439","fitzm102",1918,"PHI","D","OF","LFG","CIN191805240",1,0,"1918N0441",,,,"Y"
 "1918N0440","fitzm102",1918,"PHI","D","OF","LFG",,11,34,,,,"Official sheets show 11 LFG","Y"
 "1918N0441","fitzm102",1918,"PHI","D","OF","RFG","CIN191805240",0,1,"1918N0470","DUP",,,"Y"
-"1918N0442","fitzm102",1918,"PHI","D","OF","RFG","SLN191808181",1,0,"1918N0437",,,"No RF in game at end","Y"
-"1918N0443","fitzm102",1918,"PHI","D","OF","RFG",,14,19,,,,"Official sheets show 14 RFG","Y"
+"1918N0443","fitzm102",1918,"PHI","D","OF","RFG",,13,14,,,,,
 "1918N0444","hemie101",1918,"PHI","O",,"AB","SLN191807110",4,3,,"PAA",,
-"1918N0445","hemie101",1918,"PHI","O",,"SH","PIT191807202",0,2,"1918N0500","SWAP,PAA",,
+"1918N0445","hemie101",1918,"PHI","O",,"SH","PIT191807202",0,2,"1918N0500","SWAP;PAA",,
 "1918N0446","hemie101",1918,"PHI","D","2B","G",,27,25,,,,"Official sheets show 27 G at 2B"
 "1918N0447","hemie101",1918,"PHI","D","2B","DP",,9,8,,,,"DPs not shown on Official sheets","Y"
 "1918N0448","jacoe101",1918,"PHI","D","P","DP",,0,1,,,,"DPs not shown on Official sheets","Y"
@@ -430,7 +427,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0450","ludef101",1918,"PHI","O",,"BB","CHN191805190",1,2,"1918N0433","SWAP",,
 "1918N0452","mcgap101",1918,"PHI","D","2B","ERR","PHI191804170",1,0,,,,
 "1918N0453","mcgap101",1918,"PHI","D","2B","DP",,17,19,,,,"DPs not shown on Official sheets","Y"
-"1918N0454","meusi101",1918,"PHI","O",,"BB","NY1191806292",1,0,"1918N0417","SWAP,PAA",,
+"1918N0454","meusi101",1918,"PHI","O",,"BB","NY1191806292",1,0,"1918N0417","SWAP;PAA",,
 "1918N0455","meusi101",1918,"PHI","D","2B","ERR","PHI191809021",0,1,,,,
 "1918N0456","meusi101",1918,"PHI","D","OF","LFG","BRO191805060",0,1,"1918N0475","DUP",,,"Y"
 "1918N0457","meusi101",1918,"PHI","D","OF","LFG","NY1191805070",0,1,"1918N0476","DUP",,,"Y"
@@ -470,18 +467,18 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0491","meusi101",1918,"PHI","D","OF","CFG","CIN191805260",1,0,"1918N0472","DUP",,,"Y"
 "1918N0492","meusi101",1918,"PHI","D","OF","CFG","CIN191805270",1,0,"1918N0473","DUP",,,"Y"
 "1918N0493","meusi101",1918,"PHI","D","OF","CFG",,15,45,,,,"Official sheets show 15 CFG","Y"
-"1918N0494","pearh101",1918,"PHI","O",,"BB","PHI191807272",0,1,,"SWAP,PAA",,
-"1918N0495","pearh101",1918,"PHI","O",,"SH","SLN191808190",1,0,"1918N0402","SWAP,PAA",,
+"1918N0494","pearh101",1918,"PHI","O",,"BB","PHI191807272",0,1,,"SWAP;PAA",,
+"1918N0495","pearh101",1918,"PHI","O",,"SH","SLN191808190",1,0,"1918N0402","SWAP;PAA",,
 "1918N0497","stocm101",1918,"PHI","D","3B","G",,122,123,,,,"Official sheets show 122 G at 3B"
 "1918N0498","stocm101",1918,"PHI","D","3B","DP",,18,16,,,,"DPs not shown on Official sheets","Y"
 "1918N0499","whitp102",1918,"PHI","D","OF","DP",,1,2,,,,"DPs not shown on Official sheets"
-"1918N0500","willc103",1918,"PHI","O",,"SH","PIT191807202",2,0,"1918N0445","SWAP,PAA",,
+"1918N0500","willc103",1918,"PHI","O",,"SH","PIT191807202",2,0,"1918N0445","SWAP;PAA",,
 "1918N0501","willc103",1918,"PHI","O",,"SH","PHI191808301",1,0,"1918N0722","PAA",,
 "1918N0502","willc103",1918,"PHI","D","OF","G",,90,91,,,,"Official sheets show 90 G in OF"
 "1918N0503","willc103",1918,"PHI","D","OF","CFG",,90,91,,,,"Official sheets show 90 CFG","Y"
 "1918N0504","archj102",1918,"PIT","D","C","G",,20,21,,,,"Official sheets show 20 G at C"
 "1918N0505","bigbc101",1918,"PIT","O",,"AB","PHI191808082",5,4,"1918N0557","SWAP",,
-"1918N0506","bigbc101",1918,"PIT","O",,"SH","SLN191806291",1,0,"1918N0520","SWAP,PAA",,
+"1918N0506","bigbc101",1918,"PIT","O",,"SH","SLN191806291",1,0,"1918N0520","SWAP;PAA",,
 "1918N0507","bigbc101",1918,"PIT","D","OF","G",,85,92,,,,"Official sheets show 85 G in OF","Y"
 "1918N0508","bigbc101",1918,"PIT","D","OF","DP",,1,4,,,,"DPs not shown on Official sheets","Y"
 "1918N0509","bigbc101",1918,"PIT","D","OF","LFG","BSN191806110",0,1,"1918N0511",,,,"Y"
@@ -494,11 +491,11 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0516","boonl101",1918,"PIT","D","SS","G","CHN191808112",0,1,"1918N0517",,,"We have Ellam instead of Boone"
 "1918N0517","boonl101",1918,"PIT","D","SS","ERR","CHN191808112",0,1,"1918N0526",,,"We have Ellam instead of Boone"
 "1918N0518","boonl101",1918,"PIT","D","SS","DP",,4,5,,,,"DPs not shown on Official sheets"
-"1918N0520","catoh101",1918,"PIT","O",,"SH","SLN191806291",0,1,"1918N0506","SWAP,PAA",,
+"1918N0520","catoh101",1918,"PIT","O",,"SH","SLN191806291",0,1,"1918N0506","SWAP;PAA",,
 "1918N0521","catoh101",1918,"PIT","D","SS","DP",,38,35,,,,"DPs not shown on Official sheets","Y"
 "1918N0522","coopw101",1918,"PIT","D","P","ERR","SLN191806302",1,0,,,,
 "1918N0523","cutsg101",1918,"PIT","O",,"AB","SLN191806302",5,3,,"PAA",,
-"1918N0524","cutsg101",1918,"PIT","O",,"SH","SLN191806292",0,1,"1918N0549","SWAP,PAA",,
+"1918N0524","cutsg101",1918,"PIT","O",,"SH","SLN191806292",0,1,"1918N0549","SWAP;PAA",,
 "1918N0525","cutsg101",1918,"PIT","D","2B","DP",,62,60,,,,"DPs not shown on Official sheets","Y"
 "1918N0526","ellar101",1918,"PIT","O",,"G","CHN191808112",1,0,"1918N0527",,,"We have Ellam instead of Boone"
 "1918N0527","ellar101",1918,"PIT","O",,"AB","CHN191808112",4,0,"1918N0528",,,"We have Ellam instead of Boone"
@@ -520,30 +517,30 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0543","kingl103",1918,"PIT","D","OF","RFG",,3,4,,,,"Official sheets show 3 RFG","Y"
 "1918N0544","leact101",1918,"PIT","D","OF","G",,22,23,,,,"Official sheets show 22 G in OF"
 "1918N0545","mayee101",1918,"PIT","D","P","DP",,1,2,,,,"DPs not shown on Official sheets","Y"
-"1918N0546","mckeb101",1918,"PIT","O",,"SH","PIT191808100",0,1,"1918N0551","SWAP,PAA",,
+"1918N0546","mckeb101",1918,"PIT","O",,"SH","PIT191808100",0,1,"1918N0551","SWAP;PAA",,
 "1918N0547","mckeb101",1918,"PIT","D","3B","DP",,27,26,,,,"DPs not shown on Official sheets","Y"
 "1918N0548","mollf101",1918,"PIT","O",,"SO","SLN191806280",1,0,"1918N0553","OPP",,
-"1918N0549","mollf101",1918,"PIT","O",,"SH","SLN191806292",1,0,"1918N0524","SWAP,PAA",,
+"1918N0549","mollf101",1918,"PIT","O",,"SH","SLN191806292",1,0,"1918N0524","SWAP;PAA",,
 "1918N0550","mollf101",1918,"PIT","O",,"SH","NY1191807312",1,0,"1918N0772","PAA",,
-"1918N0551","mollf101",1918,"PIT","O",,"SH","PIT191808100",1,0,"1918N0546","SWAP,PAA",,
+"1918N0551","mollf101",1918,"PIT","O",,"SH","PIT191808100",1,0,"1918N0546","SWAP;PAA",,
 "1918N0552","mollf101",1918,"PIT","D","1B","DP",,72,84,,,,"DPs not shown on Official sheets"
 "1918N0553","sandr104",1918,"PIT","O",,"SO","SLN191806280",1,0,"1918N0532","OPP",,
 "1918N0554","sandr104",1918,"PIT","D","P","DP",,4,5,,,,"DPs not shown on Official sheets","Y"
 "1918N0555","schmw102",1918,"PIT","D","C","ERR","SLN191806302",0,1,,,,
 "1918N0556","schmw102",1918,"PIT","D","C","DP",,17,16,,,,"DPs not shown on Official sheets"
-"1918N0557","slapc101",1918,"PIT","O",,"AB","PHI191808082",2,3,"1918N0505","SWAP,PAA",,
+"1918N0557","slapc101",1918,"PIT","O",,"AB","PHI191808082",2,3,"1918N0505","SWAP;PAA",,
 "1918N0558","smitr104",1918,"PIT","D","C","DP",,0,2,,,,"DPs not shown on Official sheets","Y"
-"1918N0559","steeb103",1918,"PIT","O",,"BB","SLN191806301",1,0,,"OPP,PAA",,
+"1918N0559","steeb103",1918,"PIT","O",,"BB","SLN191806301",1,0,,"OPP;PAA",,
 "1918N0560","steeb103",1918,"PIT","D","P","DP",,1,0,,,,"DPs not shown on Official sheets","Y"
 "1918N0561","stenc101",1918,"PIT","D","OF","G",,36,37,,,,"Official sheets show 36 G in OF"
 "1918N0562","stenc101",1918,"PIT","D","OF","RFG",,36,37,,,,"Official sheets show 36 RFG","Y"
 "1918N0563","amesr101",1918,"SLN","O",,"AB","CIN191808100",2,3,,"PAA",,
-"1918N0564","amesr101",1918,"SLN","O",,"SH","SLN191807141",0,1,"1918N0566","SWAP,PAA",,
+"1918N0564","amesr101",1918,"SLN","O",,"SH","SLN191807141",0,1,"1918N0566","SWAP;PAA",,
 "1918N0565","andeg102",1918,"SLN","O",,"SO","PHI191808020",1,0,,"OPP",,
-"1918N0566","baird101",1918,"SLN","O",,"SH","SLN191807141",1,0,"1918N0564","SWAP,PAA",,
+"1918N0566","baird101",1918,"SLN","O",,"SH","SLN191807141",1,0,"1918N0564","SWAP;PAA",,
 "1918N0567","baird101",1918,"SLN","D","3B","DP",,15,12,,,,"DPs not shown on Official sheets","Y"
 "1918N0568","bealj101",1918,"SLN","O",,"AB","SLN191807050",3,4,,"PAA",,
-"1918N0569","bealj101",1918,"SLN","O",,"BB","SLN191807060",0,1,"1918N0643","SWAP,PAA",,
+"1918N0569","bealj101",1918,"SLN","O",,"BB","SLN191807060",0,1,"1918N0643","SWAP;PAA",,
 "1918N0570","bealj101",1918,"SLN","D","OF","G","SLN191807090",0,1,"1918N0574",,,
 "1918N0571","bealj101",1918,"SLN","D","OF","G","SLN191807132",0,1,"1918N0575",,,
 "1918N0572","bealj101",1918,"SLN","D","OF","G","SLN191807142",0,1,"1918N0576",,,
@@ -553,7 +550,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0576","bealj101",1918,"SLN","D","OF","RFG","SLN191807142",0,1,"1918N0572",,,,"Y"
 "1918N0577","bealj101",1918,"SLN","D","OF","RFG","SLN191807160",0,1,"1918N0573",,,,"Y"
 "1918N0578","betzb101",1918,"SLN","O",,"G","SLN191807132",1,0,,,,
-"1918N0579","betzb101",1918,"SLN","O",,"BB","PIT191808291",0,1,"1918N0636","SWAP,PAA",,
+"1918N0579","betzb101",1918,"SLN","O",,"BB","PIT191808291",0,1,"1918N0636","SWAP;PAA",,
 "1918N0580","betzb101",1918,"SLN","D","SS","G","SLN191807110",1,0,,,,"No SS in game at end"
 "1918N0581","betzb101",1918,"SLN","D","3B","G",,32,34,,,,"Official sheets show 32 G at 3B"
 "1918N0582","betzb101",1918,"SLN","D","OF","G",,24,21,,,,"Official sheets show 24 G in OF"
@@ -581,9 +578,8 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0604","cruiw101",1918,"SLN","D","OF","RFG",,16,17,,,,"Official sheets show 16 RFG","Y"
 "1918N0605","doakb101",1918,"SLN","O",,"AB","SLN191807142",1,2,"1918N0617","PAA",,
 "1918N0606","fisht103",1918,"SLN","D","2B","DP",,35,34,,,,"DPs not shown on Official sheets","Y"
-"1918N0607","gonzm101",1918,"SLN","O",,"SO","SLN191807042",0,1,,"OPP",,
 "1918N0608","gonzm101",1918,"SLN","O",,"SO",,29,30,,"ADD",,"Official sheets show 29 SO"
-"1918N0609","gonzm101",1918,"SLN","O",,"BB","SLN191807160",1,0,"1918N0632","SWAP,PAA",,
+"1918N0609","gonzm101",1918,"SLN","O",,"BB","SLN191807160",1,0,"1918N0632","SWAP;PAA",,
 "1918N0610","gonzm101",1918,"SLN","O",,"SH","SLN191807090",1,0,"1918N0686","PAA",,
 "1918N0611","gonzm101",1918,"SLN","D","C","DP",,14,17,,,,"DPs not shown on Official sheets","Y"
 "1918N0612","gonzm101",1918,"SLN","D","1B","G",,3,2,,,,"Official sheets show 3 G at 1B"
@@ -606,18 +602,18 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0629","larmb101",1918,"SLN","O",,"G","SLN191805140",1,0,,,,
 "1918N0630","larmb101",1918,"SLN","D","SS","DP",,1,0,,,,"DPs not shown on Official sheets","Y"
 "1918N0631","may-j102",1918,"SLN","O",,"AB","SLN191806292",0,1,,"PAA",,
-"1918N0632","may-j102",1918,"SLN","O",,"BB","SLN191807160",0,1,"1918N0609","SWAP,PAA",,
+"1918N0632","may-j102",1918,"SLN","O",,"BB","SLN191807160",0,1,"1918N0609","SWAP;PAA",,
 "1918N0633","mchea101",1918,"SLN","O",,"AB","SLN191807041",4,3,,"PAA",,
 "1918N0634","mchea101",1918,"SLN","O",,"AB","SLN191807090",4,3,,"PAA",,
 "1918N0635","mchea101",1918,"SLN","O",,"AB","PHI191808031",4,3,,,,
-"1918N0636","mchea101",1918,"SLN","O",,"BB","PIT191808291",1,0,"1918N0579","SWAP,PAA",,
+"1918N0636","mchea101",1918,"SLN","O",,"BB","PIT191808291",1,0,"1918N0579","SWAP;PAA",,
 "1918N0637","mchea101",1918,"SLN","D","OF","LFG","CIN191809021",0,1,"1918N0640",,,,"Y"
 "1918N0638","mchea101",1918,"SLN","D","OF","LFG","CIN191809022",0,1,"1918N0641",,,,"Y"
 "1918N0639","mchea101",1918,"SLN","D","OF","CFG","CIN191809012",1,0,,,,,"Y"
 "1918N0640","mchea101",1918,"SLN","D","OF","CFG","CIN191809021",1,0,"1918N0624",,,,"Y"
 "1918N0641","mchea101",1918,"SLN","D","OF","CFG","CIN191809022",1,0,"1918N0625",,,,"Y"
 "1918N0642","meadl101",1918,"SLN","O",,"G","SLN191805200",1,0,,,,
-"1918N0643","meadl101",1918,"SLN","O",,"BB","SLN191807060",1,0,"1918N0569","SWAP,PAA",,
+"1918N0643","meadl101",1918,"SLN","O",,"BB","SLN191807060",1,0,"1918N0569","SWAP;PAA",,
 "1918N0644","meadl101",1918,"SLN","D","P","DP",,6,4,,,,"DPs not shown on Official sheets","Y"
 "1918N0645","menzt101",1918,"SLN","O",,"G","SLN191804230",1,0,,,,,"Y"
 "1918N0646","niehb101",1918,"SLN","D","2B","DP",,10,11,,,,"DPs not shown on Official sheets","Y"
@@ -700,7 +696,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0720","rudod101",1918,"BSN","P",,"IP","BSN191809022",9,8,"1918N0721",,,
 "1918N0721","rudod101",1918,"BSN","P",,"H","BSN191809022",5,9,"1918N0723","OPP",,
 "1918N0722","rudod101",1918,"BSN","P",,"SH","PHI191808301",1,0,"1918N0501",,,
-"1918N0723","rudod101",1918,"BSN","P",,"ER","BSN191809022",0,2,"1918N0720","IMP",,"Officially, Rudolph had 1 R and 2 ER"
+"1918N0723","rudod101",1918,"BSN","P",,"ER","BSN191809022",0,2,"1918N0720","IMP",,"Offcially Rudolph had 1 R and 2 ER"
 "1918N0724","aldrv101",1918,"CHN","P",,"IP","SLN191807050",5.1,6,,,,
 "1918N0725","dougp101",1918,"CHN","P",,"IP","BRO191806170",0,0.1,,,,
 "1918N0726","dougp101",1918,"CHN","P",,"IP","SLN191807030",8,9,,,,
@@ -734,7 +730,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0756","andef101",1918,"NY1","P",,"GF",,8,9,,,,"No GF info on Official sheet"
 "1918N0757","causr101",1918,"NY1","P",,"IP","CIN191808150",1,1.2,,,,
 "1918N0758","causr101",1918,"NY1","P",,"IP","CHN191808230",8,9,,,,
-"1918N0759","causr101",1918,"NY1","P",,"BB","NY1191806292",3,0,,"SWAP,OPP",,
+"1918N0759","causr101",1918,"NY1","P",,"BB","NY1191806292",3,0,,"SWAP;OPP",,
 "1918N0760","demaa101",1918,"NY1","P",,"CG",,9,8,,,,"No CG info on Official sheet"
 "1918N0761","demaa101",1918,"NY1","P",,"SO","NY1191806030",1,0,"1918N0776","OPP",,"No pitcher strikeouts or walks reported in game"
 "1918N0762","hoytw101",1918,"NY1","P",,"GF","NY1191807240",1,0,,,,
@@ -755,7 +751,6 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0778","tesrj101",1918,"NY1","P",,"SH","NY1191806030",1,0,,"OPP",,
 "1918N0779","tonef101",1918,"NY1","P",,"H","NY1191808290",5,4,,"OPP",,
 "1918N0780","david102",1918,"PHI","P",,"BB","CHN191805170",2,1,,"OPP",,
-"1918N0781","fortg101",1918,"PHI","P",,"BB","SLN191808181",0,2,,"OPP",,
 "1918N0782","fortg101",1918,"PHI","P",,"H","PHI191808031",9,10,,"OPP",,
 "1918N0783","fortg101",1918,"PHI","P",,"SH","PHI191808302",1,0,"1918N0054",,,
 "1918N0784","hoggb102",1918,"PHI","P",,"IP","BRO191808131",8.2,9,,,,
@@ -768,7 +763,7 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0791","jacoe101",1918,"PHI","P",,"H","NY1191807020",5,0,,,,"No hits allowed reported in game"
 "1918N0792","jacoe101",1918,"PHI","P",,"GF",,4,2,,,,"No GF info on Official sheet"
 "1918N0793","mayee101",1918,"PHI","P",,"IP","PHI191806050",7.2,8.2,,,,
-"1918N0794","oescj101",1918,"PHI","P",,"BB","NY1191806292",0,3,,"SWAP,OPP",,
+"1918N0794","oescj101",1918,"PHI","P",,"BB","NY1191806292",0,3,,"SWAP;OPP",,
 "1918N0795","prenm101",1918,"PHI","P",,"BB","PHI191808031",1,0,,"OPP",,
 "1918N0796","prenm101",1918,"PHI","P",,"SH","PHI191808311",2,1,"1918N0079",,,
 "1918N0797","prenm101",1918,"PHI","P",,"GF",,2,3,,,,"No GF info on Official sheet"
@@ -800,16 +795,14 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0823","steeb103",1918,"PIT","P",,"SO","SLN191806301",2,0,"1918N0824","OPP",,
 "1918N0824","steeb103",1918,"PIT","P",,"BB","SLN191806301",7,0,"1918N0823","OPP",,
 "1918N0825","steeb103",1918,"PIT","P",,"GF",,4,3,,,,"No GF info on Official sheet"
-"1918N0826","amesr101",1918,"SLN","P",,"IP","CIN191808100",6.1,6,"1918N0835",,,
 "1918N0827","amesr101",1918,"SLN","P",,"SO","SLN191807101",3,2,,"OPP",,
-"1918N0828","amesr101",1918,"SLN","P",,"BB","SLN191806221",3,2,"1918N0230",,,
-"1918N0829","amesr101",1918,"SLN","P",,"H","SLN191805210",7,9,,"OPP",,
+"1918N0829","amesr101",1918,"SLN","P",,"H","SLN191805210",8,9,,"OPP",,
 "1918N0830","horso101",1918,"SLN","P",,"GF",,5,4,,,,"No GF info on Official sheet"
 "1918N0831","may-j102",1918,"SLN","P",,"GS",,16,15,,,,"No GS info on Official sheet"
 "1918N0832","may-j102",1918,"SLN","P",,"SO","SLN191805250",3,0,,"OPP",,"No pitcher strikeouts reported in game"
 "1918N0833","may-j102",1918,"SLN","P",,"SH","SLN191805130",1,0,,"OPP",,
 "1918N0834","may-j102",1918,"SLN","P",,"GF",,7,8,,,,"No GF info on Official sheet"
-"1918N0835","meadl101",1918,"SLN","P",,"IP","CIN191808100",2.1,3,"1918N0826",,,
+"1918N0835","meadl101",1918,"SLN","P",,"IP","CIN191808100",2.2,3,,,,
 "1918N0836","meadl101",1918,"SLN","P",,"GS",,22,23,,,,"No GS info on Official sheet"
 "1918N0837","meadl101",1918,"SLN","P",,"BB","PHI191808011",5,4,"1918N0401",,,
 "1918N0838","meadl101",1918,"SLN","P",,"HBP","SLN191807060",0,1,,"OPP",,
@@ -820,7 +813,6 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N0851","nehfa101",1918,"BSN","P",,"BFP","PHI191808311",44,45,,,,
 "1918N0852","nortj102",1918,"BSN","P",,"BFP","CHN191808182",35,36,,,,
 "1918N0853","rudod101",1918,"BSN","P",,"BFP","PHI191808301",33,32,,,,
-"1918N0854","dougp101",1918,"CHN","P",,"BFP","SLN191807030",31,30,,,,
 "1918N0855","luqud101",1918,"CIN","P",,"BFP","CIN191808230",43,34,,,,
 "1918N0856","smitg104",1918,"CIN","P",,"BFP","PHI191806010",35,36,,,,
 "1918N0857","grimb101",1918,"BRO","P",,"BFP","SLN191807060",36,35,,,,
@@ -1067,3 +1059,134 @@ ID,Player,Year,Team,Type,Pos,Cat,Game,Retro,Official,Cross,Code,,Notes,Accepted
 "1918N8200","slapc101",1918,"PIT","P",,"ER","PIT191807050",1,2,,,,
 "1918N8201","slapc101",1918,"PIT","P",,"WP","PIT191807050",0,1,,,,
 "1918N8202","catoh101",1918,"PIT","O",,"SB","SLN191806291",1,0,,,,"W+SB3"
+"1918N9001","mages101",1918,"CIN","D","1B","ERR","SLN191805060",0,1,,,,
+"1918N9002","grohh101",1918,"CIN","D","3B","ERR","SLN191805060",1,0,,,,
+"1918N9003","bresr101",1918,"CIN","P",,"R","SLN191805070",3,2,,,,
+"1918N9004","elleh101",1918,"CIN","P",,"R","SLN191805070",2,3,,,,
+"1918N9005","filld101",1918,"BSN","P",,"ER","BSN191805090",2,1,,,,
+"1918N9006","meadl101",1918,"SLN","P",,"R","CHN191806240",4,3,,,,"IRRR?"
+"1918N9007","meadl101",1918,"SLN","P",,"ER","CHN191806240",2,1,,,,"IRRR?"
+"1918N9008","may-j102",1918,"SLN","P",,"R","CHN191806240",4,5,,,,"IRRR?"
+"1918N9009","may-j102",1918,"SLN","P",,"ER","CHN191806240",4,5,,,,"IRRR?"
+"1918N9010","dougp101",1918,"CHN","P",,"ER","CIN191806270",0,1,,,,
+"1918N9011","may-j102",1918,"SLN","P",,"ER","SLN191807010",2,3,,,,
+"1918N9012","dougp101",1918,"CHN","O",,"H","SLN191807030",0,1,,,,
+"1918N9013","mccab101",1918,"CHN","O",,"AB","SLN191807030",3,2,,,,
+"1918N9014","mccab101",1918,"CHN","O",,"H","SLN191807030",1,0,,,,
+"1918N9015","hornr101",1918,"SLN","O",,"AB","SLN191807030",3,4,,,,
+"1918N9017","packg101",1918,"SLN","P",,"BFP","SLN191807030",32,31,,,,
+"1918N9018","ludef101",1918,"PHI","D","1B","DP","SLN191805140",0,1,,,,
+"1918N9019","mcgap101",1918,"PHI","D","2B","DP","SLN191805140",1,0,,,,
+"1918N9020","betzb101",1918,"SLN","D","2B","ERR","SLN191805140",1,0,,,,
+"1918N9021","cartp101",1918,"CHN","P",,"HR","SLN191807050",1,0,,,,
+"1918N9022","walkr102",1918,"CHN","P",,"HR","SLN191807050",0,1,,,,
+"1918N9023","may-j102",1918,"SLN","P",,"ER","SLN191807050",3,2,,,,
+"1918N9024","rodrj101",1918,"NY1","O",,"H","SLN191805210",2,1,,,,
+"1918N9025","mccal102",1918,"NY1","O",,"AB","SLN191805230",6,5,,,,
+"1918N9026","doakb101",1918,"SLN","P",,"BFP","SLN191805230",21,20,,,,
+"1918N9029","hornr101",1918,"SLN","D","SS","DP","SLN191805270",1,0,,,,
+"1918N9030","paulg102",1918,"SLN","D","1B","DP","SLN191805270",1,0,,,,
+"1918N9031","pickc103",1918,"CHN","D","2B","DP","CHN191808190",2,1,,,,
+"1918N9032","hollc101",1918,"CHN","D","SS","DP","CHN191808190",2,1,,,,
+"1918N9033","merkf101",1918,"CHN","D","1B","DP","CHN191808190",2,1,,,,
+"1918N9034","stocm101",1918,"PHI","O",,"SO","PHI191808032",1,0,,,,
+"1918N9035","hoggb102",1918,"PHI","P",,"ER","PHI191808032",3,5,,,,
+"1918N9036","amesr101",1918,"SLN","P",,"SO","PHI191808032",5,4,,,,
+"1918N9037","betzb101",1918,"SLN","O",,"SB","SLN191808262",1,0,,,,
+"1918N9038","packg101",1918,"SLN","P",,"IP","SLN191808262",5.1,6.1,,,,
+"1918N9039","packg101",1918,"SLN","P",,"WP","SLN191808262",1,0,,,,
+"1918N9040","tuero101",1918,"SLN","P",,"IP","SLN191808262",3.2,2.2,,,,
+"1918N9041","sicke101",1918,"NY1","D","3B","DP","SLN191808262",0,2,,,,
+"1918N9042","zimmh101",1918,"NY1","D","1B","DP","SLN191808262",2,0,,,,
+"1918N9043","smytr101",1918,"SLN","O",,"SB","PHI191806142",2,1,,,,
+"1918N9044","dealc102",1918,"CHN","O",,"SO","CHN191808210",1,0,,,,
+"1918N9045","pickc103",1918,"CHN","O",,"SO","CHN191808210",0,1,,,,
+"1918N9046","schuf102",1918,"NY1","P",,"BFP","CHN191808210",21,20,,,,
+"1918N9047","pearh101",1918,"PHI","D","2B","DP","SLN191808200",0,1,,,,
+"1918N9048","jacoe101",1918,"PHI","D","P","DP","SLN191808200",1,0,,,,
+"1918N9049","mcgap101",1918,"PHI","O",,"SB","PHI191806202",1,0,,,,
+"1918N9050","grohh101",1918,"CIN","O",,"SB","SLN191806210",2,0,,,,
+"1918N9051","smith107",1918,"CIN","O",,"SB","SLN191806210",1,0,,,,
+"1918N9052","wingi101",1918,"CIN","O",,"SB","SLN191806210",0,1,,,,
+"1918N9053","smitg104",1918,"CIN","P",,"SH","SLN191806210",2,3,,,,
+"1918N9054","tonef101",1918,"CIN","P",,"WP","SLN191806210",1,0,,,,
+"1918N9055","kellj105",1918,"BSN","O",,"SB","PHI191808302",1,0,,,,
+"1918N9056","rawlj101",1918,"BSN","O",,"SB","PHI191808302",1,0,,,,
+"1918N9057","wagnb101",1918,"BSN","O",,"H","PHI191808302",2,1,,,,
+"1918N9058","meusi101",1918,"PHI","O",,"AB","PHI191808302",3,4,,,,
+"1918N9059","meusi101",1918,"PHI","O",,"SH","PHI191808302",1,0,,,,
+"1918N9060","ragap101",1918,"BSN","P",,"SH","PHI191808302",3,2,,,,
+"1918N9061","fortg101",1918,"PHI","P",,"H","PHI191808302",12,11,,,,
+"1918N9062","fortg101",1918,"PHI","P",,"WP","PHI191808302",1,0,,,,
+"1918N9063","jacoe101",1918,"PHI","P",,"WP","PHI191808302",1,0,,,,
+"1918N9064","rouse101",1918,"CIN","D","OF","DP","CIN191808230",0,1,,,,
+"1918N9065","grohh101",1918,"CIN","D","3B","DP","CIN191808230",1,0,,,,
+"1918N9067","wingi101",1918,"CIN","O",,"SH","SLN191806221",1,0,,,,
+"1918N9068","baird101",1918,"SLN","O",,"R","SLN191806221",1,2,,,,
+"1918N9069","grimc101",1918,"SLN","O",,"R","SLN191806221",1,0,,,,
+"1918N9070","schnp101",1918,"CIN","P",,"ER","SLN191806221",2,3,,,,
+"1918N9072","amesr101",1918,"SLN","P",,"SH","SLN191806221",2,1,,,,
+"1918N9073","elleh101",1918,"CIN","O",,"G","SLN191806221",1,0,,,,"Courtesy runner"
+"1918N9074","may-j102",1918,"SLN","P",,"BFP","SLN191806222",7,6,,,,
+"1918N9075","sherb101",1918,"SLN","P",,"BFP","SLN191806222",27,28,,,,
+"1918N9076","doakb101",1918,"SLN","P",,"ER","CHN191806230",1,2,,,,
+"1918N9077","ragap101",1918,"BSN","P",,"ER","CHN191808200",3,4,,,,
+"1918N9078","cartp101",1918,"CHN","P",,"ER","CHN191808200",3,4,,,,
+"1918N9079","hendc101",1918,"CHN","P",,"R","CHN191808200",0,1,,,,"IRRR?"
+"1918N9080","hendc101",1918,"CHN","P",,"ER","CHN191808200",0,1,,,,"IRRR?"
+"1918N9081","walkr102",1918,"CHN","P",,"R","CHN191808200",1,0,,,,"IRRR?"
+"1918N9082","walkr102",1918,"CHN","P",,"ER","CHN191808200",1,0,,,,"IRRR?"
+"1918N9083","regam101",1918,"CIN","P",,"ER","CIN191807060",2,1,,,,
+"1918N9084","dougp101",1918,"CHN","P",,"ER","CHN191808310",4,3,,,,
+"1918N9086","prenm101",1918,"PHI","P",,"BFP","CIN191807072",24,23,,,,
+"1918N9087","watsm102",1918,"PHI","P",,"BFP","CIN191807072",13,14,,,,
+"1918N9088","prenm101",1918,"PHI","P",,"ER","SLN191807110",2,1,,,,
+"1918N9089","sherb101",1918,"SLN","P",,"ER","SLN191807110",3,2,,,,
+"1918N9091","willc103",1918,"PHI","O",,"AB","SLN191807132",5,4,,,,
+"1918N9092","may-j102",1918,"SLN","P",,"BFP","SLN191807132",10,9,,,,
+"1918N9093","meadl101",1918,"SLN","P",,"ER","SLN191807132",1,0,,,,
+"1918N9094","zeidr101",1918,"CHN","O",,"SB","CHN191807140",1,0,,,,
+"1918N9095","oescj101",1918,"PHI","P",,"ER","CHN191807140",8,5,,,,
+"1918N9096","murpb102",1918,"BSN","O",,"2B","SLN191807160",1,0,,,,
+"1918N9097","murpb102",1918,"BSN","O",,"3B","SLN191807160",0,1,,,,
+"1918N9098","johnr104",1918,"SLN","P",,"BFP","SLN191807160",5,4,,,,
+"1918N9099","johnr104",1918,"SLN","P",,"H","SLN191807160",2,1,,,,
+"1918N9100","may-j102",1918,"SLN","P",,"BFP","SLN191807160",36,38,,,,
+"1918N9101","may-j102",1918,"SLN","P",,"H","SLN191807160",11,12,,,,
+"1918N9102","ragap101",1918,"BSN","P",,"L","SLN191807160",0,1,,,,
+"1918N9103","rudod101",1918,"BSN","P",,"L","SLN191807160",1,0,,,,
+"1918N9104","blacl101",1918,"CIN","O",,"SO","CIN191807200",1,0,,,,
+"1918N9105","mccal102",1918,"NY1","O",,"SO","SLN191807180",1,0,,,,
+"1918N9106","younr101",1918,"NY1","O",,"SO","SLN191807180",1,0,,,,
+"1918N9107","salls101",1918,"NY1","P",,"ER","SLN191807190",3,4,,,,
+"1918N9108","salls101",1918,"NY1","P",,"BK","SLN191807190",1,0,,,,
+"1918N9109","meadl101",1918,"SLN","P",,"WP","SLN191808140",1,0,,,,
+"1918N9110","doakb101",1918,"SLN","P",,"SH","SLN191807142",2,1,,,,
+"1918N9111","ragap101",1918,"BSN","P",,"ER","SLN191808172",2,1,,,,
+"1918N9112","zimmh101",1918,"NY1","O",,"SO","SLN191807212",1,0,,,,
+"1918N9113","amesr101",1918,"SLN","P",,"ER","SLN191808190",1,0,,,,
+"1918N9114","georl101",1918,"BSN","P",,"ER","CIN191808240",4,3,,,,
+"1918N9115","meadl101",1918,"SLN","P",,"SH","SLN191808222",1,0,,,,
+"1918N9116","tuero101",1918,"SLN","P",,"SH","SLN191808222",0,1,,,,
+"1918N9117","myerh102",1918,"BRO","O",,"SB","NY1191808312",1,0,,,,
+"1918N9118","chenl101",1918,"BRO","P",,"IP","BRO191807311",5,5.1,,,,
+"1918N9119","robed106",1918,"BRO","P",,"IP","BRO191807311",8,7.2,,,,
+"1918N9120","hoggb102",1918,"PHI","P",,"BB","SLN191808181",0,2,,,,
+"1918N9121","ofarb101",1918,"CHN","D","C","PB","CHN191808182",1,0,,,,
+"1918N9122","meadl101",1918,"SLN","P",,"ER","CIN191809011",4,3,,,,
+"1918N9123","magel101",1918,"CIN","D","2B","G","CIN191809022",0,1,,,,
+"1918N9124","mages101",1918,"CIN","D","2B","G","CIN191809022",1,0,,,,
+"1918N9201","ragap101",1918,"BSN","P",,"ER","BSN191807042",0,1,,,,
+"1918N9202","kildp101",1918,"CHN","D","2B","DP","CIN191804230",1,0,,,,
+"1918N9203","merkf101",1918,"CHN","D","1B","DP","CIN191804230",1,0,,,,
+"1918N9204","magel101",1918,"CIN","D","2B","DP","CIN191804230",1,2,,,,
+"1918N9205","mages101",1918,"CIN","D","1B","DP","CIN191804230",1,2,,,,
+"1918N9206","mages101",1918,"CIN","O",,"G","CIN191809022",1,0,,,,
+"1918N9207","mages101",1918,"CIN","O",,"AB","CIN191809022",3,0,,,,
+"1918N9208","magel101",1918,"CIN","O",,"G","CIN191809022",0,1,,,,
+"1918N9209","magel101",1918,"CIN","O",,"AB","CIN191809022",0,3,,,,
+"1918N9210","fitzm102",1918,"PHI","D","OF","G","SLN191808181",0,1,,,,
+"1918N9211","paulg102",1918,"SLN","D","SS","ERR","SLN191807180",0,1,,,,
+"1918N9212","paulg102",1918,"SLN","D","1B","ERR","SLN191807180",1,0,,,,
+"1918N9213","paulg102",1918,"SLN","D","C","ERR","CIN191809011",1,0,,,,
+"1918N9214","paulg102",1918,"SLN","D","1B","ERR","CIN191809011",0,1,,,,

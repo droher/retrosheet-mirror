@@ -3781,7 +3781,8 @@ play,6,1,mages101,??,,S5
 play,6,1,konee101,??,,7
 play,6,1,smitr108,??,,9
 play,6,1,snodf101,??,,SB2
-play,6,1,snodf101,??,,HP
+play,6,1,snodf101,??,,W
+com,"pbp indicated HP, officially recorded as a W"
 play,6,1,gowdh101,??,,7
 play,7,0,doakb101,??,,K
 play,7,0,bescb101,??,,23

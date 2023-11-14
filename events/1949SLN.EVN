@@ -4422,9 +4422,9 @@ info,umphome,balll901
 info,ump1b,barla901
 info,ump2b,(none)
 info,ump3b,barrg901
-info,scorer,"102,208,266,119,276"
-info,translator,"Tom Thress/Smith"
-info,inputter,"David W. Smith"
+info,scorer,"102,208,266,119,276,611"
+info,translator,"Tom Thress/Smith/RWood"
+info,inputter,"David W. Smith/RWood"
 info,inputtime,2014/04/07 12:02PM
 info,howscored,park
 info,pitches,none
@@ -4521,17 +4521,16 @@ play,6,1,riced101,??,,NP
 sub,bakeb101,"Bill Baker",1,8,11
 play,6,1,bakeb101,??,,S7.2-3;1-2
 play,6,1,braza101,??,,6(1)3/GDP
-com,"end of pbp account from Evening Bulletin - rest deduced"
 play,7,0,holls101,??,,NP
 sub,bakeb101,"Bill Baker",1,8,2
-play,7,0,holls101,??,,99
+play,7,0,holls101,??,,8
 play,7,0,jonew101,??,,W
-play,7,0,blatb101,??,,99(1)/FO
-play,7,0,semia101,??,,99
+play,7,0,blatb101,??,,54(1)/FO
+play,7,0,semia101,??,,64(1)/FO
 play,7,1,dierc101,??,,D7
-play,7,1,schor101,??,,99
-play,7,1,musis101,??,,99
-play,7,1,jonen101,??,,S.2-H
+play,7,1,schor101,??,,41.2-3
+play,7,1,musis101,??,,4/P
+play,7,1,jonen101,??,,S.3-H
 play,7,1,slaue101,??,,NP
 sub,riceh102,"Hal Rice",1,5,11
 play,7,1,riceh102,??,,K
@@ -4544,20 +4543,20 @@ play,8,0,trink101,??,,NP
 sub,mille104,"Eddie Miller",0,9,11
 play,8,0,mille104,??,,64(1)3/GDP
 play,8,0,ashbr101,??,,S
-play,8,0,hamng102,??,,99
+play,8,0,hamng102,??,,64(1)/FO
 play,8,1,marim101,??,,NP
 sub,bickc101,"Charlie Bicknell",0,9,1
-play,8,1,marim101,??,,99
+play,8,1,marim101,??,,9
 play,8,1,glavt101,??,,S
 play,8,1,bakeb101,??,,PO1(E1).1-2
-play,8,1,bakeb101,??,,99
-play,8,1,braza101,??,,99
+play,8,1,bakeb101,??,,6/P
+play,8,1,braza101,??,,7
 play,9,0,sisld101,??,,W
-play,9,0,holls101,??,,99(1)/FO
+play,9,0,holls101,??,,64(1)/FO
 play,9,0,jonew101,??,,S.1-2
 play,9,0,blatb101,??,,S/BG.2-3;1-2
 play,9,0,semia101,??,,8/L.3-H
-play,9,0,ennid101,??,,99(1)/FO
+play,9,0,ennid101,??,,64(1)/FO
 data,er,heink101,3
 data,er,trink101,3
 data,er,bickc101,0

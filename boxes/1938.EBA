@@ -23145,10 +23145,10 @@ info,number,2
 info,starttime,0:00PM
 info,daynight,day
 info,usedh,false
-info,umphome,morig101
-info,ump1b,hubbc901
+info,umphome,hubbc901
+info,ump1b,grieb901
 info,ump2b,(none)
-info,ump3b,grieb901
+info,ump3b,morig101
 info,scorer,TSN Box
 info,howscored,unknown
 info,pitches,none
