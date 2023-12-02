@@ -1578,12 +1578,12 @@ play,2,1,hooph101,??,,E4/TH.3-H(RBI);2-H(NR);1-3
 play,2,1,janvh101,??,,7/SF.3-H
 play,2,1,hobld101,??,,FC4.1-2;B-1
 play,2,1,lewid101,??,,D.2-H;1-3
-play,2,1,walkt101,??,,S.2-H;3-H
+play,2,1,walkt101,??,,S.3-H(UR);2-H
 play,2,1,gardl101,??,,NP
 sub,coumf101,"Fritz Coumbe",0,9,1
 presadj,coumf101,1
 play,2,1,gardl101,??,,46(1)/FO
-play,2,1,scote101,??,,T.1-H
+play,2,1,scote101,??,,T.1-H(UR)
 play,2,1,thomp101,??,,NP
 sub,walsj108,"Jimmy Walsh",1,8,11
 play,2,1,walsj108,??,,43
@@ -1651,7 +1651,7 @@ play,9,0,coumf101,??,,NP
 sub,howai101,"Ivon Howard",0,9,11
 play,9,0,howai101,??,,6(1)3/GDP
 data,er,goula101,2
-data,er,mortg101,7
+data,er,mortg101,5
 data,er,coumf101,1
 data,er,maysc101,4
 id,BOS191706060

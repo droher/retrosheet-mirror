@@ -635,9 +635,9 @@ id,BIR194805162
 version,3
 info,inputprogvers,version 7RS(19) of 07/07/92
 info,visteam,IN9
-info,hometeam,BIR 
+info,hometeam,BIR
 info,site,BIR01
-info,date, 194/80/51
+info,date, 1948/05/16
 info,number,2
 info,starttime,0:00PM
 info,daynight,night
@@ -734,9 +734,9 @@ id,BIR194805180
 version,3
 info,inputprogvers,version 7RS(19) of 07/07/92
 info,visteam,IN9
-info,hometeam,BIR 
+info,hometeam,BIR
 info,site,BIR01
-info,date, 194/80/51
+info,date, 1948/05/18
 info,number,0
 info,starttime,0:00PM
 info,daynight,night
@@ -1269,7 +1269,7 @@ id,BIR194806210
 version,3
 info,inputprogvers,version 7RS(19) of 07/07/92
 info,visteam,CAG
-info,hometeam,BIR 
+info,hometeam,BIR
 info,site,BIR01
 info,date,1948/06/21
 info,number,0
@@ -1367,7 +1367,7 @@ id,BIR194806271
 version,3
 info,inputprogvers,version 7RS(19) of 07/07/92
 info,visteam,IN9
-info,hometeam,BIR 
+info,hometeam,BIR
 info,site,BIR01
 info,date,1948/06/27
 info,number,1
@@ -1460,7 +1460,7 @@ id,BIR194806272
 version,3
 info,inputprogvers,version 7RS(19) of 07/07/92
 info,visteam,IN9
-info,hometeam,BIR 
+info,hometeam,BIR
 info,site,BIR01
 info,date,1948/06/27
 info,number,2
@@ -4110,7 +4110,7 @@ stat,bline,blacj103,1,9,1,2,0,1,0,0,0,-1,0,-1,0,1,-1,-1,0,-1,-1,-1
 stat,bline,byrdb101,1,9,2,1,0,0,0,0,0,-1,0,-1,0,0,-1,-1,0,-1,-1,-1
 stat,phline,washj102,9,1,1,0,1,0,0,0,1,0,-1,0,0,-1,0,-1,-1,-1,-1
 stat,phline,byrdb101,9,1,1,0,0,0,0,0,0,0,-1,0,0,-1,0,-1,-1,-1,-1
-stat,prline,gainj102,9,1,0,0,0 
+stat,prline,gainj102,9,1,0,0,0
 stat,dline,marql101,0,1,8,27,1,0,0,0,0,0
 stat,dline,banks101,0,1,6,27,3,5,1,1,0,0
 stat,dline,thurb101,0,1,9,27,1,0,1,0,0,0
@@ -17685,7 +17685,7 @@ stat,pline,hookl101,1,1,6,-1,16,7,-1,-1,0,6,-1,3,-1,-1,0,0,0,0,-1
 stat,pline,cartj101,1,2,6,-1,12,6,-1,-1,0,4,-1,1,-1,-1,0,0,0,0,-1
 stat,pline,goldc101,1,3,6,-1,6,0,-1,-1,0,0,-1,0,-1,-1,0,0,0,0,-1
 stat,pline,willc107,1,4,3,-1,3,0,-1,-1,0,0,-1,0,-1,-1,0,0,0,0,-1
-line,0,1,5,0,4,0,0,0 
+line,0,1,5,0,4,0,0,0
 line,1,0,0,0,6,0,0,0
 stat,tline,0,6,0,0,0
 stat,tline,1,6,0,0,0
@@ -18645,8 +18645,8 @@ stat,dline,hookl101,1,1,1,12,-1,-1,0,0,0,0
 stat,pline,cohej101,0,1,21,-1,27,3,-1,-1,0,2,-1,4,-1,-1,0,0,0,0,-1
 stat,pline,lansw101,1,1,9,-1,14,3,-1,-1,0,1,-1,2,-1,-1,0,0,0,0,-1
 stat,pline,hookl101,1,2,12,-1,13,1,-1,-1,0,1,-1,1,-1,-1,0,0,0,0,-1
-line,0,0,2,0,0,0,0,0 
-line,1,0,1,0,0,0,1,0 
+line,0,0,2,0,0,0,0,0
+line,1,0,1,0,0,0,1,0
 stat,tline,0,4,0,0,0
 stat,tline,1,4,0,0,0
 id,NW2194807160

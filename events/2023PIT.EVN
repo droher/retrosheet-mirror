@@ -896,7 +896,7 @@ play,3,1,heint001,11,BSX,13/G1S-
 play,3,1,bae-j001,32,SBFBB*B,W
 play,3,1,reynb001,00,>C,SB2
 play,3,1,reynb001,22,>C.SFBFFFBFX,5/P5DF/FL
-com,"umpchange,3,ump1b,ballb901"
+com,"umpchange,3,umphome,ballb901"
 com,"umpchange,3,ump1b,mahrn901"
 com,"$Home plate umpire Jerry Layne took a foul ball off his finger."
 com,"1B Umpire Ballou moved to home plate and 2B Umpire Mahrley moved to 1B."
